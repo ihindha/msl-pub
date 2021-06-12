@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>versionsnummer on Mitt Skrivande Liv</title>
+    <link>https://example.com/tags/versionsnummer/</link>
+    <description>Recent content in versionsnummer on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/versionsnummer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Versionnumrering 2</title>
+      <link>https://example.com/post/versionnumrering2/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/versionnumrering2/</guid>
+      <description>
+        
+          &lt;p&gt;Det som jag skrev föra veckan, var inte riktigt så genomtänkt, utan jag har sedan dess vidareutvecklat mitt system så att det faktiskt fungerar mycket bra.&lt;/p&gt;
+&lt;p&gt;För det första, det nya systemet består av tre delar; x.y.htb. där x och y är de olika verkens versionsnummer; h står för den aktuella historiens idnummer; t står för typen av historia och b är det aktuella buildnummret.&lt;/p&gt;
+&lt;h2 id=&#34;de-olika-delarna-av-mitt-skrivande&#34;&gt;De olika delarna av mitt skrivande&lt;/h2&gt;
+&lt;p&gt;Jag är mycket förtjust i att skutta mellan mina olika värdar och för att kunna hålla ordning på allt jag skriver, har jag skapat en kod. En kod som talar om för mig vilken värld en historia tillhör.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Kod&lt;/th&gt;
+&lt;th&gt;Betydelse&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;e&lt;/td&gt;
+&lt;td&gt;Även denna kod är lite speciell, då den inte behandlar någon speciell värld. I stället står den för &lt;em&gt;erotik&lt;/em&gt; då jag samlat dessa till en egen repo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i&lt;/td&gt;
+&lt;td&gt;Den första kod som är assosierad med en specifik värld. I detta fallet är det &lt;em&gt;Ihinða&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;l&lt;/td&gt;
+&lt;td&gt;Denna kod är lite speciell så den egentligen borde varit &lt;em&gt;e&lt;/em&gt;. Detta eftersom världen tillhör den fora tidsresenären &lt;em&gt;Elincia&lt;/em&gt;, men då e ju är upptaget av annat, för det bli &lt;em&gt;l&lt;/em&gt; som i &lt;em&gt;Legenden om Elincia&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;v&lt;/td&gt;
+&lt;td&gt;Denna kod behöver kanske inte någon speciell förklaring, men den står för, den av Sammet inspeirerade världen, &lt;em&gt;Varghamn&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;historienummer&#34;&gt;Historienummer&lt;/h2&gt;
+&lt;p&gt;För att fortsätta, så har alla mina historier ett speciellt idnummer. Varför kommer jag inte ihåg då det är omkring femton år sedan som jag kom på detta system. Men om jag nu ska gissa, så tror jag att det är en idé som jag faktiskt fått från Kalle Anka. (Alla Disneyserier har en identikationskod.)&lt;/p&gt;
+&lt;p&gt;I samband med att jag nu har gjort om mitt versionsnummer, har jag även gjort en översyn av detta system, så att jag har gått från ett system där jag ser exakt när jag kom på ursprungsidén (ex: v2105-01; vilket betyder at det är den första varghamnshistorien vag kom på i maj 2021).&lt;/p&gt;
+&lt;p&gt;Det nya systemet är mycket enklare på så sätt att jag enbart numrerar alla historier i nummerordning i enlighet med den värld den tillhör (ex: samma historia som ovan har enligt det nya systemet idnr v003, vilket betyder att det är den tredje varghamnshistorien jag kommer på).&lt;/p&gt;
+&lt;h2 id=&#34;buildnummer&#34;&gt;Buildnummer&lt;/h2&gt;
+&lt;p&gt;När det kommer till buildsnumret, så kan finns det faktiskt två sätt dessa kan se ut. Dels det första, som enbart består av en bokstavskod och dess nummer.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Kod&lt;/th&gt;
+&lt;th&gt;Betydelse&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a&lt;/td&gt;
+&lt;td&gt;Detta betyder helt enkelt att det enbart är en admin build, d.v.s. jag har utfört något som enbart berör själva repon och inte mina texter.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Den andra typen är lite mer invecklad, då den även innehåller textens idnr, textens typ samt själva buildnummert.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Kod&lt;/th&gt;
+&lt;th&gt;Betydelse&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;n&lt;/td&gt;
+&lt;td&gt;Novell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;r&lt;/td&gt;
+&lt;td&gt;Roman&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Ett lysande exempel på detta är: v001r88, som betyder att är den 88:de builden av varghamnsrepon och att den berör den första varghamnshistorien, som råkar vara en roman.&lt;/p&gt;
+&lt;h3 id=&#34;när-behövs-det-ett-nytt-buildnummer&#34;&gt;När behövs det ett nytt buildnummer?&lt;/h3&gt;
+&lt;p&gt;Det är ju självklart att en uppräkning av buildnummert sker när jag byggt en ny version av någon av mina texter. Vidare bör en uppräkning ske när det hänt något väsentligt med den aktuella texten; jag är kanske klar med en fas av min process.&lt;/p&gt;
+&lt;p&gt;Fast, för att göra det något enklare, varje gång jag sammanför en annan gren med &lt;em&gt;dev&lt;/em&gt; ska det ske en uppräkning.&lt;/p&gt;
+&lt;h2 id=&#34;versionsnumret&#34;&gt;Versionsnumret&lt;/h2&gt;
+&lt;p&gt;Då har vi klarat av h:et (historienummert); t:et (typen) och b:et (själva buildnumret). Så ledes har vi bara x:et och y:et kvar.&lt;/p&gt;
+&lt;p&gt;X:et står för vilken version av den publicerade texten det rör sig om. En opublicerad text har alltid ett x-värde av 0.&lt;/p&gt;
+&lt;p&gt;Y:et sedan är den aktuella versionen av texten inom den aktuella publika versionen. En intressant aspekt av y-numret är att det inte behöver börja på ett, utan kan helt enkelt börja på ett betydligt högre värde där det vanligaste är &lt;em&gt;89&lt;/em&gt;.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Versionnumrering (build)</title>
+      <link>https://example.com/post/versionnumrering-build/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/versionnumrering-build/</guid>
+      <description>
+        
+          &lt;p&gt;Det nuvarande systemet för versionshantering (och då menar jag inte git ;p) har inte riktigt vad jag skulle behöva. Ja, då menar jag inte den delen som visar textens version (x.yy) utan det är själva build numrerigen som inte riktigt fungerar som önskat.&lt;/p&gt;
+&lt;p&gt;Jag har för tillfället bara ett buildnummer som indexeras för hela repon så att olika texter ingår i samma serie. Text A får versionsnummert a.0.95.15. Nästa build jag gör, av en helt annan text, får b.0.94.16 för att sedan åter bygga en version av a: a.0.95.17.&lt;/p&gt;
+&lt;p&gt;Detta blir myscket rörigt och behöäver därför göras om. Samtidigt saknar jag faktiskt enkelheten i mitt gamla trogna system för att numrera mina texter, e1409-01, vilket visar på att det rör sig om den först erotiska historia jag skapade i september 2014.&lt;/p&gt;
+&lt;p&gt;Vad jag behöver är ett system som dels visar på värld (där jag räknar erotik som en värld), dels att historien har ett unikt idnummer, samt att det klat framgår vilket build nummer den aktuella versionen har av den aktuella texten.&lt;/p&gt;
+&lt;p&gt;Därför kan jag tänka mig ett system i stil men: HKB. Där H står för historiens id, K för världskoden och B för buildversionen.&lt;/p&gt;
+&lt;p&gt;Sammantaget medför detta att den senaste buldversionen av legenden om Elincia, t1.0.90.8 skulle få det fullständiga versionsnummret 0.90.1l3 vilket ju betyder att det är det den tredje bulilden av den första historien i Legenden om Elincia världen.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

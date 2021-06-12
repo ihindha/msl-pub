@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>20.04 on Mitt Skrivande Liv</title>
+    <link>https://example.com/tags/20.04/</link>
+    <description>Recent content in 20.04 on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/20.04/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elendiga Servrar</title>
+      <link>https://example.com/post/elendiga-servrar/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/elendiga-servrar/</guid>
+      <description>
+        
+          &lt;p&gt;Under den senaste tiden har jag så smått börjat ersätta min gamla serverpark. Anledningen till detta, är lite olika, men huvudförklaringen är att dess version av ubuntu, 16.04, inte längre får några uppdateringar (eol).&lt;/p&gt;
+&lt;p&gt;Endast i ett fall, ronan min gamla plex server, är anledningen lite annorlunda. Detta eftersom den redan är uppdaterad till 18.04 men är i skriande behov av en större disk.&lt;/p&gt;
+&lt;p&gt;I fallet med min gamla dns server, är det även så att den programvara jag brukar, har så många ändringar att den inte går att enkelt uppdatera till den nya versionen utan att först avinstallera den som redan finns. Men då även denna server kör 16.04 som ett os version, är det ju inte lönt att försöka göra något åt detta problem utan även installera om denna server.&lt;/p&gt;
+&lt;p&gt;Det sagt, då jag nu ändå ska installera om mina servrar, kan jag ju passa på göra ett par små ändringar på annat ställe och då passar det ju utmärkt att helt enkelt skapa ett par nya servrar från grunden, med nya ip-nummer.&lt;/p&gt;
+&lt;h2 id=&#34;de-nya-servrarna&#34;&gt;De nya servrarna&lt;/h2&gt;
+&lt;h3 id=&#34;davis&#34;&gt;Davis&lt;/h3&gt;
+&lt;p&gt;Först ut bland dessa servrar, är ju helt klart den nya dns servern. Denna kommer att köra ubuntu server 20.04 som os och sedan kommer den att använda sen senate versionen av NoTrack.&lt;/p&gt;
+&lt;p&gt;En stor förändring som jag kommer att göra med denna server, är att denna är den enda som kmmmer litta under ipnr 192.168.1.10, vilka kommer vara reserverade för allt sådant som är nödvändigt för att nätverket ska fungera. Såsom router, dns, skrivare, och accesspungter.&lt;/p&gt;
+&lt;p&gt;Av denna anledning kommer den nya dnsservern få 192.168.1.2, vilket för övrigt är den adress som jag hade tilldelat denna funktion innan jag var tvungen att virtualisera den.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Jag harpåbörjat denna men har men stötte på lite patrull då den inte ville fungera som jag tyckte den skulle. Den kom upp och allt detta, men den tog inte emot några som hälst förfrågningar, så jag återgick till den gamla servern för nu.&lt;/p&gt;
+&lt;h3 id=&#34;lorne-192168111&#34;&gt;Lorne (192.168.1.11)&lt;/h3&gt;
+&lt;p&gt;Nästa server ut, är den nya plexservern. Naturligtvis kommer allt innehåll fortfarande att serveras från den stora, fysiska servern, om inte jag skapar fyra nya virtuella diskar för de olika medietyperna (vilket med gott mått borde ta omkring två och en halv tb.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Denna servver har jag inte påbörjat.&lt;/p&gt;
+&lt;h3 id=&#34;chekov-192168112&#34;&gt;Chekov (192.168.1.12)&lt;/h3&gt;
+&lt;p&gt;Detta ska bli min nya gitlab server.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Denna servver har jag inte påbörjat.&lt;/p&gt;
+&lt;h3 id=&#34;weir-19216811&#34;&gt;Weir (192.168.1.1)&lt;/h3&gt;
+&lt;p&gt;Detta ska bli min nya lamp server och köra de fåtalet webbaplikationer som jag använder mig av.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Installationen är påbörjad men ej slutförd. Jag har kommit fram till M-stadiet. Men har tyvärr råkat ut för lite problem med att konfiguera MariaDB som jag vill. Porten är öppnad men jag har inte kommit åt servern överhuvudtaget.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

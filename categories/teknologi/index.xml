@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teknologi on Mitt Skrivande Liv</title>
+    <link>https://example.com/categories/teknologi/</link>
+    <description>Recent content in teknologi on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/teknologi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elendiga Servrar</title>
+      <link>https://example.com/post/elendiga-servrar/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/elendiga-servrar/</guid>
+      <description>
+        
+          &lt;p&gt;Under den senaste tiden har jag så smått börjat ersätta min gamla serverpark. Anledningen till detta, är lite olika, men huvudförklaringen är att dess version av ubuntu, 16.04, inte längre får några uppdateringar (eol).&lt;/p&gt;
+&lt;p&gt;Endast i ett fall, ronan min gamla plex server, är anledningen lite annorlunda. Detta eftersom den redan är uppdaterad till 18.04 men är i skriande behov av en större disk.&lt;/p&gt;
+&lt;p&gt;I fallet med min gamla dns server, är det även så att den programvara jag brukar, har så många ändringar att den inte går att enkelt uppdatera till den nya versionen utan att först avinstallera den som redan finns. Men då även denna server kör 16.04 som ett os version, är det ju inte lönt att försöka göra något åt detta problem utan även installera om denna server.&lt;/p&gt;
+&lt;p&gt;Det sagt, då jag nu ändå ska installera om mina servrar, kan jag ju passa på göra ett par små ändringar på annat ställe och då passar det ju utmärkt att helt enkelt skapa ett par nya servrar från grunden, med nya ip-nummer.&lt;/p&gt;
+&lt;h2 id=&#34;de-nya-servrarna&#34;&gt;De nya servrarna&lt;/h2&gt;
+&lt;h3 id=&#34;davis&#34;&gt;Davis&lt;/h3&gt;
+&lt;p&gt;Först ut bland dessa servrar, är ju helt klart den nya dns servern. Denna kommer att köra ubuntu server 20.04 som os och sedan kommer den att använda sen senate versionen av NoTrack.&lt;/p&gt;
+&lt;p&gt;En stor förändring som jag kommer att göra med denna server, är att denna är den enda som kmmmer litta under ipnr 192.168.1.10, vilka kommer vara reserverade för allt sådant som är nödvändigt för att nätverket ska fungera. Såsom router, dns, skrivare, och accesspungter.&lt;/p&gt;
+&lt;p&gt;Av denna anledning kommer den nya dnsservern få 192.168.1.2, vilket för övrigt är den adress som jag hade tilldelat denna funktion innan jag var tvungen att virtualisera den.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Jag harpåbörjat denna men har men stötte på lite patrull då den inte ville fungera som jag tyckte den skulle. Den kom upp och allt detta, men den tog inte emot några som hälst förfrågningar, så jag återgick till den gamla servern för nu.&lt;/p&gt;
+&lt;h3 id=&#34;lorne-192168111&#34;&gt;Lorne (192.168.1.11)&lt;/h3&gt;
+&lt;p&gt;Nästa server ut, är den nya plexservern. Naturligtvis kommer allt innehåll fortfarande att serveras från den stora, fysiska servern, om inte jag skapar fyra nya virtuella diskar för de olika medietyperna (vilket med gott mått borde ta omkring två och en halv tb.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Denna servver har jag inte påbörjat.&lt;/p&gt;
+&lt;h3 id=&#34;chekov-192168112&#34;&gt;Chekov (192.168.1.12)&lt;/h3&gt;
+&lt;p&gt;Detta ska bli min nya gitlab server.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Denna servver har jag inte påbörjat.&lt;/p&gt;
+&lt;h3 id=&#34;weir-19216811&#34;&gt;Weir (192.168.1.1)&lt;/h3&gt;
+&lt;p&gt;Detta ska bli min nya lamp server och köra de fåtalet webbaplikationer som jag använder mig av.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Installationen är påbörjad men ej slutförd. Jag har kommit fram till M-stadiet. Men har tyvärr råkat ut för lite problem med att konfiguera MariaDB som jag vill. Porten är öppnad men jag har inte kommit åt servern överhuvudtaget.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Versionnumrering (build)</title>
+      <link>https://example.com/post/versionnumrering-build/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/versionnumrering-build/</guid>
+      <description>
+        
+          &lt;p&gt;Det nuvarande systemet för versionshantering (och då menar jag inte git ;p) har inte riktigt vad jag skulle behöva. Ja, då menar jag inte den delen som visar textens version (x.yy) utan det är själva build numrerigen som inte riktigt fungerar som önskat.&lt;/p&gt;
+&lt;p&gt;Jag har för tillfället bara ett buildnummer som indexeras för hela repon så att olika texter ingår i samma serie. Text A får versionsnummert a.0.95.15. Nästa build jag gör, av en helt annan text, får b.0.94.16 för att sedan åter bygga en version av a: a.0.95.17.&lt;/p&gt;
+&lt;p&gt;Detta blir myscket rörigt och behöäver därför göras om. Samtidigt saknar jag faktiskt enkelheten i mitt gamla trogna system för att numrera mina texter, e1409-01, vilket visar på att det rör sig om den först erotiska historia jag skapade i september 2014.&lt;/p&gt;
+&lt;p&gt;Vad jag behöver är ett system som dels visar på värld (där jag räknar erotik som en värld), dels att historien har ett unikt idnummer, samt att det klat framgår vilket build nummer den aktuella versionen har av den aktuella texten.&lt;/p&gt;
+&lt;p&gt;Därför kan jag tänka mig ett system i stil men: HKB. Där H står för historiens id, K för världskoden och B för buildversionen.&lt;/p&gt;
+&lt;p&gt;Sammantaget medför detta att den senaste buldversionen av legenden om Elincia, t1.0.90.8 skulle få det fullständiga versionsnummret 0.90.1l3 vilket ju betyder att det är det den tredje bulilden av den första historien i Legenden om Elincia världen.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

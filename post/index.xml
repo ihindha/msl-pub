@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mitt Skrivande Liv</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Att Sortera Ett Bibliotek</title>
+      <link>https://example.com/post/att-sortera-ett-bibliotek/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/att-sortera-ett-bibliotek/</guid>
+      <description>
+        
+          &lt;p&gt;Att detta är ett hushåll som läser mycket böcker, är ju ett faktum. Att vi dessutom har en möycket stor boksamling, är också säkert. Trots detta, köps det en extrem mängd böcker, till den grad att de helt enkelt svämmar över.&lt;/p&gt;
+&lt;p&gt;Inte så att vi har böcker över hela huset, men nästan ;p Skämt å sido, visst köps det många böcker, men kanske inte riktigt i den mängden.&lt;/p&gt;
+&lt;p&gt;För närvarande är vi mitt uppe i en period då vi sorterar in dessa nyköp, vilket sker omkring två till tre gånger på året. Visst innan dess får vi ju frigöra lite utrymme, vilket Nasse brukar göra lite då och då vi inte ska sortera in böcker.&lt;/p&gt;
+&lt;p&gt;Dessa stackars böckers öde varierar. Allt från att bara sättas i en annan hylla till att slängas. Visst, det är ju synd, men har vi inte plats och absaolut inte kommer att läsa om den igen, så. Naturligtvis skulle vi ju kunna sälja dem på nätet, men detta är för det första mycket arbetsktävande och för det andra, skulle vi i så fall bli tvugna att förvar böckerna, vilket vi ju inte har plats för.&lt;/p&gt;
+&lt;p&gt;När denna gallring är gjord, börjar vi sortera in de nya på det utrymnmet som blivit och eftersom böckerna ska stå i en ordning, efter vårt privata klassificeringssystem, betyder det att vi får börja från början av hyllan och sortera in sådant som språk och litteraturvetenskap för att fortsätta med religion, filosofi och historia.&lt;/p&gt;
+&lt;p&gt;Då det av någon mystisk anledning alltid många böcker som ska in på författarbiografier och självklart en hel dröse med böcker om historia.&lt;/p&gt;
+&lt;p&gt;Alla avdelningar där vanligtvis inte brukar vara så mycket som ska ut, vilket betyder att det blir en förskutning och då det är fler böcker än innan, medför ju att det blir ett överskott på böcker sim ju ska in på nästa hylla. Med andra ord, ett jättejobb.&lt;/p&gt;
+&lt;p&gt;Till detta kom denna gången den totala röra som Nasse lyckades åstakomma när det kom till den, numera enorma avdelningen med Brittisk historia när han sorterade dem för två? tre? gånger sedan. Det var faktiskt ingen ordning på de olika underavdelningarana som saknade minsta tillstymmelse på logisk uppbyggnad.&lt;/p&gt;
+&lt;p&gt;Jag lyckades få till en ganska bra kompremis som vi båda nog ska kunna leva med. Ja, han blev faktiskt mycket nöjd ;)&lt;/p&gt;
+&lt;p&gt;Hur som hälst, vi är nu klara med att sortera in de nya böckerna. Jag har till och med satt ut de hylletiketter som klart och tydligt visar var de olika avdelningarna börjar och slutar och då jag saknade ett par som försvunnit under den tid (läs år) som de inte varit på plats i hyllorna. Detta gällde naturliggtvis framföra allt den engelska historien, då dessa numer inte sämmer överrens med den nya uppställningen.&lt;/p&gt;
+&lt;p&gt;Det sagt, jag har ett par etiketter kvar att skriva, då jag gömde bort dem när jag skrev ut den nya satsen.&lt;/p&gt;
+&lt;p&gt;Sen ska vi ju sortera de stackars utgallrade böckerna och bestämma deras öde.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Elendiga Servrar</title>
+      <link>https://example.com/post/elendiga-servrar/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/elendiga-servrar/</guid>
+      <description>
+        
+          &lt;p&gt;Under den senaste tiden har jag så smått börjat ersätta min gamla serverpark. Anledningen till detta, är lite olika, men huvudförklaringen är att dess version av ubuntu, 16.04, inte längre får några uppdateringar (eol).&lt;/p&gt;
+&lt;p&gt;Endast i ett fall, ronan min gamla plex server, är anledningen lite annorlunda. Detta eftersom den redan är uppdaterad till 18.04 men är i skriande behov av en större disk.&lt;/p&gt;
+&lt;p&gt;I fallet med min gamla dns server, är det även så att den programvara jag brukar, har så många ändringar att den inte går att enkelt uppdatera till den nya versionen utan att först avinstallera den som redan finns. Men då även denna server kör 16.04 som ett os version, är det ju inte lönt att försöka göra något åt detta problem utan även installera om denna server.&lt;/p&gt;
+&lt;p&gt;Det sagt, då jag nu ändå ska installera om mina servrar, kan jag ju passa på göra ett par små ändringar på annat ställe och då passar det ju utmärkt att helt enkelt skapa ett par nya servrar från grunden, med nya ip-nummer.&lt;/p&gt;
+&lt;h2 id=&#34;de-nya-servrarna&#34;&gt;De nya servrarna&lt;/h2&gt;
+&lt;h3 id=&#34;davis&#34;&gt;Davis&lt;/h3&gt;
+&lt;p&gt;Först ut bland dessa servrar, är ju helt klart den nya dns servern. Denna kommer att köra ubuntu server 20.04 som os och sedan kommer den att använda sen senate versionen av NoTrack.&lt;/p&gt;
+&lt;p&gt;En stor förändring som jag kommer att göra med denna server, är att denna är den enda som kmmmer litta under ipnr 192.168.1.10, vilka kommer vara reserverade för allt sådant som är nödvändigt för att nätverket ska fungera. Såsom router, dns, skrivare, och accesspungter.&lt;/p&gt;
+&lt;p&gt;Av denna anledning kommer den nya dnsservern få 192.168.1.2, vilket för övrigt är den adress som jag hade tilldelat denna funktion innan jag var tvungen att virtualisera den.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Jag harpåbörjat denna men har men stötte på lite patrull då den inte ville fungera som jag tyckte den skulle. Den kom upp och allt detta, men den tog inte emot några som hälst förfrågningar, så jag återgick till den gamla servern för nu.&lt;/p&gt;
+&lt;h3 id=&#34;lorne-192168111&#34;&gt;Lorne (192.168.1.11)&lt;/h3&gt;
+&lt;p&gt;Nästa server ut, är den nya plexservern. Naturligtvis kommer allt innehåll fortfarande att serveras från den stora, fysiska servern, om inte jag skapar fyra nya virtuella diskar för de olika medietyperna (vilket med gott mått borde ta omkring två och en halv tb.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Denna servver har jag inte påbörjat.&lt;/p&gt;
+&lt;h3 id=&#34;chekov-192168112&#34;&gt;Chekov (192.168.1.12)&lt;/h3&gt;
+&lt;p&gt;Detta ska bli min nya gitlab server.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Denna servver har jag inte påbörjat.&lt;/p&gt;
+&lt;h3 id=&#34;weir-19216811&#34;&gt;Weir (192.168.1.1)&lt;/h3&gt;
+&lt;p&gt;Detta ska bli min nya lamp server och köra de fåtalet webbaplikationer som jag använder mig av.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Installationen är påbörjad men ej slutförd. Jag har kommit fram till M-stadiet. Men har tyvärr råkat ut för lite problem med att konfiguera MariaDB som jag vill. Porten är öppnad men jag har inte kommit åt servern överhuvudtaget.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Versionnumrering 2</title>
+      <link>https://example.com/post/versionnumrering2/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/versionnumrering2/</guid>
+      <description>
+        
+          &lt;p&gt;Det som jag skrev föra veckan, var inte riktigt så genomtänkt, utan jag har sedan dess vidareutvecklat mitt system så att det faktiskt fungerar mycket bra.&lt;/p&gt;
+&lt;p&gt;För det första, det nya systemet består av tre delar; x.y.htb. där x och y är de olika verkens versionsnummer; h står för den aktuella historiens idnummer; t står för typen av historia och b är det aktuella buildnummret.&lt;/p&gt;
+&lt;h2 id=&#34;de-olika-delarna-av-mitt-skrivande&#34;&gt;De olika delarna av mitt skrivande&lt;/h2&gt;
+&lt;p&gt;Jag är mycket förtjust i att skutta mellan mina olika värdar och för att kunna hålla ordning på allt jag skriver, har jag skapat en kod. En kod som talar om för mig vilken värld en historia tillhör.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Kod&lt;/th&gt;
+&lt;th&gt;Betydelse&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;e&lt;/td&gt;
+&lt;td&gt;Även denna kod är lite speciell, då den inte behandlar någon speciell värld. I stället står den för &lt;em&gt;erotik&lt;/em&gt; då jag samlat dessa till en egen repo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i&lt;/td&gt;
+&lt;td&gt;Den första kod som är assosierad med en specifik värld. I detta fallet är det &lt;em&gt;Ihinða&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;l&lt;/td&gt;
+&lt;td&gt;Denna kod är lite speciell så den egentligen borde varit &lt;em&gt;e&lt;/em&gt;. Detta eftersom världen tillhör den fora tidsresenären &lt;em&gt;Elincia&lt;/em&gt;, men då e ju är upptaget av annat, för det bli &lt;em&gt;l&lt;/em&gt; som i &lt;em&gt;Legenden om Elincia&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;v&lt;/td&gt;
+&lt;td&gt;Denna kod behöver kanske inte någon speciell förklaring, men den står för, den av Sammet inspeirerade världen, &lt;em&gt;Varghamn&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;historienummer&#34;&gt;Historienummer&lt;/h2&gt;
+&lt;p&gt;För att fortsätta, så har alla mina historier ett speciellt idnummer. Varför kommer jag inte ihåg då det är omkring femton år sedan som jag kom på detta system. Men om jag nu ska gissa, så tror jag att det är en idé som jag faktiskt fått från Kalle Anka. (Alla Disneyserier har en identikationskod.)&lt;/p&gt;
+&lt;p&gt;I samband med att jag nu har gjort om mitt versionsnummer, har jag även gjort en översyn av detta system, så att jag har gått från ett system där jag ser exakt när jag kom på ursprungsidén (ex: v2105-01; vilket betyder at det är den första varghamnshistorien vag kom på i maj 2021).&lt;/p&gt;
+&lt;p&gt;Det nya systemet är mycket enklare på så sätt att jag enbart numrerar alla historier i nummerordning i enlighet med den värld den tillhör (ex: samma historia som ovan har enligt det nya systemet idnr v003, vilket betyder att det är den tredje varghamnshistorien jag kommer på).&lt;/p&gt;
+&lt;h2 id=&#34;buildnummer&#34;&gt;Buildnummer&lt;/h2&gt;
+&lt;p&gt;När det kommer till buildsnumret, så kan finns det faktiskt två sätt dessa kan se ut. Dels det första, som enbart består av en bokstavskod och dess nummer.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Kod&lt;/th&gt;
+&lt;th&gt;Betydelse&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a&lt;/td&gt;
+&lt;td&gt;Detta betyder helt enkelt att det enbart är en admin build, d.v.s. jag har utfört något som enbart berör själva repon och inte mina texter.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Den andra typen är lite mer invecklad, då den även innehåller textens idnr, textens typ samt själva buildnummert.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Kod&lt;/th&gt;
+&lt;th&gt;Betydelse&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;n&lt;/td&gt;
+&lt;td&gt;Novell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;r&lt;/td&gt;
+&lt;td&gt;Roman&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Ett lysande exempel på detta är: v001r88, som betyder att är den 88:de builden av varghamnsrepon och att den berör den första varghamnshistorien, som råkar vara en roman.&lt;/p&gt;
+&lt;h3 id=&#34;när-behövs-det-ett-nytt-buildnummer&#34;&gt;När behövs det ett nytt buildnummer?&lt;/h3&gt;
+&lt;p&gt;Det är ju självklart att en uppräkning av buildnummert sker när jag byggt en ny version av någon av mina texter. Vidare bör en uppräkning ske när det hänt något väsentligt med den aktuella texten; jag är kanske klar med en fas av min process.&lt;/p&gt;
+&lt;p&gt;Fast, för att göra det något enklare, varje gång jag sammanför en annan gren med &lt;em&gt;dev&lt;/em&gt; ska det ske en uppräkning.&lt;/p&gt;
+&lt;h2 id=&#34;versionsnumret&#34;&gt;Versionsnumret&lt;/h2&gt;
+&lt;p&gt;Då har vi klarat av h:et (historienummert); t:et (typen) och b:et (själva buildnumret). Så ledes har vi bara x:et och y:et kvar.&lt;/p&gt;
+&lt;p&gt;X:et står för vilken version av den publicerade texten det rör sig om. En opublicerad text har alltid ett x-värde av 0.&lt;/p&gt;
+&lt;p&gt;Y:et sedan är den aktuella versionen av texten inom den aktuella publika versionen. En intressant aspekt av y-numret är att det inte behöver börja på ett, utan kan helt enkelt börja på ett betydligt högre värde där det vanligaste är &lt;em&gt;89&lt;/em&gt;.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Versionnumrering (build)</title>
+      <link>https://example.com/post/versionnumrering-build/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/versionnumrering-build/</guid>
+      <description>
+        
+          &lt;p&gt;Det nuvarande systemet för versionshantering (och då menar jag inte git ;p) har inte riktigt vad jag skulle behöva. Ja, då menar jag inte den delen som visar textens version (x.yy) utan det är själva build numrerigen som inte riktigt fungerar som önskat.&lt;/p&gt;
+&lt;p&gt;Jag har för tillfället bara ett buildnummer som indexeras för hela repon så att olika texter ingår i samma serie. Text A får versionsnummert a.0.95.15. Nästa build jag gör, av en helt annan text, får b.0.94.16 för att sedan åter bygga en version av a: a.0.95.17.&lt;/p&gt;
+&lt;p&gt;Detta blir myscket rörigt och behöäver därför göras om. Samtidigt saknar jag faktiskt enkelheten i mitt gamla trogna system för att numrera mina texter, e1409-01, vilket visar på att det rör sig om den först erotiska historia jag skapade i september 2014.&lt;/p&gt;
+&lt;p&gt;Vad jag behöver är ett system som dels visar på värld (där jag räknar erotik som en värld), dels att historien har ett unikt idnummer, samt att det klat framgår vilket build nummer den aktuella versionen har av den aktuella texten.&lt;/p&gt;
+&lt;p&gt;Därför kan jag tänka mig ett system i stil men: HKB. Där H står för historiens id, K för världskoden och B för buildversionen.&lt;/p&gt;
+&lt;p&gt;Sammantaget medför detta att den senaste buldversionen av legenden om Elincia, t1.0.90.8 skulle få det fullständiga versionsnummret 0.90.1l3 vilket ju betyder att det är det den tredje bulilden av den första historien i Legenden om Elincia världen.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Om namn och karaktärer</title>
+      <link>https://example.com/post/om-namn-och-karaktarer/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/om-namn-och-karaktarer/</guid>
+      <description>
+        
+          &lt;p&gt;I en av hennes senaste videor pratar Kate Cavanaugh om att namnge sina käraktärer och att hon alltid har ett namn som hon alltid använder för sin huvudkaraktär. Detta fick mig att tänka på ett par saker.&lt;/p&gt;
+&lt;p&gt;Hur jag gör och ett par nerslag i andra författares namngivning.&lt;/p&gt;
+&lt;h3 id=&#34;så-hur-gör-jag&#34;&gt;Så hur gör jag?&lt;/h3&gt;
+&lt;p&gt;För det första: Jag använder faktiskt ett namn ganska genomgående för min huvudkäraktär i det mästa jag skriver. &lt;em&gt;Erik.&lt;/em&gt; Eller i de fallen det råkar vara en kvinna i huvudrollen, Erika. Att jag sedan leker med stavningen, så i en historia herter han Erik för att i nästa heta Eric. Dessa namn är inte de slutgiltiga namnen, utan kommer i slutändan bytas ut mot något annat.&lt;/p&gt;
+&lt;p&gt;För de historier som utspelar sig i Ihinða, gäller naturligtvis att namnen ska komma från något av de intärna språken och passa till karraktären.&lt;/p&gt;
+&lt;p&gt;Till detta kommer att det namn som hon tillslut kommer att heta, har någon anknytning till hennes temporära namn. I exemplet med Erika, som för övrigt ju är en feminin version av Erik, som i sin tur betyder &lt;em&gt;ensam härskare, han som härskar.&lt;/em&gt; Den Ihinðiska versionen av namnet är Eroth resp. Ereth med samma betydelse.&lt;/p&gt;
+&lt;h3 id=&#34;ett-par-exempel-på-namngivning&#34;&gt;Ett par exempel på namngivning&lt;/h3&gt;
+&lt;p&gt;För att ta ett per exempel från min bokhylla opch se vilka principer två författare har gjort för att namnge sina karraktärer.&lt;/p&gt;
+&lt;h4 id=&#34;robin-hobb&#34;&gt;Robin Hobb&lt;/h4&gt;
+&lt;p&gt;I sin farseer värld, använder hon ett annorlunda sätt att namnge världens innevånare. Naturligtvis finns det ett antal undantag, men huvudprincipen är att de flästa karraktärer fått namn efter den egenskap som rummerat dess karraktär.&lt;/p&gt;
+&lt;p&gt;Efter dert blivit känt att de sex hertigdömmenas tidigare kronprins, Ridderlig, fått en son, Sonen, utanför äktenskapet vara han tvungen att lämna tronföljden. Till slut kom tronen att gå till hans yngre brors son, Trofast.&lt;/p&gt;
+&lt;p&gt;Vidare är det valnigt med att vissa kvinnor bär namn efter blommor, exempelvis Sonens dotter, Nässla.&lt;/p&gt;
+&lt;h4 id=&#34;sammet&#34;&gt;Sammet&lt;/h4&gt;
+&lt;p&gt;Ja, jag är mycket medveten om att dessa historier inte är redigerade till samma grad som en välredigerad hisrtoria. Trots detta vill jag bara nämna hur han har gjort.&lt;/p&gt;
+&lt;p&gt;Denne skribent tycks arbeta utefter principen att ta ett antal namn som han sedan bara kastar ut över de olika karraktärerna till suned helt utan egentlig plan.&lt;/p&gt;
+&lt;p&gt;Många individer har samma namn som en annan från en helt annan berättelse och då naturligtvis även mellan hans olika världar (åtminstonde hans lågfantasy/thriller).&lt;/p&gt;
+&lt;p&gt;För att ta ett exempel som jag kommer ihåg utan att anstränga min. I hans magnus opus Den där dagen, heter ju Rebeccas yngsta syster, Gwen och hennes styvfar hette John.&lt;/p&gt;
+&lt;p&gt;I den historien (namnet har för tillfället fallit mig ur minnet) i vilken huvudkärraktären och hans hustru är ryska spioner tränade på en skola, en avelstation, ett sammhälle av engelsk organissation som fanns i sibirien. Deras två barn, tvillingar, heter just det, Gwen och Jonh.&lt;/p&gt;
+&lt;p&gt;Sedan ska vi inte trala om alla dessa huvudkärraktärer som alla hetrer Mikael (eller någon variant där av). Bara i Den där dagen, kommer jag på sex individer, om man sedan räknar Niklas, som sedemera har blivit en heders Mikael, eftersom hans mor hade tänkt att han skulle heta det.&lt;/p&gt;
+&lt;p&gt;Då Sammet skriver med glimten i ögat och inte tar sitt skrivande på förstort allvar, var det till och med en av dessa alla Mikael som nämde alla dessa namnar och att han hoppades att han en dag skulle få veta varför.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Omskrivning och utökning</title>
+      <link>https://example.com/post/omskrivning-och-ut%C3%B6kning/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/omskrivning-och-ut%C3%B6kning/</guid>
+      <description>
+        
+          &lt;p&gt;För tillfället är jag mitt inne i en omskrivning av Trälinnan och är just nu inne i en av de delar som blir mycket omarbetat. I den första versionen, tog Erika och c:o vägen runt och genom Storvedens utkant.&lt;/p&gt;
+&lt;p&gt;Jag kom dock på att detta förde dem allt för nära Karl och hans förläning. Därför har jag nu valt att ta vägen genom An Méacaïl, vilket har fört med sig vissa intrecanta effäkter på Erikas bakgrund.&lt;/p&gt;
+&lt;p&gt;Redan i mitt första utkast är mycket nära vän med falakungens yngre syster i en bisats nämner att hon har en mycket bra relation med sin dotterdotters dotterdotter och att hennes dotter tog efter sin fars folk. Med andra ord, jag insinuerar här att Erika är den sagda ättlingen.&lt;/p&gt;
+&lt;p&gt;I dnnna nya version, berättar jag det rakt ut och därtill att hon bott och tränat i An Méacïl.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Liten språkkhistoria</title>
+      <link>https://example.com/post/liten-sprakhistoria/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/liten-sprakhistoria/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;em&gt;Detta inlägg publicerades för första gången på min gamla blogg: 2012-08-08&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;De flesta av Ihinðas språk är släkt med varandra, då de härstammar från det legendariska &lt;em&gt;Gudarnas språk&lt;/em&gt;, &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; vilket är det äldsta språket som existerar och enligt legenden var det detta språk som gudarna talade med &lt;em&gt;Bearncen&lt;/em&gt; i &lt;em&gt;&amp;quot;De Tusentals Salarnas Borg&amp;quot;&lt;/em&gt;, innan världen skapades.&lt;/p&gt;
+&lt;p&gt;Fortfarande enligt legenderna, tog de tre rasernas urfäder emot sitt egna språk, direkt från gudarna. Medan falaornas &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; och människornas &lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; liknade gudarnas språk, var det språk som de gav dvärgarna &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; helt annorlunda.&lt;/p&gt;
+&lt;p&gt;Med tiden kom dessa språk att förändras på samma gång som deras talare förändrades. De olika raserna delades med tiden upp sig och spred sig, delvis med gudarnas hjälp, över en stor yta och därmed kom deras språk att utvecklas åt olika håll så de lika språken uppstod.&lt;/p&gt;
+&lt;p&gt;Det språk som talas av hatets barn, gavs enligt deras legender till dem av Tragon han själv. För att vara ett ondskans språk, är det oerhört vackert och melodiost. &lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Baserat på protoidoerupeiska&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Baserat på keltiska språk, främst galiska och iriska.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Baserat på främst germanska språk samt latin, grekiska och hattiska.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Som är baserat på div. semitiska  språkprinciper såsom att språket är i grund och botten uppbyggt efter principen med tre konsonants rötter, dock med vissa andra språkljud.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Kanske baserat på finska?&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Magi och språk</title>
+      <link>https://example.com/post/magi-och-sprak/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/magi-och-sprak/</guid>
+      <description>
+        
+          &lt;p&gt;*&lt;em&gt;Detta inlägg publicerades för första gången på min gamla blogg: 2011-07-02&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I de flesta fantasyvärldar med magi, fungerar denna med hjälp av trollformler: Ett ord, en  mening eller en gest  som magutövaren säger/utför. Det finns en klar koppling mellan språket och magin.&lt;/p&gt;
+&lt;p&gt;En av de mest lysande exemplen på kopplingen magi &amp;lt;-&amp;gt; språk är förstås &lt;em&gt;Ursula K. Le Guins Earthsea- serie&lt;/em&gt; och de som till viss grad har inspirerats av denna.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; I denna är det det gamla språket som &lt;em&gt;&lt;strong&gt;är&lt;/strong&gt;&lt;/em&gt; magin.&lt;/p&gt;
+&lt;p&gt;Då man inte kan ljuga på detta språk, så om man skulle säga något som inte är sant ändras världen så att det blir sant.&lt;/p&gt;
+&lt;p&gt;En annan, icke lika hårt bunden koppling finns i till exempel &lt;em&gt;J. K. Rowlings Harry Potter-serie&lt;/em&gt;,  i vilken mer verkar som en katalysator som utlöser magin.&lt;/p&gt;
+&lt;p&gt;Den andra modellen är vad jag skulle vilja kalla &lt;em&gt;&amp;quot;tankens magi&amp;quot;&lt;/em&gt; d.v.s. att genom sin tanke öppna sig för magins kraft och därmed utföra den önskade handlingen. &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;hur-ser-det-då-ut-i-ihinða&#34;&gt;Hur ser det då ut i Ihinða?&lt;/h3&gt;
+&lt;p&gt;Jag har valt att ställa till till både den första och den andra modellen. Om vi börjar med den mänskliga magin, så fungerar den precis som i Harry Potter, d.v.s. man har ett språk som fungerar som en katalysator. Men vilket språk?&lt;/p&gt;
+&lt;p&gt;Inga språk som jag hittills skapat, fungerar så bra. Málos - språket är för ungt. Inte ens någon form urvästspråk (baserat på protogermanska) vore att föredra då det inte förklarar hur de östra språken har fått tag på sin magi och tvärt om&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; ...&lt;/p&gt;
+&lt;p&gt;Således behövs ytterligare en språkgrupp, en betydligt äldre som både &lt;em&gt;&lt;strong&gt;Lingua och Málos&lt;/strong&gt;&lt;/em&gt; kan ha som bakgrund och vara människornas urspråk (eg. &lt;em&gt;protomänniskospråk&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;I alla fall, människornas magiutövning är sedan mycket tidigt indelat i olika grupper. &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; Dessa &amp;quot;skolor&amp;quot; är något i stil med &lt;em&gt;Animism, Elementarmagi, Hamonism, Mentalism&lt;/em&gt; sant den med Tragon så  hårt förknippade &lt;em&gt;Nekromanti&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Det sätt som dvärgarna utövar magi är även det begränsande, om än ej i språkligt hänseende, då den utövas genom deras händers arbete. De är nämligen mästare på att smida magiska föremål.&lt;/p&gt;
+&lt;p&gt;Den magiform som ligger närmast den rena gudakraften, är den rena magin, Alvernas. &lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; De kan nämligen utnyttja den rena kraft av magi &lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; direkt med sitt sinne (Ja, all magiutövning utsår från sinnet, det är bara det att Fala kan göra det utan att ta omvägen över språket, händers arbete etc.) även om de faktiskt kan gå denna omväg.&lt;/p&gt;
+&lt;p&gt;I vilket fall, kan bara alver och deras arvtagare, ((de bland de övriga raserna som är av falablod)) så som t.ex. &lt;em&gt;Månätten&lt;/em&gt; och &lt;em&gt;svansens folk&lt;/em&gt;. &lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;noter&#34;&gt;Noter&lt;/h2&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;em&gt;Erik Granströms kunflusvärld (Trakonien/Altor)&lt;/em&gt; och &lt;em&gt;Christopher Paolinis Eragon-serie&lt;/em&gt; som mest lysande exempel.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Vad jag vill minnas, t.ex. &lt;em&gt;Robin Hobbs The Realm of the Elderlings&lt;/em&gt;-värld.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Dessutom är det så att enl. vissa lärde hävdar att folket som sedan skulle grunda Imper Flumus ursprungligen inte kommer från Eürið, utan från en annan kontinent. Det utesluter även Lingua...&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Eg. skolor av rollspels (EDoD) snitt.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Ja, fala om det skall vara så petigt...&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;They can tap into the pure force of magic - bättre översättning tack!&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Detta folk kan utnyttja den rena magin, men om de har något falablod i sina ådror är höljt i dunkel...&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://example.com/post/hello-world/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/hello-world/</guid>
+      <description>
+        
+          &lt;p&gt;Jag har beslutat mig för att helt enkelt börja om med min blogg. Ny plattform, ny statrt. Nu kan tyckas, att det är vansinne att kasta bört dryga tretton års blogg.&lt;/p&gt;
+&lt;p&gt;Jag ser det inte så. För det första, jag kommer inte att slänga bört någoting. Det gamla innehållet kommer fortfarande ligga kvar i sitt arkiv.&lt;/p&gt;
+&lt;p&gt;För det andra, jag kommer återpublicera många av mina gamla inlägg här, blandat med lite nya tankar.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

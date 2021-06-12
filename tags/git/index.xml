@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Mitt Skrivande Liv</title>
+    <link>https://example.com/tags/git/</link>
+    <description>Recent content in git on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Versionnumrering (build)</title>
+      <link>https://example.com/post/versionnumrering-build/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/versionnumrering-build/</guid>
+      <description>
+        
+          &lt;p&gt;Det nuvarande systemet för versionshantering (och då menar jag inte git ;p) har inte riktigt vad jag skulle behöva. Ja, då menar jag inte den delen som visar textens version (x.yy) utan det är själva build numrerigen som inte riktigt fungerar som önskat.&lt;/p&gt;
+&lt;p&gt;Jag har för tillfället bara ett buildnummer som indexeras för hela repon så att olika texter ingår i samma serie. Text A får versionsnummert a.0.95.15. Nästa build jag gör, av en helt annan text, får b.0.94.16 för att sedan åter bygga en version av a: a.0.95.17.&lt;/p&gt;
+&lt;p&gt;Detta blir myscket rörigt och behöäver därför göras om. Samtidigt saknar jag faktiskt enkelheten i mitt gamla trogna system för att numrera mina texter, e1409-01, vilket visar på att det rör sig om den först erotiska historia jag skapade i september 2014.&lt;/p&gt;
+&lt;p&gt;Vad jag behöver är ett system som dels visar på värld (där jag räknar erotik som en värld), dels att historien har ett unikt idnummer, samt att det klat framgår vilket build nummer den aktuella versionen har av den aktuella texten.&lt;/p&gt;
+&lt;p&gt;Därför kan jag tänka mig ett system i stil men: HKB. Där H står för historiens id, K för världskoden och B för buildversionen.&lt;/p&gt;
+&lt;p&gt;Sammantaget medför detta att den senaste buldversionen av legenden om Elincia, t1.0.90.8 skulle få det fullständiga versionsnummret 0.90.1l3 vilket ju betyder att det är det den tredje bulilden av den första historien i Legenden om Elincia världen.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
