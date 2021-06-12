@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>20.04 on Mitt Skrivande Liv</title>
-    <link>https://hardcore-booth-049cc4.netlify.app/tags/20.04/</link>
+    <link>https://msl.chle.se/tags/20.04/</link>
     <description>Recent content in 20.04 on Mitt Skrivande Liv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hardcore-booth-049cc4.netlify.app/tags/20.04/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/tags/20.04/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elendiga Servrar</title>
-      <link>https://hardcore-booth-049cc4.netlify.app/post/elendiga-servrar/</link>
+      <link>https://msl.chle.se/post/elendiga-servrar/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hardcore-booth-049cc4.netlify.app/post/elendiga-servrar/</guid>
+      <guid>https://msl.chle.se/post/elendiga-servrar/</guid>
       <description>
         
           &lt;p&gt;Under den senaste tiden har jag så smått börjat ersätta min gamla serverpark. Anledningen till detta, är lite olika, men huvudförklaringen är att dess version av ubuntu, 16.04, inte längre får några uppdateringar (eol).&lt;/p&gt;

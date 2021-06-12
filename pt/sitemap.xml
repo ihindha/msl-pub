@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hardcore-booth-049cc4.netlify.app/pt/categories/</loc>
+    <loc>https://msl.chle.se/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://hardcore-booth-049cc4.netlify.app/categories/"
+                href="https://msl.chle.se/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hardcore-booth-049cc4.netlify.app/en/categories/"
+                href="https://msl.chle.se/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hardcore-booth-049cc4.netlify.app/pt/categories/"
+                href="https://msl.chle.se/pt/categories/"
                 />
   </url><url>
-    <loc>https://hardcore-booth-049cc4.netlify.app/pt/</loc>
+    <loc>https://msl.chle.se/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://hardcore-booth-049cc4.netlify.app/"
+                href="https://msl.chle.se/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hardcore-booth-049cc4.netlify.app/en/"
+                href="https://msl.chle.se/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hardcore-booth-049cc4.netlify.app/pt/"
+                href="https://msl.chle.se/pt/"
                 />
   </url><url>
-    <loc>https://hardcore-booth-049cc4.netlify.app/pt/series/</loc>
+    <loc>https://msl.chle.se/pt/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://hardcore-booth-049cc4.netlify.app/series/"
+                href="https://msl.chle.se/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hardcore-booth-049cc4.netlify.app/en/series/"
+                href="https://msl.chle.se/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hardcore-booth-049cc4.netlify.app/pt/series/"
+                href="https://msl.chle.se/pt/series/"
                 />
   </url><url>
-    <loc>https://hardcore-booth-049cc4.netlify.app/pt/tags/</loc>
+    <loc>https://msl.chle.se/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://hardcore-booth-049cc4.netlify.app/tags/"
+                href="https://msl.chle.se/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hardcore-booth-049cc4.netlify.app/en/tags/"
+                href="https://msl.chle.se/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hardcore-booth-049cc4.netlify.app/pt/tags/"
+                href="https://msl.chle.se/pt/tags/"
                 />
   </url>
 </urlset>
