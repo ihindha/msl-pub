@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>textredigering on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/categories/textredigering/</link>
+    <description>Recent content in textredigering on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/categories/textredigering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zettlr</title>
+      <link>https://msl.chle.se/post/zettlr/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://msl.chle.se/post/zettlr/</guid>
+      <description>
+        
+          &lt;p&gt;Som jag skrev för ett par år sedan&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, skriver jag mina texter i Markdown. Den stora fördelen med detta är att man kan koncentrera sig på texten och låta bli att ideligen pilla på dokumentets formatering.&lt;/p&gt;
+&lt;p&gt;Naturligtvis går det alldeles utmärkt att skriva i vilken enkel texteditor som helst. Naturligtvis har jag använt en texteditor att skriva med. I det fallet har man inget stöd för sina markdown koder.&lt;/p&gt;
+&lt;p&gt;Av denna anledning, är det en god ide att använda sig av en dedikerad markdown editor såsom Ghostwrite&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, Typora eller just Zettlr&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. Jag har antänt de alla, med undantag Ghoustwrite, och har egentligen inget emot Typora. Ja, förutom att det inte är en fri mjukvara och därmed kommer att kosta pengar så fort deras, ovanligt långa, beta testning är över.&lt;/p&gt;
+&lt;p&gt;Det sagt, det finns faktiskt en funktion som jag använder Typora till. Stavningskontroll. Tyvärr saknar Zettlr svensk stavning, ja det saknas svenskt språkstöd över huvudet taget, och jag får inte de ordlistor jag har att fungera. Och ja, enligt alla instruktioner, ska de fungera.&lt;/p&gt;
+&lt;h5 id=&#34;nötter&#34;&gt;Nötter&lt;/h5&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I ett inlägg från november 2017, &lt;a href=&#34;https://ihinda.wordpress.com/2017/11/12/forfattande-som-programutvackling/&#34;&gt;Författande som programutväckling&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://wereturtle.github.io/ghostwriter/&#34;&gt;Ghostwriter&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://zettlr.com/&#34;&gt;Zettlr&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calibre on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/tags/calibre/</link>
+    <description>Recent content in Calibre on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/tags/calibre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mina Program 2</title>
+      <link>https://msl.chle.se/post/mina-program-2/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://msl.chle.se/post/mina-program-2/</guid>
+      <description>
+        
+          &lt;p&gt;I denna andra delen av vilka program jag har fästa på min programlist (dock), och denna gången börjar vi från början av listan.&lt;/p&gt;
+&lt;p&gt;Som jag sa i del ett, antänder jag KDE Plasma som skrivbordsmiljö. Vad jag glömde, var att säga är hur jag har lagg upp det med teman osv. När det gäller just tama, har jag faktiskt försökt efterlikna MacOS så mycket som möjligt. Så vad ha jag då på min programlist?&lt;/p&gt;
+&lt;p&gt;Längst till vänster har jag en liten startmeny. Därefter finns Plasmas standard filhanterare, Dolphine. En bra och enkel, men ändå inte tandlös filhanterare.&lt;/p&gt;
+&lt;p&gt;Därefter finns min andra filhanterare, Krusader. Nu kan man ju fråga sig varför man behöver två filhanterare. Svaret är mycket enkelt, Krusader är en extremt kraftig filhanterare, byggd för att vara en gui version den klassiska midnigt comander. Med andra ord, den är uppbyggd på två spalter i vilken alla filer i aktuella kataloger listas. Har även en hel del verktyg inbyggda, såsom filvisare och textredigerare.&lt;/p&gt;
+&lt;p&gt;Nästa två appar är egentligen inget att prata om. Plasmas Systemövervakare och dess systeminställningar.&lt;/p&gt;
+&lt;p&gt;Därmed lämnar vi första gruppen och kommer in på de mina webbläsare och här får jag hänvisa till del ett. Det ända jag glömde var att säga att även om jag använder mig av gmail som leverantör för min epost, använder jag en dedikerad epost klient, nämligen Thunderbird.&lt;/p&gt;
+&lt;p&gt;Nästa grupp innehåller de appar jag använder i mitt skrivande och kommer att beskrivas i den tredje delen på lördag.&lt;/p&gt;
+&lt;p&gt;Då återstår bara de tre sista apparna, varav den första är Spotifys skrivbordsklient och behöver inte någon närmare precentation.&lt;/p&gt;
+&lt;p&gt;Därefter har jag fäst Calibre, ett program för att bygga upp ett bibliotek med eböcker. Eböcker i alla de mest konstiga och obskyra format. Så länge de saknar DRM förstås. Jag har byggt upp en ganska stor samling med böcker i  mitt huvudbibliotek. Detta har jag ordnat snyggt med många uppgifter om varje bok. Det andra är ett bibliotek i vilket jag bara snabbt slänter in mina nyförvärv i väntan på att jag ska få tid att lätta över dem i det andra.&lt;/p&gt;
+&lt;p&gt;Förutom möjligheten att bygga upp sina samlingar, ger Calibre även den fördelen att man som sagt enkelt kan konvertera böckerna till det forrmat man önskar / kann läsa sina böcker i. Därutöver har det en inbyggd läsapp, som faktiskt är ganska bra. Framför allt då den klarar att läsa de flesta förmasten man slänger i dess väg.&lt;/p&gt;
+&lt;p&gt;Annars har jag även den sista appen, Foliate, att använda för detta ändamål.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

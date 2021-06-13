@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foliant on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/tags/foliant/</link>
+    <description>Recent content in Foliant on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/tags/foliant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mina Program 3</title>
+      <link>https://msl.chle.se/post/mina-program-3/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://msl.chle.se/post/mina-program-3/</guid>
+      <description>
+        
+          &lt;p&gt;Då tar vi en liten paus från NaNo:andet och fortsätter med miniserien om vilka program jag använder.&lt;/p&gt;
+&lt;p&gt;Till att börja med, vilken av alla program använder jag för att skriva? Då jag ju skriver i markdown, skulle jag ju kunna använda vilken textredigerare som helst. Dock tycker jag att det är lättare att använda en dedikerat editor för just markdown. Det finns ett par stora sådana får diverse plattformar, men för linux finns det egentligen bara två att tala om. &lt;em&gt;Typora&lt;/em&gt; och &lt;em&gt;Zettlr&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Av dessa befinner sig Typora fortfarande i ett beta-limbo som det tydligen har mycket svårt för att lämna, Kanske har det att göra med dess status som icke fri mjukvara och att det, så fort det lämnar sitt limbo, kommer kosta pengar att använda. Trots detta, har de byggt upp ett ganska stort ekosystem med olika teman. Jag har det faktiskt installerat, även om jag inte använder det till att skriva, utan enbart till det det är bättre än Zettlr. Stavningskontroll.&lt;/p&gt;
+&lt;p&gt;En av de saker jag faktiskt saknar i min &amp;quot;dagskörare&amp;quot;, Zettler, är just dess brist på svenskt språkstöd. I övrigt finner jag den nästa vara helt perfekt för mitt behov. Att det dessutom är öppen källkod, gör det ju inte sämra. Dessutom finns stöd för lite fler funktioner som inriktar sig mot att skriva akademiska texter, såsom att kunna länka till andra dokument inom samma arkiv och att det finns inbyggt stöd för referenser med hjälp av en BibTex fil.&lt;/p&gt;
+&lt;p&gt;Nästa app, &lt;em&gt;Visual Studio Code&lt;/em&gt;, min kodeditor/texteditor. Jag är så gammal att jag kommer ihåg en tid då Microsoft avskydde öppen källkod till den grad att dess dåvarande småtokige vd, till och med kallade Linux för en cansersvulst. Det var tider det! Nåja, VS Code är faktiskt en mycket bra editor med stora expansionsmöjligheter så den bygger på &lt;em&gt;electron&lt;/em&gt;, som går till baka på Githubs egna editor, Atom, och dess kodmotor, och är därför skrivna i javascript, html, och css.&lt;/p&gt;
+&lt;p&gt;Jag har använt Atom ett mycket långt tag, men någon gång på vägen bytte jag även om jag inte kommer ihåg när eller varför just nu.&lt;/p&gt;
+&lt;p&gt;För mitt behov att ta antecknintgar om det jag forskar fram, har jag, mycket tack vare Zettlr, börjat använda Zettelkasten metoden. Att skriva korta men konsisa anteckningar som man sedan länkar samman till den helhet. Visst kan man vända Zettlr till detta men jag har kommit fram till att det är bättre att ha en dedikerad app för just detta ändamål och då använder jag &lt;em&gt;Obsidian&lt;/em&gt;. Den har lite fler möjligheter till att koppla samman sina anteckningar och få se hur de är länkade.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Zotero&lt;/em&gt; är ett program för att hantera sina referenser på ett enkelt sätt. Du skriver in din källa och beskriver den så noga du kan och sedan skapar appen de referenser du behöver. Smidigt. Finns även en utökning som ger dig möjlighet att koppla samman det med Zettlr.&lt;/p&gt;
+&lt;p&gt;För att läsa och notera PDF filer använder jag &lt;em&gt;Okular&lt;/em&gt;, som dels är Plasmas standard att för läsning av elektroniska dokument. Dels finns för de flesta andra plattformar.&lt;/p&gt;
+&lt;p&gt;Det andra programmet jag använder för att läsa och anteckna i boken, &lt;em&gt;Foliant&lt;/em&gt;, är för de böcker som jag har i Epub format.&lt;/p&gt;
+&lt;p&gt;Den sista appen som jag ska nämna, är &lt;em&gt;Timeline&lt;/em&gt;, en app för att skapa just det, tidslinjer. Det är mycket noga att man inte har en omöjlig tidslinje i sin bok. Denna app ger dig en möjlighet att få en överblick så att du inte gör detta misstag.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

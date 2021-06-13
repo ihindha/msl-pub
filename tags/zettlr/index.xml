@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zettlr on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/tags/zettlr/</link>
+    <description>Recent content in Zettlr on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/tags/zettlr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mina Program 3</title>
+      <link>https://msl.chle.se/post/mina-program-3/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://msl.chle.se/post/mina-program-3/</guid>
+      <description>
+        
+          &lt;p&gt;Då tar vi en liten paus från NaNo:andet och fortsätter med miniserien om vilka program jag använder.&lt;/p&gt;
+&lt;p&gt;Till att börja med, vilken av alla program använder jag för att skriva? Då jag ju skriver i markdown, skulle jag ju kunna använda vilken textredigerare som helst. Dock tycker jag att det är lättare att använda en dedikerat editor för just markdown. Det finns ett par stora sådana får diverse plattformar, men för linux finns det egentligen bara två att tala om. &lt;em&gt;Typora&lt;/em&gt; och &lt;em&gt;Zettlr&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Av dessa befinner sig Typora fortfarande i ett beta-limbo som det tydligen har mycket svårt för att lämna, Kanske har det att göra med dess status som icke fri mjukvara och att det, så fort det lämnar sitt limbo, kommer kosta pengar att använda. Trots detta, har de byggt upp ett ganska stort ekosystem med olika teman. Jag har det faktiskt installerat, även om jag inte använder det till att skriva, utan enbart till det det är bättre än Zettlr. Stavningskontroll.&lt;/p&gt;
+&lt;p&gt;En av de saker jag faktiskt saknar i min &amp;quot;dagskörare&amp;quot;, Zettler, är just dess brist på svenskt språkstöd. I övrigt finner jag den nästa vara helt perfekt för mitt behov. Att det dessutom är öppen källkod, gör det ju inte sämra. Dessutom finns stöd för lite fler funktioner som inriktar sig mot att skriva akademiska texter, såsom att kunna länka till andra dokument inom samma arkiv och att det finns inbyggt stöd för referenser med hjälp av en BibTex fil.&lt;/p&gt;
+&lt;p&gt;Nästa app, &lt;em&gt;Visual Studio Code&lt;/em&gt;, min kodeditor/texteditor. Jag är så gammal att jag kommer ihåg en tid då Microsoft avskydde öppen källkod till den grad att dess dåvarande småtokige vd, till och med kallade Linux för en cansersvulst. Det var tider det! Nåja, VS Code är faktiskt en mycket bra editor med stora expansionsmöjligheter så den bygger på &lt;em&gt;electron&lt;/em&gt;, som går till baka på Githubs egna editor, Atom, och dess kodmotor, och är därför skrivna i javascript, html, och css.&lt;/p&gt;
+&lt;p&gt;Jag har använt Atom ett mycket långt tag, men någon gång på vägen bytte jag även om jag inte kommer ihåg när eller varför just nu.&lt;/p&gt;
+&lt;p&gt;För mitt behov att ta antecknintgar om det jag forskar fram, har jag, mycket tack vare Zettlr, börjat använda Zettelkasten metoden. Att skriva korta men konsisa anteckningar som man sedan länkar samman till den helhet. Visst kan man vända Zettlr till detta men jag har kommit fram till att det är bättre att ha en dedikerad app för just detta ändamål och då använder jag &lt;em&gt;Obsidian&lt;/em&gt;. Den har lite fler möjligheter till att koppla samman sina anteckningar och få se hur de är länkade.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Zotero&lt;/em&gt; är ett program för att hantera sina referenser på ett enkelt sätt. Du skriver in din källa och beskriver den så noga du kan och sedan skapar appen de referenser du behöver. Smidigt. Finns även en utökning som ger dig möjlighet att koppla samman det med Zettlr.&lt;/p&gt;
+&lt;p&gt;För att läsa och notera PDF filer använder jag &lt;em&gt;Okular&lt;/em&gt;, som dels är Plasmas standard att för läsning av elektroniska dokument. Dels finns för de flesta andra plattformar.&lt;/p&gt;
+&lt;p&gt;Det andra programmet jag använder för att läsa och anteckna i boken, &lt;em&gt;Foliant&lt;/em&gt;, är för de böcker som jag har i Epub format.&lt;/p&gt;
+&lt;p&gt;Den sista appen som jag ska nämna, är &lt;em&gt;Timeline&lt;/em&gt;, en app för att skapa just det, tidslinjer. Det är mycket noga att man inte har en omöjlig tidslinje i sin bok. Denna app ger dig en möjlighet att få en överblick så att du inte gör detta misstag.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Zettlr</title>
+      <link>https://msl.chle.se/post/zettlr/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://msl.chle.se/post/zettlr/</guid>
+      <description>
+        
+          &lt;p&gt;Som jag skrev för ett par år sedan&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, skriver jag mina texter i Markdown. Den stora fördelen med detta är att man kan koncentrera sig på texten och låta bli att ideligen pilla på dokumentets formatering.&lt;/p&gt;
+&lt;p&gt;Naturligtvis går det alldeles utmärkt att skriva i vilken enkel texteditor som helst. Naturligtvis har jag använt en texteditor att skriva med. I det fallet har man inget stöd för sina markdown koder.&lt;/p&gt;
+&lt;p&gt;Av denna anledning, är det en god ide att använda sig av en dedikerad markdown editor såsom Ghostwrite&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, Typora eller just Zettlr&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. Jag har antänt de alla, med undantag Ghoustwrite, och har egentligen inget emot Typora. Ja, förutom att det inte är en fri mjukvara och därmed kommer att kosta pengar så fort deras, ovanligt långa, beta testning är över.&lt;/p&gt;
+&lt;p&gt;Det sagt, det finns faktiskt en funktion som jag använder Typora till. Stavningskontroll. Tyvärr saknar Zettlr svensk stavning, ja det saknas svenskt språkstöd över huvudet taget, och jag får inte de ordlistor jag har att fungera. Och ja, enligt alla instruktioner, ska de fungera.&lt;/p&gt;
+&lt;h5 id=&#34;nötter&#34;&gt;Nötter&lt;/h5&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I ett inlägg från november 2017, &lt;a href=&#34;https://ihinda.wordpress.com/2017/11/12/forfattande-som-programutvackling/&#34;&gt;Författande som programutväckling&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://wereturtle.github.io/ghostwriter/&#34;&gt;Ghostwriter&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://zettlr.com/&#34;&gt;Zettlr&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubuntu on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/tags/kubuntu/</link>
+    <description>Recent content in Kubuntu on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/tags/kubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mina Program 1</title>
+      <link>https://msl.chle.se/post/mina-program-1/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://msl.chle.se/post/mina-program-1/</guid>
+      <description>
+        
+          &lt;p&gt;å vilka program, på dator, Android eller på webben använder jag dagligen?&lt;/p&gt;
+&lt;p&gt;Till att börja med, det senaste halvåret är jag tillbaka in pingvinens mjuka vingar efter en utflykt till det trista och farliga stängda fönstret, där jag stått sedan jag köpte min dator för tre? fyra? år sedan.&lt;/p&gt;
+&lt;p&gt;Fråga mig inte varför jag inte tog språnget tidigare, det vet jag faktiskt inte även om min avsikt redan från början var att öppna fönstret och släppa in pingvinen. Jag började dock använda Windows och ganska snart släppte de wsl och jag började att använda denna version av kommandotolken. Sedan kom ju deras nya terminal och jag stannade kvar, precis som var MS avsikt. När jag bestämt mig föra att försöka återgå till den fria världen, släppte de det där nya, skinande som jag bara var tvungen att testa.&lt;/p&gt;
+&lt;p&gt;I våras föll dock alla stjärnor på en rad och jag tog steget bort från fönstret och jag har inte ångrat mig en sekund. Min tanke var naturligtvis att, när jag ändå var tvungen att uppdatera min server / pappas skärm, passade jag på att även byta på min laptop. Så vad bytte jag till? Att det skulle vara en smak av ubuntu var säkert, men vilken?&lt;/p&gt;
+&lt;p&gt;Efter att ha testat flera fann jag att den som lämnade det minsta fingeravtrycket på mina datorer, var faktiskt kubuntu och dess (kde) plasma, så det är det jag använder på båda apparaterna och jag kunde inte varit mer nöjd.&lt;/p&gt;
+&lt;p&gt;En av de viktigare programmen är en bra terminal. Nu har jag ju inte testat alla dessa konstiga saker som finns där ute. Men bland de jag faktiskt testat, är plasmas inbyggda, Konsole, den jag tycker är bäst om. För Linux.  Hur konstigt det än låter, saknar jag faktiskt Windows Terminal.&lt;/p&gt;
+&lt;p&gt;Jag använder även tmux. Dels till att kunna hålla mina sessioner vid liv om nu terminalen skulle råka stängas. Dels till att dela upp den i olika &amp;quot;rutor&amp;quot; med egna underterminaler.&lt;/p&gt;
+&lt;p&gt;Ett annan mycket viktigt program i dagens läge är ju webbläsaren. Så vilken använder jag då? Det finns ju i princip tre renderingsmotor kvar på marknaden, webbkit, blink och gecko. Webkit använda idag uteslutande av crApples Safari men har sitt ursprung i Linux, för att vara med exakt, i den nu insomnade Konquestor. Blink, som är motorn i chromium, har sina rötter i webkit, men är idag den motorn som används i flest webbläsare men även i till exempel sådant som Electron och liknade produkter. Sen har vi ju gecko, Mozillas motor som går tillbaka till netskapes glada dagar och återfinns framför allt i firefox.&lt;/p&gt;
+&lt;p&gt;Det sagt, jag använder i första hand Firefox såsom min primära webbläsare, men använder även Vivaldi, en av alla dessa blinkande saker. Framför allt för att kunna hålla isär mina konton från nasses. Om jag skulle behöva gära något i privat i en läsare som inte är firefox, använder jag faktiskt Google Chrome&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

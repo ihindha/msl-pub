@@ -53,7 +53,7 @@
     <loc>https://msl.chle.se/categories/meta/</loc>
     <lastmod>2021-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/categories/mitt-skrivande-liv/</loc>
+    <loc>https://msl.chle.se/tags/mitt-skrivande-liv/</loc>
     <lastmod>2021-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/nystart/</loc>
@@ -152,16 +152,13 @@
     <loc>https://msl.chle.se/tags/tr%C3%A4linnan/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/categories/ihin%C3%B0atankar/</loc>
+    <loc>https://msl.chle.se/tags/ihin%C3%B0a/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/liten-sprakhistoria/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/spr%C3%A5k/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/spr%C3%A5khistoria/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/christopher-paolinis/</loc>
@@ -197,12 +194,41 @@
     <loc>https://msl.chle.se/post/hello-world/</loc>
     <lastmod>2021-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>https://msl.chle.se/tags/nanowrimo/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/index/</loc>
+    <loc>https://msl.chle.se/post/nanowrimo-rapport-1/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/usa/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/varghamn/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/atom/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/electron/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/foliant/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/series/mina-program-20/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/mina-program-3/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/obsidian/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/okular/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/series/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -218,5 +244,259 @@
                 hreflang="sv"
                 href="https://msl.chle.se/series/"
                 />
+  </url><url>
+    <loc>https://msl.chle.se/tags/timeline/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/typora/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/visual-studio-code/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/zettlr/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/zotero/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/milliord/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/arets-nanowrimo-mal-med-mera/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/calibre/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/dolphine/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/foliate/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/gmail/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/krusader/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/mina-program-2/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/spotify/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/thunderbird/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/chrome/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/firefox/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/kubuntu/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/mina-program-1/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/terminal/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/tmux/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/vivaldi/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/australien/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/film-och-tv/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/h2o/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/koksvasken-netflix/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/netflix/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/star-trek/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/star-trek-discovery/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/the-bureau-of-magical-things/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/klar-med-mitt-utkast/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/utkast/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/att-overlava-nanowrimo/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/survival-kit/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/tags/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/google/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/google-och-deras-alla-tjanste/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/google-play-musik/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/musik/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/teknik/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/youtube/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/youtube-musik/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/youtube-premium/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/action/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/action-equences-and-sex-scenes-av-joshua-essoe/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/l%C3%A4sdagbok/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/sex/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/drottning-felithen-i-liv/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/ett-inl%C3%A4gg-om-inget-speciellt/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/lego/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/min-dag/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/st%C3%A4da/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/v%C3%A4der/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/litteratur/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/nobelpriset/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/nobelpriset-i-litteratur-2020/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/markdovn/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/textredigering/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/typorna/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/zettlr/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/min-skrivprocess/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/skrivprocess/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/adlibris/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/adlibris-usla-servis/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/ink%C3%B6p/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/kundtj%C3%A4nst/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/n%C3%A4thandel/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/oktober/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/planer-for-oktober/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/planering/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/september/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/en-manad-30-skrivprompter/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/skrivprompt/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/bloggen-bloggen-bloggen/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/logga/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/tema/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/ett-eget-skrivbord/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/f%C3%B6r%C3%A5det/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/skrivplats/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/milliord/</loc>
+    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/den-d%C3%A4r-dagen/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/varghamn/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/wolfblood/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/index/</loc>
   </url>
 </urlset>
