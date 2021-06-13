@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 23:17:54 +0200</lastBuildDate><atom:link href="https://msl.chle.se/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Klar Med Import</title>
+      <link>https://msl.chle.se/post/klar-med-import/</link>
+      <pubDate>Sun, 13 Jun 2021 23:17:54 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/klar-med-import/</guid>
+      <description>
+        
+          &lt;p&gt;Då var jag klar med att importera de skrivna sedan förra året från den gamla bloggen. Totalt rör det sig om trettiotvå inlägg som kom med över hit.&lt;/p&gt;
+&lt;p&gt;Anledningen till att jag inte har importerat över alla inläggen från den gamla bloggen, ja förutom att det skulle ta mig minst två dagar till och det är tid jag inte har. Även om merparten av detta arbete redan är utfört, då jag flyttade över dem till markdown när jag experimenterade med Hexo&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; för ett antal år sedan.&lt;/p&gt;
+&lt;p&gt;Trots detta, är det en del arbete att flytta över alla gamla inlägg, eftersom det naturligtvis är så att de båda programmen inte har ett kompatibelt system för metadata. Om jag ska gå efter hur lång tid det tog att flytta in de trettiotvå inläggen, skulle det som sagt ta flera dagar att få över dem till det nya formatet.&lt;/p&gt;
+&lt;p&gt;En annan aspekt av detta, är det faktum att jag &lt;em&gt;inte vill&lt;/em&gt; ha över alla inlägg från den gamla bloggen. Vad ska jag då ha att publicera när jag inte kan komma på något att skriva om?&lt;/p&gt;
+&lt;p&gt;Vad har jag nu kvar att göra? Jag ska markera alla de återpublicerade inläggen med en serie, &lt;em&gt;Från Mitt skrivande livs arkiv&lt;/em&gt; eller något sådant. Ja, sedan ska jag ju förstås lyckas hitta på ämnen att skriva om...&lt;/p&gt;
+&lt;h4 id=&#34;noter&#34;&gt;Noter&lt;/h4&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexo.io/&#34;&gt;https://hexo.io/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Hello Hugo</title>
       <link>https://msl.chle.se/post/hello-hugo/</link>
