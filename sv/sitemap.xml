@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,26 +38,29 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/tags/gamla-bloggen/</loc>
-    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+    <loc>https://msl.chle.se/post/en-epak-ar-over/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/import/</loc>
-    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/git/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/post/klar-med-import/</loc>
-    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/git.chle.se/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/categories/meta/</loc>
-    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/gitlab/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/mitt-skrivande-liv/</loc>
-    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/gitlab.com/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/server/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -73,6 +76,24 @@
                 hreflang="sv"
                 href="https://msl.chle.se/tags/"
                 />
+  </url><url>
+    <loc>https://msl.chle.se/categories/teknik/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/gamla-bloggen/</loc>
+    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/import/</loc>
+    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/klar-med-import/</loc>
+    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/meta/</loc>
+    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/mitt-skrivande-liv/</loc>
+    <lastmod>2021-06-13T23:17:54+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/gorm/</loc>
     <lastmod>2021-06-13T22:52:45+02:00</lastmod>
@@ -148,9 +169,6 @@
   </url><url>
     <loc>https://msl.chle.se/tags/versionsnummer/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/git/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/versionnumrering-build/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
@@ -384,9 +402,6 @@
     <lastmod>2020-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/musik/</loc>
-    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/teknik/</loc>
     <lastmod>2020-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/youtube/</loc>

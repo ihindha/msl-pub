@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>server on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/tags/server/</link>
+    <description>Recent content in server on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En epok är över</title>
+      <link>https://msl.chle.se/post/en-epak-ar-over/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://msl.chle.se/post/en-epak-ar-over/</guid>
+      <description>
+        
+          &lt;p&gt;Det känns faktiskt lite sorgesamt att stänga ner min egna git server (git.chle.se) till förmån för att utnyttja gitlab.com. Sedan jag installerade min server för lite över fem år sedan, har den varit en trotjänare och det känns faktiskt lite konstigt att veta att den nu är avstängd för sista gången.&lt;/p&gt;
+&lt;p&gt;Under dessa åren har det ju hänt en hel del på gitmarknaden varvid det inte länge behövs en egen server. För fem år sedan var man tvungen att betala för serverutrymme om man inte ville ha sina repos öppna till allmän beskådning. Det var ju innan github köptes upp av Microsoft&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Sedan dess har det dock hänt en hel del på denna marknaden. Det är till exempel numer fritt att skapa privata repos på både github och gitlab. Det sagt, jag har valt att migrera över allt mitt till gitlab, mycket tack vare att det trots allt är den programvaran jag är bäst hemma i. Jag menar, det är ju trots allt den som jag körde på min egna server.&lt;/p&gt;
+&lt;p&gt;Anledningen till att jag trots allt valde att flytta ut i molnet, är ju faktiskt många, men  då jag ändå var tvungen att installera en ny gitserver, då den gamla numer är utan support och därför inte bör vara riktad mot nätet.&lt;/p&gt;
+&lt;p&gt;Nu har jag bara min webserver, dns och plex servrar kvar.&lt;/p&gt;
+&lt;h4 id=&#34;noter&#34;&gt;Noter&lt;/h4&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Vilket de gjorde i oktober 18.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
