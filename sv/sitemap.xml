@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,29 +38,14 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/post/en-epak-ar-over/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/git/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/git.chle.se/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/gitlab/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/gitlab.com/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <loc>https://msl.chle.se/tags/microsoft/</loc>
+    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/server/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,6 +63,33 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/teknik/</loc>
+    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/windows/</loc>
+    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/windows-11/</loc>
+    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/windows-11/</loc>
+    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/en-epak-ar-over/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/git/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/git.chle.se/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/gitlab/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/gitlab.com/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/server/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/gamla-bloggen/</loc>
