@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,20 +38,20 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/categories/helgfr%C3%A5gan/</loc>
-    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/easywordcount.com/</loc>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/post/helgfragan-v-25/</loc>
-    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+    <loc>https://msl.chle.se/post/ordrakning/</loc>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/l%C3%A4sning/</loc>
-    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/ordr%C3%A4kning/</loc>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,6 +68,78 @@
                 href="https://msl.chle.se/tags/"
                 />
   </url><url>
+    <loc>https://msl.chle.se/categories/teknik/</loc>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/typona/</loc>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/zettlr/</loc>
+    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/d%C3%B6dlighet/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/d%C3%B6dsriket/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/fala/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/fr%C3%A5n-arkivet/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/gudar/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/series/gudar-och-od%C3%B6dlighet/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/helgon/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/ihin%C3%B0a/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/m%C3%A4nniskor/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/od%C3%B6dlighet/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/om-fala-gudar-manniskor-och-oo%C3%B6dlighet/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/series/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://msl.chle.se/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://msl.chle.se/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://msl.chle.se/series/"
+                />
+  </url><url>
+    <loc>https://msl.chle.se/categories/skrivande/</loc>
+    <lastmod>2021-06-29T12:24:18+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/helgfr%C3%A5gan/</loc>
+    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/helgfragan-v-25/</loc>
+    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/l%C3%A4sning/</loc>
+    <lastmod>2021-06-26T10:26:48+02:00</lastmod>
+  </url><url>
     <loc>https://msl.chle.se/tags/eb%C3%B6cker/</loc>
     <lastmod>2021-06-26T09:29:03+02:00</lastmod>
   </url><url>
@@ -75,9 +147,6 @@
     <lastmod>2021-06-26T09:29:03+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/microsoft/</loc>
-    <lastmod>2021-06-25T14:09:18+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/teknik/</loc>
     <lastmod>2021-06-25T14:09:18+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/windows/</loc>
@@ -188,9 +257,6 @@
     <loc>https://msl.chle.se/tags/ubuntu-server/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/categories/skrivande/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/post/versionnumrering2/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -223,9 +289,6 @@
   </url><url>
     <loc>https://msl.chle.se/tags/tr%C3%A4linnan/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/ihin%C3%B0a/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/liten-sprakhistoria/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
@@ -296,24 +359,6 @@
     <loc>https://msl.chle.se/tags/okular/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/series/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://msl.chle.se/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://msl.chle.se/pt/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://msl.chle.se/series/"
-                />
-  </url><url>
     <loc>https://msl.chle.se/tags/timeline/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -321,9 +366,6 @@
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/visual-studio-code/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/zettlr/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/zotero/</loc>

@@ -7,7 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Jun 2021 14:09:18 +0200</lastBuildDate><atom:link href="https://msl.chle.se/categories/teknik/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 14:07:52 +0200</lastBuildDate><atom:link href="https://msl.chle.se/categories/teknik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ordräkning</title>
+      <link>https://msl.chle.se/post/ordrakning/</link>
+      <pubDate>Tue, 29 Jun 2021 14:07:52 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/ordrakning/</guid>
+      <description>
+        
+          &lt;p&gt;För mig som ju räknar hur många ord jag skrivit som det sättet jag mäter mitt skrivande fortskrider, är det naturligtvis mycket viktigt att man kan lita på det ordantal som man får presenterat för sig. När det så visar sig att det finns en diskrepans i hur många ord det &lt;em&gt;borde vara&lt;/em&gt; med hur många &lt;em&gt;det faktisk är,&lt;/em&gt; är naturligtvis jobbigt.&lt;/p&gt;
+&lt;p&gt;Den senaste tiden har jag använt Typora&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; då det har ett par funktioner som jag föredrar över Zettlr, såsom ett betydligt bättre sätt att hantera ett skrivprojekt; stavningskontroll&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;; och för att inte tala om att det &lt;em&gt;bara har ett dokument i varje fönster&lt;/em&gt; och inte några eländiga flikar.&lt;/p&gt;
+&lt;p&gt;Hur som helst, när jag i söndags (27:de) hade mitt vanliga lilla skrivpass med v003, verkar det som min hela denna process för programmet har hamnat helt ur synk så till den grad att det skilde hela femhundra ord! För att vara exakt, femhundratolv ord, vilket för mig verkar som en aning för rund summa för att inte vara en bugg.&lt;/p&gt;
+&lt;p&gt;När jag sedan kontrollerade detta ordräknande med andra appar och webbsidor, visade det sig att de alla hade ett något udda svar på frågan, hur många ord det fanns i den aktuella texten. Dock ska sägas att denna differens inte var större än tjugo ord, där Typora, som ju var den som är helt ute och reste, i en annan upplaga av samma fil, sa att det var 23545 ord; Zettlr säger att der bara är 23540 och easywordcount.com, en enkel sida på nätet, tycker att det är hela 23553 ord; Google Docs sa att det var 23541 och slutligen sa LibreOffice att det var 23562 ord.&lt;/p&gt;
+&lt;p&gt;Med andra ord, det är en enorm differens som jag har lite svårt att förklara, för även om man tar hänsyn till det faktumet att det bara är Zettlr och Typora som hanterar Markdown, så borde det inte vara en sådan differens som tjugotvå ord, som det är emellan LibreOffice och Zettlr.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ps.&lt;/strong&gt; Jag kom på var felet låg när det kommer till en stora differensen på 512 ord. Jag tittade på fel fil, och även om detta är lite märkligt, så ska vi jämföra med rätt fil... &lt;strong&gt;Ds.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;noter&#34;&gt;Noter&lt;/h4&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Ja, jag är mycket väl medveten om att detta är en kkommersiellprogramvara och att det kommer att kosta pengar när den väl kommer ut ur sin beta.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Visst är det irriterande att behöva installera om ordlistan varje gång man öppnar ett nytt fönster och sedan ska vi inte tala om deras sätt att ignorera min buggrapport...&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Windows 11</title>
       <link>https://msl.chle.se/post/windows-11/</link>
