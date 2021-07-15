@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-07-14T19:19:25+02:00</lastmod>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-07-14T19:19:25+02:00</lastmod>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,17 +38,26 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/categories/min-dag/</loc>
-    <lastmod>2021-07-14T19:19:25+02:00</lastmod>
+    <loc>https://msl.chle.se/categories/metablogg/</loc>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/min-nya-kalender/</loc>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/planering/</loc>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-07-14T19:19:25+02:00</lastmod>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/sol/</loc>
-    <lastmod>2021-07-14T19:19:25+02:00</lastmod>
+    <loc>https://msl.chle.se/categories/skrivande/</loc>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/system/</loc>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-07-14T19:19:25+02:00</lastmod>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,6 +73,15 @@
                 hreflang="sv"
                 href="https://msl.chle.se/tags/"
                 />
+  </url><url>
+    <loc>https://msl.chle.se/tags/tidsplan/</loc>
+    <lastmod>2021-07-15T21:39:33+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/min-dag/</loc>
+    <lastmod>2021-07-14T19:19:25+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/sol/</loc>
+    <lastmod>2021-07-14T19:19:25+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/varme/</loc>
     <lastmod>2021-07-14T19:19:25+02:00</lastmod>
@@ -121,9 +139,6 @@
                 hreflang="sv"
                 href="https://msl.chle.se/series/"
                 />
-  </url><url>
-    <loc>https://msl.chle.se/categories/skrivande/</loc>
-    <lastmod>2021-07-12T22:19:10+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/mer-om-gudar/</loc>
     <lastmod>2021-07-05T17:21:14+02:00</lastmod>
@@ -636,9 +651,6 @@
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/planer-for-oktober/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/planering/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/september/</loc>
