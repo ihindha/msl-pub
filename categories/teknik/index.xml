@@ -7,7 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 04 Jul 2021 13:05:14 +0200</lastBuildDate><atom:link href="https://msl.chle.se/categories/teknik/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 22:15:42 +0200</lastBuildDate><atom:link href="https://msl.chle.se/categories/teknik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Författande som programutveckling</title>
+      <link>https://msl.chle.se/post/forfattande-som-programutveckling/</link>
+      <pubDate>Thu, 22 Jul 2021 22:15:42 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/forfattande-som-programutveckling/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../images/kod.jpg&#34; alt=&#34;Code - Bild av Pexels från Pixabay&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Inlägget tidigare publicerat på min gamla blogg 2017-11-12. Viss redigering har förekomimit då ett par av mina länkar inte längre fungerar&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hur skall man skriva? Då menar jag inte de mer författandet utan de mer metatecknerska delarna.&lt;/p&gt;
+&lt;p&gt;Många som skriver använder en ordbehandlare såsom &lt;em&gt;Microsoft Word&lt;/em&gt;. Med detta finns det många nackdelar. Ett annat alternativ är att använda är att använda ett program avsätt för författare såsom &lt;a href=&#34;https://www.literatureandlatte.com/scrivener.php&#34;&gt;&lt;em&gt;Scrivener&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sedan finns det de författare&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; som använder en mycket gammal ordbehandlare. Dessa har den fördelen att erbjuda en störningsfri skrivmiljö.&lt;/p&gt;
+&lt;p&gt;Alla dessa metoder, har alla den nackdelen att de lagrar texten i ett binärt filformat, vilket medför att din text är låst till det programmet och är således inte bra för arkivering. Ett annat problem är att varje gång förlorar du din förra version.&lt;/p&gt;
+&lt;p&gt;Dessa är problem man löst inom programmering. Man &lt;em&gt;arbetar&lt;/em&gt; med källfiler, som man är rena textfiler. Dessutom behöver man kunna &lt;em&gt;spåra ändringar&lt;/em&gt; för att lättare hitta buggar med mera. Det är här &lt;em&gt;versionshantering kommer in&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Det finns olika filosofier för hur man skall göra versionshistorik. Antingen har man en central server som används &lt;em&gt;varje gång&lt;/em&gt; någon gjort den minsta lilla ändringen. Detta betyder att ju fler som använder förvaringskatalogen&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; behöver vara kraftfull. Exempel på denna typen är, SVN och Subversion.&lt;/p&gt;
+&lt;p&gt;Den andra metoden är att man &lt;em&gt;kopierar hela&lt;/em&gt; förvaringskatalogen till din lokala dator och gör dina ändringar, för att sedan när du är klar smälta samman den med en version på en &lt;em&gt;eller flera&lt;/em&gt; servrar. Man kan även skicka sin kod direkt till någon speciell persons kopia.&lt;/p&gt;
+&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;Att skriva sin text som &lt;em&gt;ren text&lt;/em&gt; kan leda till problem. Hur skapar man en rubrik? Detta ord är viktigare, hur markerar man det?&lt;/p&gt;
+&lt;p&gt;Ett sätt att lösa detta på är att använda sig av ett markup stilspråk Markdown&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, där du enkelt kan markera din text genom att lägga till små extra tecken, t.ex. en * för kursiv stil och två för fet.&lt;/p&gt;
+&lt;p&gt;Markdown skapades 2004 av John Gruber tillsammans med Aaron Swartz med målet att skapa möjligheten för folk &lt;em&gt;&amp;quot;att skriva med ett enkelt att läsa, enkelt att skriva rent textformat med möjligheten att att konvertera den till giltig XHTML (eller HTML).&amp;quot;&lt;/em&gt;&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+&lt;p&gt;Git är en distribuerad versionshanterings system ursprungligen skapad för att hantera källkoden till Linux kärnan. Fördelen är att man inte behöver en server, utan kan användas helt på din egen dator. Skulle du vilja kan du dessutom använda en eller flera servrar dit du kan skicka över din förörvaringskatalog till.&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Git är i och för sig ett program för kommandotolken. Det finns dock mycket bra grafiska verktyg&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; som man kan använda.&lt;/p&gt;
+&lt;h2 id=&#34;pandoc&#34;&gt;Pandoc&lt;/h2&gt;
+&lt;p&gt;För att konvertera och slå ihop dina dokument med hjälp av ett annat kommandotolksprogram, &lt;a href=&#34;http://uk.chle.se/2mgO7Kp&#34;&gt;Pandoc&lt;/a&gt;. Format som stöds är bl.a. ODT, docx, HTML, MediaWiki markup, Markdown m.f.&lt;/p&gt;
+&lt;h2 id=&#34;så-hur-gör-jag&#34;&gt;Så hur gör jag?&lt;/h2&gt;
+&lt;p&gt;För omkring tio - tolv år sedan, började jag använda WikiMedias MediaWiki för mitt skrivande. Jag skapade helt enkelt en ny sida för varje roman och noveller. Dessa fick ett eget och unikt idnummer enligt modellen typååmm-nnn, där typ är en bokstav beroendet av ämnet på historien&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Romanernas kapitel skapades som en undersida till romanens id-nummer. Första kapitlet fick namnet kapitelnnn. Om jag behövde stoppa in ett extra kapitel, fick detta ett a , b, c och vidare, efter föregående kapitlets namn.&lt;/p&gt;
+&lt;p&gt;Sedan två-tre år sedan, började jag att föra över allt hela mitt digitala arkiv till git. Till en början var det dock bara ett sätt för att följa de förändringar jag gjorde av alla mina bilder. Så småningom, efter att ha gjort en utflykt till Everynote, flyttade jag över &lt;em&gt;alla&lt;/em&gt; mina texter till git.&lt;/p&gt;
+&lt;h4 id=&#34;uppdatering-2021-07-22&#34;&gt;Uppdatering 2021-07-22&lt;/h4&gt;
+&lt;p&gt;På den tiden använde jag ett enda gitarkiv för hela mitt skrivande, men efter hand som det utökats med fler och fler texter i &lt;em&gt;fler världar&lt;/em&gt; har jag delat upp detta arkiv till ett för varje värld och i bland har jag därutöver skapat ytterligare ett arkiv, där det andra mer är min skrivbibel för just den världen.&lt;/p&gt;
+&lt;p&gt;En annan sak, jag har faktiskt inte flyttat över allt från min gamla wiki trots att detta är hög tid att jag lägger över detta till ett &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsisian&lt;/a&gt; arkiv. Det har bara inte blivit av, fast jag blir ju tvungen när jag ska föra in all information från trälinnan och då är det ju lika bra om jag flyttar över all information.&lt;/p&gt;
+&lt;h2 id=&#34;noter&#34;&gt;Noter&lt;/h2&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Såsom George R.R. Martin.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Jag har faktiskt inte sätt en bra översättning av &lt;em&gt;repository&lt;/em&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;WordPress supportsida om Markdown (&lt;a href=&#34;http://uk.chle.se/2yRhdGm&#34;&gt;http://uk.chle.se/2yRhdGm&lt;/a&gt;)&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Översatt fr. Readme filen till Markdown 1.0.1 (&lt;a href=&#34;http://uk.chle.se/2hjtHv8&#34;&gt;http://uk.chle.se/2hjtHv8&lt;/a&gt;)&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Till exempel Github (&lt;a href=&#34;https://github.io&#34;&gt;https://github.io&lt;/a&gt;). Fritt antal öppna kataloger. För att kunna ha privata kataloger får du betala.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Ett exempel är: &lt;a href=&#34;http://uk.chle.se/2mgq9za&#34;&gt;Gitkraken&lt;/a&gt;, som är fri att använda för privat bruk. Skall du tjäna pengar, för du dock köpa en årlig licens.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;i - Ihinda; e - erotik; l - legend of Elincia.&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Min nya mus</title>
       <link>https://msl.chle.se/post/min-nya-mus/</link>
