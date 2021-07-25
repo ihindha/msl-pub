@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
+    <lastmod>2021-07-25T22:50:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,8 +20,11 @@
                 href="https://msl.chle.se/"
                 />
   </url><url>
+    <loc>https://msl.chle.se/tags/camp-nano/</loc>
+    <lastmod>2021-07-25T22:50:28+02:00</lastmod>
+  </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
+    <lastmod>2021-07-25T22:50:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,29 +41,20 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/categories/fr%C3%A5n-arkivet/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/post/forfattande-som-programutveckling/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/git/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/markdown/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/pandoc/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
+    <lastmod>2021-07-25T22:50:28+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/rapport-fran-lagret-2/</loc>
+    <lastmod>2021-07-25T22:50:28+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/si%C3%B0wiz%C3%B0umihin%C3%B0a/</loc>
+    <lastmod>2021-07-25T22:50:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/skrivande/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
+    <lastmod>2021-07-25T22:50:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
+    <lastmod>2021-07-25T22:50:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -77,11 +71,26 @@
                 href="https://msl.chle.se/tags/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/categories/teknik/</loc>
+    <loc>https://msl.chle.se/tags/tr%C3%A4linnan/</loc>
+    <lastmod>2021-07-25T22:50:28+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/fr%C3%A5n-arkivet/</loc>
     <lastmod>2021-07-22T22:15:42+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/camp-nano/</loc>
-    <lastmod>2021-07-20T22:31:28+02:00</lastmod>
+    <loc>https://msl.chle.se/post/forfattande-som-programutveckling/</loc>
+    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/git/</loc>
+    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/markdown/</loc>
+    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/pandoc/</loc>
+    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/teknik/</loc>
+    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/rapport-fran-lagret/</loc>
     <lastmod>2021-07-20T22:31:28+02:00</lastmod>
@@ -405,9 +414,6 @@
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/omskrivning-och-ut%C3%B6kning/</loc>
-    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/tr%C3%A4linnan/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/liten-sprakhistoria/</loc>
