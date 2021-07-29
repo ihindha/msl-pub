@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Jul 2021 16:53:55 +0200</lastBuildDate><atom:link href="https://msl.chle.se/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 23:05:26 +0200</lastBuildDate><atom:link href="https://msl.chle.se/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Att räkna ord när man inte skriver</title>
+      <link>https://msl.chle.se/post/att-rakna-nar-man-inte-skriver/</link>
+      <pubDate>Thu, 29 Jul 2021 23:05:26 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/att-rakna-nar-man-inte-skriver/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../images/ordkatt.png&#34; alt=&#34;Ordkatt - Bild av Gordon Johnson från Pixabay&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Det är svårt att veta vilka ord man ska räkna när man inte skriver nytt utan redigerar. Jag menar, ska jag räkna alla orden en gång till? Bara räkna de nya orden? Inte räkna alls? Ska de borttagna orden dras av? Eller ska de räknas?   Ja, detta är inte lätt.&lt;/p&gt;
+&lt;p&gt;Denna månad har jag sysslat med två saker, läsa igenom &lt;em&gt;trälinnan&lt;/em&gt; och kommenterat det skrivna för att sedan föra in mina ändringar i texten. Helt ok - då räknar jag bara de orden som jag skrivit genom mina anteckningar för att sedan när jag förde in allt i texten, räknade som vanligt med att dra i från det gamla totala antalet från det nya och sedan räknat dessa som vanligt och som tur va, lyckades jag undkomma att få underskott.&lt;/p&gt;
+&lt;p&gt;Det är inte här som mina problem börjar utan de kommer snarare när jag började föra över wikin till ett obsidian valv. Det är nu inte så enkelt att jag bara kopierar texten från wikin, kodning et all. Dessa texter är skrivna i mediawiki-kod och obsidian använder ju nästan ren markdown, så den behöver ju åtmionstonde konverteras för att passa in på det nya stället.&lt;/p&gt;
+&lt;p&gt;Sedan är det ju så att wikin inte blivit uppdaterad på ett par år och därför innehåller en det direkta felaktigheter. Dessa texter har jag skrivit om, vissa från början medan andra snarare blivit redigerade.&lt;/p&gt;
+&lt;p&gt;Nu har jag i princip räknat hela den nya textens längd, oavsett om den är nyskriven eller inte. I de mest extrema fallen har jag dock valt att bara räknat hälften av min text. Trots detta har det blivit lite mer än 7 500 ord på detta viset.&lt;/p&gt;
+&lt;p&gt;Så mitt svar, det beror nog mycket på situationen om de räknas eller inte.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Ihinðisk arkeologi</title>
       <link>https://msl.chle.se/post/ihindisk-arkelogi/</link>

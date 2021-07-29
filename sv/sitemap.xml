@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
+    <lastmod>2021-07-29T23:05:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,8 +20,11 @@
                 href="https://msl.chle.se/"
                 />
   </url><url>
+    <loc>https://msl.chle.se/post/att-rakna-nar-man-inte-skriver/</loc>
+    <lastmod>2021-07-29T23:05:26+02:00</lastmod>
+  </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
+    <lastmod>2021-07-29T23:05:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,23 +41,20 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/post/ihindisk-arkelogi/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
+    <lastmod>2021-07-29T23:05:26+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/redigera/</loc>
+    <lastmod>2021-07-29T23:05:26+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/skrivande/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
+    <lastmod>2021-07-29T23:05:26+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/tag_name1/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/tag_name2/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/skrivf%C3%B6lj/</loc>
+    <lastmod>2021-07-29T23:05:26+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
+    <lastmod>2021-07-29T23:05:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -70,6 +70,18 @@
                 hreflang="sv"
                 href="https://msl.chle.se/tags/"
                 />
+  </url><url>
+    <loc>https://msl.chle.se/tags/wiki/</loc>
+    <lastmod>2021-07-29T23:05:26+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/ihindisk-arkelogi/</loc>
+    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/tag_name1/</loc>
+    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/tag_name2/</loc>
+    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/camp-nano/</loc>
     <lastmod>2021-07-25T22:50:28+02:00</lastmod>
