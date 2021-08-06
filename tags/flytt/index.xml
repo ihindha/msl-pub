@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flytt on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/tags/flytt/</link>
+    <description>Recent content in flytt on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 07 Aug 2021 00:12:28 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/flytt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flyttar till Obsidian&#34;</title>
+      <link>https://msl.chle.se/post/flyttar-till-obsidian/</link>
+      <pubDate>Sat, 07 Aug 2021 00:12:28 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/flyttar-till-obsidian/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../images/obsidian.png&#34; alt=&#34;Mitt Ihinðavalv i Obsidian&#34;&gt;&lt;/p&gt;
+&lt;p&gt;De senaste dagarna har jag arbetat med att flytta över det jag har skrivit om Ihinða från en gammal installation av Mediawiki till ett valv i Obsidian. Detta är ett mycket tidsödande arbete eftersom de båda programmen egentligen inte är komparativa med varandra.&lt;/p&gt;
+&lt;p&gt;Visst använder de ett rent text baserat format, men där slutar också de att vara lika. Mediawiki är en mjukvara skriven i php med hjälp av en MySQL databas som backend (eller i detta fallet, en MariaDB bas), medan allt skrivande görs i ett eget markup format.&lt;/p&gt;
+&lt;p&gt;Obsidian å sin sida är ett program för skrivbordet (och Android eller iOS), skrivet med hjälp av Electron, vilket betyder att det är skrivet i javascript och använder helt enkelt en filstruktur. I detta fallet sker själva skrivandet i en något modifierad Markdown.&lt;/p&gt;
+&lt;p&gt;Detta gör att man måste anpassa alla artiklar till det nya formatet, vilket tar lite tid. Speciellt som jag passar på att skriva om de som jag bedömt inte höll måttet från grunden. Nu har jag dock kommit så långt att jag har fått över alla artiklar som jag anser ska flyttas över.&lt;/p&gt;
+&lt;p&gt;Nu återstår bara det svåra, att bestämma hur jag ska göra med all annan information som jag lagrat på min gamla wiki, såsom metadata om bilder och dessa bilder själva.&lt;/p&gt;
+&lt;p&gt;Vidare bestämma hur jag ska organisera det hela. Jag menar, de båda programmen hanterar ju detta på olika sätt, men jag tror att jag kommer att flytta över min kategoristruktur med en överordnad kategori som sedan delar upp sig allt finare.&lt;/p&gt;
+&lt;p&gt;Således har jag fortfarande lite att göra...&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
