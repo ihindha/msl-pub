@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,29 +38,20 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/tags/flytt/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/post/flyttar-till-obsidian/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/mediafwiki/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/ihin%C3%B0avalvet/</loc>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/obsidian/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/si%C3%B0wiz%C3%B0umihin%C3%B0a/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/skrivande/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -76,6 +67,21 @@
                 hreflang="sv"
                 href="https://msl.chle.se/tags/"
                 />
+  </url><url>
+    <loc>https://msl.chle.se/post/vidare-eskapader-med-obsidian/</loc>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/flytt/</loc>
+    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/flyttar-till-obsidian/</loc>
+    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/mediafwiki/</loc>
+    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/si%C3%B0wiz%C3%B0umihin%C3%B0a/</loc>
+    <lastmod>2021-08-07T00:12:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/da-vinci-koden/</loc>
     <lastmod>2021-08-03T18:02:04+02:00</lastmod>

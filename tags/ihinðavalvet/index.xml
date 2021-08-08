@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ihinðavalvet on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/tags/ihin%C3%B0avalvet/</link>
+    <description>Recent content in Ihinðavalvet on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 08 Aug 2021 23:38:28 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/ihin%C3%B0avalvet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vidare eskapader med Obsidian</title>
+      <link>https://msl.chle.se/post/vidare-eskapader-med-obsidian/</link>
+      <pubDate>Sun, 08 Aug 2021 23:38:28 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/vidare-eskapader-med-obsidian/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../images/obsidian.png&#34; alt=&#34;Mitt Ihinðavalv i Obsidian&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Som jag skrev senast, börjat mitt arbete med att flytt över allt jag har i min gamla mediawiki installation med &amp;quot;all&amp;quot;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; information jag har om Ihinða till ett Obsidian-valv. Därför har jag ägnat min dag till att få till en bra struktur som jag sedan kan bygga vidare på.&lt;/p&gt;
+&lt;p&gt;Därför började jag med att återuppbygga den kategoristruktur jag hade innan, med vad jag skulle säga, blandade resultat.&lt;/p&gt;
+&lt;p&gt;Jag har äntligen funnit ett sätt att göra detta på, med taggar som den huvudsakliga beståndsdelen, vidare har jag skapat en egen mapp för sidor där jag bygger upp den struktur jag vill ha. Ett alternativ till detta, vore att jag använde den inbyggda hierarkin för taggar, det är bara det att man inte kan ha mer än en väg till varje tag.&lt;/p&gt;
+&lt;p&gt;För att ta ett exempel, foo är inte samma tagg i bar/foo som i cat/foo. Detta betyder att jag inte kan bygga upp samma struktur som jag hade. En annan sak som talar emot detta, är det faktum att man faktiskt behöver skriva ut hela den långa sökvägen varje gång man använder taggen. Däremot tror jag att jag har löst hur jag ska lösa problemet med bilderna.&lt;/p&gt;
+&lt;p&gt;Visst, nu kan man ju fråga sig om det är värt allt detta arbete och det är det helt klar eftersom jag faktiskt är mycket förtjust i Obsidien. Att appen använder Markdown, är ju en mycket klar fördel.&lt;/p&gt;
+&lt;p&gt;Att den är mycket bra på att virtualisera hur allt hänger ihop med sin grafvy, är ju en av de fördelarna jag har funnit. Jag har faktiskt funnit ett par förbindelser som jag inte sett innan.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Åtminstone allt jag har skrivit om världen i digital form...&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
