@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,20 +38,38 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/tags/ihin%C3%B0avalvet/</loc>
-    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/eigeria/</loc>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/obsidian/</loc>
-    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
+    <loc>https://msl.chle.se/post/en-nymf-att-minnas/</loc>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/fr%C3%A5n-arkivet/</loc>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/imper-flumus/</loc>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/inspiration/</loc>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/nymfer/</loc>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/romerska-riket/</loc>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/sg-1/</loc>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/skrivande/</loc>
-    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
+    <lastmod>2021-08-10T23:06:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +85,12 @@
                 hreflang="sv"
                 href="https://msl.chle.se/tags/"
                 />
+  </url><url>
+    <loc>https://msl.chle.se/tags/ihin%C3%B0avalvet/</loc>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/obsidian/</loc>
+    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/vidare-eskapader-med-obsidian/</loc>
     <lastmod>2021-08-08T23:38:28+02:00</lastmod>
@@ -90,9 +114,6 @@
     <lastmod>2021-08-03T18:02:04+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/den-forlorade-symbolen-av-dan-brown/</loc>
-    <lastmod>2021-08-03T18:02:04+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/fr%C3%A5n-arkivet/</loc>
     <lastmod>2021-08-03T18:02:04+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/litteratur/</loc>
