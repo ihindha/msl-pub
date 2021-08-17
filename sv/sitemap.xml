@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,11 +20,11 @@
                 href="https://msl.chle.se/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/tags/anslagstavla/</loc>
-    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/calibre/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,23 +41,44 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/categories/min-dag/</loc>
-    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/dropbox/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/firefox/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/foliant/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/github/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/gitlab/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/kitty/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/min-appinal/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/obsidian/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/okular/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/pocket/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/skrivbord/</loc>
-    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/st%C3%A4da/</loc>
-    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/post/st%C3%A4dat-skrivbord/</loc>
-    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+    <loc>https://msl.chle.se/categories/program/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -73,6 +94,33 @@
                 hreflang="sv"
                 href="https://msl.chle.se/tags/"
                 />
+  </url><url>
+    <loc>https://msl.chle.se/tags/thunderbird/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/typorna/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/zettr/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/zotero/</loc>
+    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/anslagstavla/</loc>
+    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/min-dag/</loc>
+    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/skrivbord/</loc>
+    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/st%C3%A4da/</loc>
+    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/st%C3%A4dat-skrivbord/</loc>
+    <lastmod>2021-08-13T00:34:19+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/eigeria/</loc>
     <lastmod>2021-08-10T23:06:30+02:00</lastmod>
@@ -102,9 +150,6 @@
     <lastmod>2021-08-10T23:06:30+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/ihin%C3%B0avalvet/</loc>
-    <lastmod>2021-08-08T23:38:28+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/obsidian/</loc>
     <lastmod>2021-08-08T23:38:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/vidare-eskapader-med-obsidian/</loc>
@@ -398,9 +443,6 @@
     <loc>https://msl.chle.se/tags/git.chle.se/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/gitlab/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/tags/gitlab.com/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -563,16 +605,10 @@
     <loc>https://msl.chle.se/tags/electron/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/foliant/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/series/mina-program-20/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/mina-program-3/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/okular/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/timeline/</loc>
@@ -584,17 +620,11 @@
     <loc>https://msl.chle.se/tags/visual-studio-code/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/zotero/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/tags/milliord/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/arets-nanowrimo-mal-med-mera/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/calibre/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/dolphine/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
@@ -614,13 +644,7 @@
     <loc>https://msl.chle.se/tags/spotify/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/thunderbird/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/tags/chrome/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/firefox/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/kubuntu/</loc>
@@ -732,9 +756,6 @@
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/textredigering/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/typorna/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/zettlr/</loc>

@@ -1,13 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thunderbird on Mitt Skrivande Liv</title>
+    <title>thunderbird on Mitt Skrivande Liv</title>
     <link>https://msl.chle.se/tags/thunderbird/</link>
-    <description>Recent content in Thunderbird on Mitt Skrivande Liv</description>
+    <description>Recent content in thunderbird on Mitt Skrivande Liv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/tags/thunderbird/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 14:32:57 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/thunderbird/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Min Appinal</title>
+      <link>https://msl.chle.se/post/min-appinal/</link>
+      <pubDate>Tue, 17 Aug 2021 14:32:57 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/min-appinal/</guid>
+      <description>
+        
+          &lt;p&gt;Det var ett tag sedan jag skrev om vilka program jag använder i mitt dagliga arbete, sä det är kanske på tiden att jag gör så.&lt;/p&gt;
+&lt;p&gt;Till att börja med har det faltiskt hänt en del på denna fronten sedan jag skrev min senaset serie på den gamla bloggen.&lt;/p&gt;
+&lt;p&gt;Visst, jag använder fortfarande samma OS (Kubuntu 20.04) och därmed samma skrivbordsmiljö som då, KDE/Plasma. Hur jag använder det, har dock ändrats en del.&lt;/p&gt;
+&lt;p&gt;Då, hade jag mitt system inställt för att så mycket som det gick, efterlikna hur CerApples macOS så gut och fungerade. Absolut inte något fel i det, men sedan jag prövade detta med &lt;em&gt;[[Tiling windowmaniger]],&lt;/em&gt; så kommer jag inte byta tillbaka till att köra med ett musorgenterat arbetssätt.&lt;/p&gt;
+&lt;p&gt;För att åstakomma detta, använder jag ett skript till KWin, Kröhnkite, och är helt överlycklig över detta.&lt;/p&gt;
+&lt;h3 id=&#34;webbläsare&#34;&gt;Webbläsare&lt;/h3&gt;
+&lt;p&gt;Jag tillhör den minskande andelen av Firefox marknadsandel, men för mig är det den bästa webbläsaren. Jag kan inte leva utan deras konteinersystem, där man kan skapa &lt;em&gt;olika webbläsare&lt;/em&gt; i samma, så att säga för att sedan kunna hålla kakor och annat sådant otrevligt helt åtskilda från varandra utan att ens behöva tänka på något annat än att öppna en flik med den nya profilen. Helt enkelt en livsnödvändighet för mig, och än har jag faktiskt inte sätt något av att FF inte använder googles motor.&lt;/p&gt;
+&lt;h3 id=&#34;epost&#34;&gt;Epost&lt;/h3&gt;
+&lt;p&gt;Jag är så konservativ att jag anser att epost ska laddas hem till din egna dator inte läsas i en webbläsare. Därför använder jag helt enkelt Thunderbird. Visst är dess pressentation en aning förlegad, men det fungerar helt enligt mina önskemål.&lt;/p&gt;
+&lt;h3 id=&#34;terminalemulering&#34;&gt;Terminalemulering&lt;/h3&gt;
+&lt;p&gt;Ett stor del av mitt arbete består faktiskt av att jag är i en terminal och skriver. Allt från att uppdatera mitt system, till att trixa med git. Kort sagt, jag älskar faktiskt att vara där och skriva.&lt;/p&gt;
+&lt;p&gt;Det sagt, jag har tidigare använt mig av Plasmas standard terminal, men jag har faltiskt gått i från detta för att istället använda mig av Kitty.&lt;/p&gt;
+&lt;p&gt;Jag fick upp mina ögon för denna terminal, i samband med den kontrovers som kom sig av att dess skapare, Kovid Goyal, som förövrigt även står bakom Calibre, helt enkelt la till en funktion som talade om för användaren att det finns en ny version att hämta hem, något som inte var så populärt i vissa krätsar av mer privatintresserade individer.&lt;/p&gt;
+&lt;h3 id=&#34;skrivande-och-läsande&#34;&gt;Skrivande (och läsande)&lt;/h3&gt;
+&lt;p&gt;Så, då var vi framme vid dagens huvudnummer, de appar jag använder i mitt skrivande och läsande. Huvudsakligen använder jag mig av en handfull appar för att hålla reda på mitt skrivande och läsande.&lt;/p&gt;
+&lt;h4 id=&#34;organisation--notering-skrivande&#34;&gt;Organisation / notering /skrivande&lt;/h4&gt;
+&lt;p&gt;Till att börja med, använder jag naturligtvis Obsidien för att hålla reda på allt mitt skrivande, om det är i mitt huvudvalv, eller i  de, för aktuell värld, specifika valvet.&lt;/p&gt;
+&lt;p&gt;I huvudvalvet, går allt som jag skriver, från ressage till mina skrivpromptar. Det är även här jag skrver det mästa av mima mindre projekt, såsom denna bligg. Kort sagt, Obsidian är operativsystemet för mitt skrivande.&lt;/p&gt;
+&lt;p&gt;För att organisera mina källor, använder jag mig Zotero, ett program för detta syfte. Man har en databas över de metadata om källorna, samt att men kan länka de källor som är i elektronisk form för att enkelt kunna rå fram dem.&lt;/p&gt;
+&lt;p&gt;Vidare änvänder jag naturligtvis även just Calibre, ett program för att hålla ordning på sitt elektroniska bibliotek, för att hålla ordning på mina böcker, främst då min skönlitteratur, men även en del fakta.&lt;/p&gt;
+&lt;p&gt;För att spara ner sådant som jag kan ha användning av från nätet, använder jag mig av Pocket (som numer ägs av Mozilla, Firefox skapare och därför finns en ypperlig integration)&lt;/p&gt;
+&lt;h4 id=&#34;läsning&#34;&gt;Läsning&lt;/h4&gt;
+&lt;p&gt;Så, vad använder jag då för att läsa? Jag ska svara på detta i två led. Låt mig börja med vad jag använder på datorn.&lt;/p&gt;
+&lt;p&gt;För att läsa PDF:er, använder jag mig av Okular, Plasmas stanard för dyligt. Det är en mycket kopatibel läsare, dom inte bara tar PDF, utan faktiskt de flästa format som man kastar dess väg. Själv änvänder jag dock den bara för just PDF:er.&lt;/p&gt;
+&lt;p&gt;Vad gäller epub och fb2, så är det Foliant, som gäller. Även om det är en Gnome app, och därför en lite udda fågel under Plasma, är det den bästa läsaren för epub, jag kan tänka mig.&lt;/p&gt;
+&lt;h4 id=&#34;redigering--större-projekt&#34;&gt;Redigering / större projekt&lt;/h4&gt;
+&lt;p&gt;När det kommer till att redigera texter, finns det tyvärr inte någon bättre app än Typora, vilket är synd för det är ju den enda stängda, icke fria, programmet jag använder mig av. Det är fortfarande min standardapp när det gäller att öppna Markdown filer och jag vet inte hur jag ska klara mig när det kommer ut ur betan och ska kosta pengar, vi får helt enkelt se hur det går, men som det lutar just nu, kommer jag att köpa en liten licens om det inte är för dyrt.&lt;/p&gt;
+&lt;p&gt;Det enda alternativet till Typorna, är ju Zettlr. Det är bara det att det har gått i helt fel riktningn när det gäller dess gränssnitt och att du inte kan bestämma om du helt enkelt vill att det ska vara en massa flikar eller inte. I vilket fall, så får vi se hur det går när det kommer till den omskrivning som för tillfället pågpår. Fast det verkar inter lovande när han planerar att basera gränssnittet för linux på gnome (!)&lt;/p&gt;
+&lt;h3 id=&#34;musik&#34;&gt;Musik&lt;/h3&gt;
+&lt;p&gt;När det kommer till musik, använder jag fortfarande mig av Spotify, även om jag inte är så förtjust i deras datorapp, utan jag använder mig av min telefon.&lt;/p&gt;
+&lt;h3 id=&#34;gitlösning&#34;&gt;Gitlösning&lt;/h3&gt;
+&lt;p&gt;Sedan jag tog ner mig egna server, har jag helt enkelt använt mig av Gitlab.com såsom min huvudlösning och har nästan satt upp mitt lilla hörn på samma sätt som min egna server.&lt;/p&gt;
+&lt;p&gt;Vidare speglar jag mina repos till github. Fungerar helt utmärkt för mig.&lt;/p&gt;
+&lt;h3 id=&#34;övrigt&#34;&gt;Övrigt&lt;/h3&gt;
+&lt;p&gt;Det ända jag tenker säga utöver vad jag redan sagt, är att jag naturligtvis även använder Dropbox för att synkronisera mina filer och även för att inte helt bli av med mina data om jag förlorar min dator.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Mina Program 2</title>
       <link>https://msl.chle.se/post/mina-program-2/</link>
