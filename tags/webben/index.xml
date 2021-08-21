@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webben on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/tags/webben/</link>
+    <description>Recent content in webben on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 21:17:36 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/webben/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RSS är fortfarande mycket användbart 2021</title>
+      <link>https://msl.chle.se/post/rss-ar-fortfarande-mycket-anvandbart-2021/</link>
+      <pubDate>Fri, 20 Aug 2021 21:17:36 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/rss-ar-fortfarande-mycket-anvandbart-2021/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../images/rss.png&#34; alt=&#34;RSS kartong - Bild av OpenClipart-Vectors från Pixabay&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Jag såg på en video från Matt (The Linux Cast) &lt;a href=&#34;https://www.youtube.com/watch?v=kvITN6Md3F4&amp;amp;t=167s&#34;&gt;How Useful is RSS in 2021? - YouTube&lt;/a&gt; och han menade att RSS inte längre fyller någon annan funktion än att leverera podcasts, ett påstående som jag måste säga år helt skogen.&lt;/p&gt;
+&lt;p&gt;Visst, jag kan kanske förstå honom. Han anser ju att ett flöde ska innehålla &lt;em&gt;hela artiklen&lt;/em&gt; och att så inte är fallet, beror enkom på att man vill driva trafik till sin webbplats och därmed kunna servera en massa dålig reklam. Och när man endå är tvungen att besöka sidan, så kan det ju kvitta om de har ett &amp;quot;trasigt&amp;quot; flöde eller inte. Man kan ju bara skapa &amp;quot;RSS 2.0&amp;quot; eller något så att man kan få in reklam i flödet.&lt;/p&gt;
+&lt;p&gt;Jag vet inte om jag ska skratta eller gråta åt detta nonsens. Visst, jag kan kan ske hålla med om att RSS tagit ett steg tillbaka och inte länngre står i centrum för webbplatser. Framför allt sedan Google tog kol på sin läsare i mitten av 2013.&lt;/p&gt;
+&lt;p&gt;Det sagt, så sent som i år, satsade de faktiskt i att mordärnisera den infrastruktur som detas andra stora tjänst, FeedBurner, som serverar flöden åt olika sidor (de stängde även av epost utskocken från dessa).&lt;/p&gt;
+&lt;p&gt;Trots detta, kan du få fram ett flöde från de flästa sidor om man vet hur man ska göra.&lt;/p&gt;
+&lt;p&gt;Vad gäller hans påstående att RSS inte är så användbart eftersom man inte får hela atitklen och därför ändå måste besöka sidan, vilket man ju kan göra utan att först läst ett utdrag via flöde.&lt;/p&gt;
+&lt;p&gt;Jag vet inte riktigt var jag ska börja besvara detta. Visst kan man ju gå diräkt till en webbplats. Det är ju bara det att om man nu följer över hundra sidoe, som jag ju gör, kommer detta arbete ta en bra stund i anspråk. Först för man ju gå till sidan för att se om de publicerat något nytt sedan man var där senast. Och om så inte är fallet? Då har man slösat bort den minuten det tog att ladda sidan och för att inte tala om att man slösat med bandbredd, något som för de flästa amerikaner är en mycket dyrbar vara.&lt;/p&gt;
+&lt;p&gt;Visst, man slösar ju med bandbrädd även men ett flöde. Det är bara det att det är mer avskalat och inte innehåller all denna reklam som den tunga sidan serverar. Även av denna anledning vore det en katastof att få in reklamen i flödet. Sedan kan man ju säga att förslaget att skapa ett RSS 2.0 kanske inte är så informerat ur en annan synvinkel. Detta då den senaste versionen av RSS &lt;em&gt;är just&lt;/em&gt; 2.0 och denna standare kom ju 2009?.&lt;/p&gt;
+&lt;h3 id=&#34;hur-ser-det-ut-bland-de-flöden-jag-följer&#34;&gt;Hur ser det ut bland de flöden jag följer?&lt;/h3&gt;
+&lt;p&gt;Jag gjorde en liten undersökning på skoj över hur det ser ut bland de flönen jag följer. Till att börja med, jag följer 108 flöden. Både engelska och svenska. Till och med ett par norka och danska flöden återfinns i detta material.&lt;/p&gt;
+&lt;p&gt;Av dessa 108 flöden är det 89 som publicerar hela aritklen och således 19 som inte gör så. Hur fördelningen ser ut mällan engelska och svenska, kan jag inte svara på, då detta inte ingick i underskkningen, men jag skulle tro att det ligger kring omkring helften på båda sidor.&lt;/p&gt;
+&lt;p&gt;Det skulle visa att det är knappt en femtedel (17,6 %) av mina flöden som inte ger hels sidan, medan lite mer än fyra femtedelar (82,4 %) som faktiskt gör det.  Detta förvånade mig faktiskt lite då jag skulle trott att det var kring en fjärdedel som inte gav hela artiklen via flödet.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
