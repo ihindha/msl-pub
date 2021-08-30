@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feedme on Mitt Skrivande Liv</title>
+    <link>https://msl.chle.se/tags/feedme/</link>
+    <description>Recent content in feedme on Mitt Skrivande Liv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 29 Aug 2021 20:00:30 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/feedme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hur jag läser mina rss flöden</title>
+      <link>https://msl.chle.se/post/hur-jag-laser-mina-rss-floden/</link>
+      <pubDate>Sun, 29 Aug 2021 20:00:30 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/hur-jag-laser-mina-rss-floden/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../images/rss.png&#34; alt=&#34;RSS kartong - Bild av OpenClipart-Vectors från Pixabay&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Det får bli ytterligare ett inlägg om rss eftersom jag för har städat ut alla gamla inaktuella flöden och på så sätt lyckats komma under hundra flöden. De flesta av dessa är av sådan art att de slutat uppdatera sig på det senaste halvåret.&lt;/p&gt;
+&lt;p&gt;Jag är dock inte riktigt klar med att städa bort flöden, eftersom jag naturligtvis fortfarande följer flöden som jag inte är intresserad av och därför kan jag lika gärna ta bort dessa flöden så att de inte ligger och tar upp en massa plats som jag inte vill ha kvar.&lt;/p&gt;
+&lt;p&gt;Det är dessutom viktigare nu när jag har börjat använda Feedly igen för att hålla ordning på alla flöden. Det blev lite opraktiskt att ha alla flöden knutna till en enhet och inte längre kunna läsa på vilken enhet jag vill. Detta är faktiskt något jag saknat sedan jag stängde av min gamla webbserver och inte installerat någon ny (men det är en helt annan historia).&lt;/p&gt;
+&lt;p&gt;Sedan jag stängde av servern i april? maj? har jag använt mig av KDE:s Akreator för att läsa mina flöden. Det är egentligen inget fel på denna läsare, förutom det faktum att flödena endast går att läsa på datorn och inte på någon annan enhet och det är här som Feedly kommer i bilden.&lt;/p&gt;
+&lt;p&gt;Mina alternativ om jag nu ska kunna läsa på mer en en enhet, är ju att jag får använda en server av något slag. Antingen får jag sätta upp en ny server eller så för jag allt söka efter en dylik tjänst på nätet. Vad en egen server, så kommer jag inte att göra den den närmaste tiden, så det fick bli Feedly, med alla de begränsningar som ligger på den fria versionen.&lt;/p&gt;
+&lt;p&gt;Således blev jag tvungen att ränsa bland alla mina flöden så att jag kom under hundra stycken, eftersom det är gränsen på den fria versionen.&lt;/p&gt;
+&lt;p&gt;Till denna baksida, använder jag News Flash, en rssläsare för gnome, som trots allt är en mycket bra läsare. Vad gäller mina telefon och platta, använder jag samma app som jag använde när korde min egna server, FeedMe, och är mycket nöjd med detta.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

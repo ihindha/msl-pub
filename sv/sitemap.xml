@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-08-20T21:17:36+02:00</lastmod>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-08-20T21:17:36+02:00</lastmod>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,17 +38,26 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
+    <loc>https://msl.chle.se/tags/feedly/</loc>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/feedme/</loc>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/hur-jag-laser-mina-rss-floden/</loc>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/news-flash/</loc>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
+  </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-08-20T21:17:36+02:00</lastmod>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/rss/</loc>
-    <lastmod>2021-08-20T21:17:36+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/post/rss-ar-fortfarande-mycket-anvandbart-2021/</loc>
-    <lastmod>2021-08-20T21:17:36+02:00</lastmod>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-08-20T21:17:36+02:00</lastmod>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -66,6 +75,9 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/teknik/</loc>
+    <lastmod>2021-08-29T20:00:30+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/rss-ar-fortfarande-mycket-anvandbart-2021/</loc>
     <lastmod>2021-08-20T21:17:36+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/the-linux-cast/</loc>
