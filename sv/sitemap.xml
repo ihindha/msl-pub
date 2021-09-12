@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2021-09-09T23:26:38+02:00</lastmod>
+    <lastmod>2021-09-12T13:37:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2021-09-09T23:26:38+02:00</lastmod>
+    <lastmod>2021-09-12T13:37:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,17 +38,23 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/post/en-dag-i-mitt-rss-flode/</loc>
-    <lastmod>2021-09-09T23:26:38+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/instapaoper/</loc>
+    <lastmod>2021-09-12T13:37:49+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/mer-om-mina-rss-floden/</loc>
+    <lastmod>2021-09-12T13:37:49+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/pocket/</loc>
+    <lastmod>2021-09-12T13:37:49+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2021-09-09T23:26:38+02:00</lastmod>
+    <lastmod>2021-09-12T13:37:49+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/rss/</loc>
-    <lastmod>2021-09-09T23:26:38+02:00</lastmod>
+    <lastmod>2021-09-12T13:37:49+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2021-09-09T23:26:38+02:00</lastmod>
+    <lastmod>2021-09-12T13:37:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -66,6 +72,9 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/teknik/</loc>
+    <lastmod>2021-09-12T13:37:49+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/en-dag-i-mitt-rss-flode/</loc>
     <lastmod>2021-09-09T23:26:38+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/webben/</loc>
@@ -153,9 +162,6 @@
     <lastmod>2021-08-17T14:32:57+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/okular/</loc>
-    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/pocket/</loc>
     <lastmod>2021-08-17T14:32:57+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/program/</loc>
