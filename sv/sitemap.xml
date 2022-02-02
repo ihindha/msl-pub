@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,26 +38,17 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/post/ett-litet-inlagg-om-intet-alls/</loc>
-    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/lucifer/</loc>
-    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/min-dag/</loc>
-    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+    <loc>https://msl.chle.se/categories/l%C3%A4sande/</loc>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/sammet/</loc>
-    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/skriv/</loc>
-    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+    <loc>https://msl.chle.se/tags/tag_name2/</loc>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,13 +65,46 @@
                 href="https://msl.chle.se/tags/"
                 />
   </url><url>
+    <loc>https://msl.chle.se/tags/tbr/</loc>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/tbr-for-februari-2022/</loc>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/2022/</loc>
+    <lastmod>2022-02-01T19:20:20+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/m%C3%A5l/</loc>
+    <lastmod>2022-02-01T19:20:20+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/skrivande/</loc>
+    <lastmod>2022-02-01T19:20:20+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/uppf%C3%B6ljning/</loc>
+    <lastmod>2022-02-01T19:20:20+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/uppfoljning-av-mina-skrivmal-for-januari-2022/</loc>
+    <lastmod>2022-02-01T19:20:20+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/ett-litet-inlagg-om-intet-alls/</loc>
+    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/lucifer/</loc>
+    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/min-dag/</loc>
+    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/sammet/</loc>
+    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/skriv/</loc>
+    <lastmod>2022-01-27T15:16:56+01:00</lastmod>
+  </url><url>
     <loc>https://msl.chle.se/tags/youtube/</loc>
     <lastmod>2022-01-27T15:16:56+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/att-bygga-en-historia/</loc>
-    <lastmod>2022-01-23T19:17:31+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/skrivande/</loc>
     <lastmod>2022-01-23T19:17:31+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/skrivprocess/</loc>
@@ -95,22 +119,13 @@
     <loc>https://msl.chle.se/tags/tr%C3%A4linnan/</loc>
     <lastmod>2022-01-20T00:22:42+01:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/2022/</loc>
-    <lastmod>2022-01-16T22:46:18+01:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/post/mina-mal-for-2022/</loc>
-    <lastmod>2022-01-16T22:46:18+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/m%C3%A5l/</loc>
     <lastmod>2022-01-16T22:46:18+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/m%C3%A5l/</loc>
     <lastmod>2022-01-16T22:46:18+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/l%C3%A4aning/</loc>
-    <lastmod>2021-10-03T14:07:28+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/tbr/</loc>
     <lastmod>2021-10-03T14:07:28+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/tbr-for-oktober-21/</loc>
@@ -195,9 +210,6 @@
     <lastmod>2021-09-02T23:33:17+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/uppfolning-augusti-21/</loc>
-    <lastmod>2021-09-02T23:33:17+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/uppf%C3%B6ljning/</loc>
     <lastmod>2021-09-02T23:33:17+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/feedly/</loc>
@@ -351,9 +363,6 @@
     <lastmod>2021-07-27T16:53:55+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/tag_name1/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/tag_name2/</loc>
     <lastmod>2021-07-27T16:53:55+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/camp-nano/</loc>
