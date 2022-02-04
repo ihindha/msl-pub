@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
+    <lastmod>2022-02-04T18:33:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
+    <lastmod>2022-02-04T18:33:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,17 +38,20 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/categories/l%C3%A4sande/</loc>
-    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
+    <lastmod>2022-02-04T18:33:46+01:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/tag_name2/</loc>
-    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
+    <loc>https://msl.chle.se/categories/skrivande/</loc>
+    <lastmod>2022-02-04T18:33:46+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/skrivm%C3%A5l/</loc>
+    <lastmod>2022-02-04T18:33:46+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/skrivmal-for-februari-2022/</loc>
+    <lastmod>2022-02-04T18:33:46+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
+    <lastmod>2022-02-04T18:33:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,6 +68,12 @@
                 href="https://msl.chle.se/tags/"
                 />
   </url><url>
+    <loc>https://msl.chle.se/categories/l%C3%A4sande/</loc>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/tag_name2/</loc>
+    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
+  </url><url>
     <loc>https://msl.chle.se/tags/tbr/</loc>
     <lastmod>2022-02-01T22:03:35+01:00</lastmod>
   </url><url>
@@ -75,9 +84,6 @@
     <lastmod>2022-02-01T19:20:20+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/m%C3%A5l/</loc>
-    <lastmod>2022-02-01T19:20:20+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/skrivande/</loc>
     <lastmod>2022-02-01T19:20:20+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/uppf%C3%B6ljning/</loc>
@@ -198,9 +204,6 @@
     <lastmod>2021-09-07T23:18:26+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/mitt-skrivande-september-21/</loc>
-    <lastmod>2021-09-05T22:13:38+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/skrivm%C3%A5l/</loc>
     <lastmod>2021-09-05T22:13:38+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/skrivplan-september-21/</loc>
