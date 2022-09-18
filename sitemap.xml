@@ -7,14 +7,14 @@
   </sitemap>
   
   <sitemap>
-    <loc>https://msl.chle.se/pt/sitemap.xml</loc>
+    <loc>https://msl.chle.se/sv/sitemap.xml</loc>
+    
+      <lastmod>2022-09-18T15:40:55+02:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://msl.chle.se/sv/sitemap.xml</loc>
-    
-      <lastmod>2022-09-11T13:22:09+02:00</lastmod>
+    <loc>https://msl.chle.se/pt/sitemap.xml</loc>
     
   </sitemap>
   

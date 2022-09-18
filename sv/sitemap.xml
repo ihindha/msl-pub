@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
+    <lastmod>2022-09-18T15:40:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,11 +20,8 @@
                 href="https://msl.chle.se/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/tags/appar/</loc>
-    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
+    <lastmod>2022-09-18T15:40:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,17 +38,20 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/post/en-dag-med-appar/</loc>
-    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/eb%C3%B6cker/</loc>
+    <lastmod>2022-09-18T15:40:55+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/categories/min-dag/</loc>
-    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
+    <loc>https://msl.chle.se/categories/helgfr%C3%A5gan/</loc>
+    <lastmod>2022-09-18T15:40:55+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/halgfragan-37/</loc>
+    <lastmod>2022-09-18T15:40:55+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
+    <lastmod>2022-09-18T15:40:55+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
+    <lastmod>2022-09-18T15:40:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +67,15 @@
                 hreflang="sv"
                 href="https://msl.chle.se/tags/"
                 />
+  </url><url>
+    <loc>https://msl.chle.se/tags/appar/</loc>
+    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/en-dag-med-appar/</loc>
+    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/min-dag/</loc>
+    <lastmod>2022-09-11T13:22:09+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/teknik/</loc>
     <lastmod>2022-09-11T13:22:09+02:00</lastmod>
@@ -530,9 +539,6 @@
     <loc>https://msl.chle.se/tags/xtrfy/</loc>
     <lastmod>2021-07-04T11:42:51+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/categories/helgfr%C3%A5gan/</loc>
-    <lastmod>2021-07-02T14:17:46+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/post/helgfragan-v-26/</loc>
     <lastmod>2021-07-02T14:17:46+02:00</lastmod>
   </url><url>
@@ -586,9 +592,6 @@
   </url><url>
     <loc>https://msl.chle.se/post/helgfragan-v-25/</loc>
     <lastmod>2021-06-26T10:26:48+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/eb%C3%B6cker/</loc>
-    <lastmod>2021-06-26T09:29:03+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/helgfragan-v-24/</loc>
     <lastmod>2021-06-26T09:29:03+02:00</lastmod>
