@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
+    <lastmod>2022-10-09T23:27:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,8 +20,11 @@
                 href="https://msl.chle.se/"
                 />
   </url><url>
+    <loc>https://msl.chle.se/tags/boktag/</loc>
+    <lastmod>2022-10-09T23:27:14+02:00</lastmod>
+  </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
+    <lastmod>2022-10-09T23:27:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,20 +41,14 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/post/halgfragan-39/</loc>
-    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/helgfr%C3%A5gan/</loc>
-    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/l%C3%A4sning/</loc>
-    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
+    <lastmod>2022-10-09T23:27:14+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/taggar/</loc>
+    <lastmod>2022-10-09T23:27:14+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
+    <lastmod>2022-10-09T23:27:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,16 +65,22 @@
                 href="https://msl.chle.se/tags/"
                 />
   </url><url>
+    <loc>https://msl.chle.se/post/the-dilemmas-of-a-book-nerd-tag/</loc>
+    <lastmod>2022-10-09T23:27:14+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/halgfragan-39/</loc>
+    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/helgfr%C3%A5gan/</loc>
+    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/l%C3%A4sning/</loc>
+    <lastmod>2022-10-02T23:30:24+02:00</lastmod>
+  </url><url>
     <loc>https://msl.chle.se/post/autumn-book-tag/</loc>
     <lastmod>2022-09-25T23:56:53+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/boktag/</loc>
-    <lastmod>2022-09-25T23:56:53+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/tags/h%C3%B6sten/</loc>
-    <lastmod>2022-09-25T23:56:53+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/taggar/</loc>
     <lastmod>2022-09-25T23:56:53+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/eb%C3%B6cker/</loc>
