@@ -7,7 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 23:27:14 +0200</lastBuildDate><atom:link href="https://msl.chle.se/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 23:30:06 +0200</lastBuildDate><atom:link href="https://msl.chle.se/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian 1.0</title>
+      <link>https://msl.chle.se/post/obsidian-1.0/</link>
+      <pubDate>Sun, 16 Oct 2022 23:30:06 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/obsidian-1.0/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../images/obsidian2.png&#34; alt=&#34;Obsidians logga &#34;&gt;&lt;/p&gt;
+&lt;p&gt;Så, då var Obsidian efter över två års utvecklande äntligen ute i en första skärp version i och med att version 1.0 släpptes i fredags. Jag hade egentligen tänkt skiva om något helt annat denna vecka, en så trillar det in en helt nu version av ett av de programmen som jag använder mig allra mest av så det får vänta ett ett tag...&lt;/p&gt;
+&lt;h2 id=&#34;så-vad-är-då-nytt&#34;&gt;Så vad är då nytt?&lt;/h2&gt;
+&lt;p&gt;Den stora nyheten är flikar, som ersätter delade fönster som standardsätt att öppna en anteckning utan at ersätta den nuvarande.&lt;/p&gt;
+&lt;p&gt;Nu betyder inte detta att du inte kan använda dig av delade fönster, men det ger ju ytterligare ett sätt att navigera dina noteringar.&lt;/p&gt;
+&lt;p&gt;Dessutom har hela tema motorn fått sig en översyn, vilket medför att somliga plugins inte längre fungerar som det är tänkt. Framför allt den typen som gör stora förändringar i gränssnittet, såsom den s.k. Andy&#39;s Mode (SlidingPanes). Nu är just detta inte någon större förlust, då denna funktion numera är inbyggd.&lt;/p&gt;
+&lt;p&gt;Sedan är det naturligtvis en hel del mindre förändringar en omskrivning av både plugin och tema &lt;em&gt;&amp;quot;butikerna&amp;quot;&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;vad-tycker-jag&#34;&gt;Vad tycker jag?&lt;/h2&gt;
+&lt;p&gt;Vad ska jag säga? Roligt att ett program som jag använder, om inte dagligen, så nästan. Att både flikar och vertikala glidande paneler nu är inbyggt är för mig bara possessivt.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>The Dilemmas of a Book Nerd Tag</title>
       <link>https://msl.chle.se/post/the-dilemmas-of-a-book-nerd-tag/</link>
