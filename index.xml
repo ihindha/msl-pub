@@ -7,7 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 23:30:06 +0200</lastBuildDate><atom:link href="https://msl.chle.se/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 23:46:34 +0200</lastBuildDate><atom:link href="https://msl.chle.se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mitt Obsidian Valv</title>
+      <link>https://msl.chle.se/post/mitt-obsidian-valv/</link>
+      <pubDate>Mon, 24 Oct 2022 23:46:34 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/mitt-obsidian-valv/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;msl/obsidian2.png&#34; alt=&#34;Obsidians logotyp&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Förra veckan skrev jag &lt;a href=&#34;https://msl.chle.se/post/obsidian-1.0/&#34;&gt;ett inlägg  om att Obsidian 1.0 hade kommit ut.&lt;/a&gt; Där för tänkte jag att jag skulle skriva något om hur jag använder Obsidian i mitt skrivande.&lt;/p&gt;
+&lt;h2 id=&#34;mina-valv&#34;&gt;Mina valv&lt;/h2&gt;
+&lt;p&gt;Till att börja med använder jag inte bara ett valv utan just nu rör det sig om tre valv. Kommer kanske snart att bli fyra igen...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Huvudvalvet:&lt;/em&gt; Mitt huvudvalv, i vilket jag skriver det allra mästa av mina texter och för in min recharge. Här återfinns sådana saker som Skrivprompt; basfilerna till denna blogg; Min Läsdagbok; Mitt erotiska kladdande. Men jag har även flyttat hit Varghamn, fast vi får se hur länge den stannar i detta valvet.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ihinða:&lt;/em&gt; Mina texter om Ihinða. Vad annars 😜&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;LoE:&lt;/em&gt; &lt;em&gt;Legenden om Elincia,&lt;/em&gt; Mina texter om denna världen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Jag har nämligen under den senaste tiden sammanfogat ett antal av mina valv till mitt huvudvalv, men det kan hända att jag åter bryter ut varghamn till sitt egna valv. Vi får se, där är ju fördelar och nackdelar med båda sätten...&lt;/p&gt;
+&lt;h2 id=&#34;mitt-huvudvalv-valvet&#34;&gt;Mitt huvudvalv, &amp;quot;Valvet&amp;quot;&lt;/h2&gt;
+&lt;p&gt;Vad gäller uppbyggnaden av valvet, så kör jag med en ganska enkel sådan. Ett tjugotal mappar. Alla med en klar uppgift.&lt;/p&gt;
+&lt;p&gt;På senaste tiden har jag dessutom gjort om denna mappindelning på sådant vis att jag numera endast har en undernivå till valvet uppdelade i tio serier.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Serie 0:&lt;/strong&gt; Index till de övriga sidorna&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie 1:&lt;/strong&gt; Inkorg, ett ställe där alla nya nötter hamnar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie 2:&lt;/strong&gt; Dagliga nötter, min Min agenda och följare; Min läsdagbok ligger även här&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie 3:&lt;/strong&gt; Att göra. Min kanban för projekthantering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie 4:&lt;/strong&gt; Mitt skrivande. I alla aspekter&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie 5:&lt;/strong&gt; Tom&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie 6:&lt;/strong&gt; Librix, mitt klassifikationssystem&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie 7:&lt;/strong&gt; Tom&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie 8:&lt;/strong&gt; Meta. Mallar, filer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie 9:&lt;/strong&gt; Källor i alla former. Sidor med vad enskilda författare skrivit; Skönlitteratur. Även hela min lapplåda...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;top-10-plugins&#34;&gt;Top 10 plugins&lt;/h2&gt;
+&lt;p&gt;Trots att jag städade bort en hel drös med plugins för inte alls länge sedan, har jag över femtio installerade i mitt huvudvalv. Av dessa är drygt tio stycken obligatoriska för mitt dagliga arbete. &lt;em&gt;(ej rankade)&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;longform&#34;&gt;Longform&lt;/h3&gt;
+&lt;p&gt;En plugin för att skriva lite längre texter, såsom en roman. Du skriver varje kapitel i sin egen fil och sedan byggs dessa ihop till en lite längre markdown-fil.&lt;/p&gt;
+&lt;h3 id=&#34;fantasy-calendar&#34;&gt;Fantasy Calendar&lt;/h3&gt;
+&lt;p&gt;Jag skriver mycket fantasy i alla dess olika former. Hög som låg. För att hålla reda på när någon händelse inträffar, är det bra med en kalender för den specifika världen.&lt;/p&gt;
+&lt;h3 id=&#34;dataveiw&#34;&gt;Dataveiw&lt;/h3&gt;
+&lt;p&gt;Till skillnad mot andra stora appar för att bygga sin andra hjärna, bygger inte Obsidian på någon databas utan endast på rena markdown-filer. Detta medför du inte på ett enkelt sätt kan få alla sidor som handlar om ett specifikt ämne på ett lätt sätt. (Ja, dess sökfunktion *&lt;em&gt;är&lt;/em&gt; förträfflig 😜)&lt;/p&gt;
+&lt;p&gt;Ibland vill man dock ha något mer kraftfullt och det är här som Dataveiw kommer in. Med hjälp av ett ql (Query Language) som är mycket likt sql, kan du lätt skapa listor och tabeller över dina sidor och på så sätt behandla ditt valv som en databas.&lt;/p&gt;
+&lt;h3 id=&#34;kanban&#34;&gt;Kanban&lt;/h3&gt;
+&lt;p&gt;Vad ska jag säga, en plugin för att skapa en kanban tavla.&lt;/p&gt;
+&lt;h3 id=&#34;koreader-highlights&#34;&gt;KOReader highlights&lt;/h3&gt;
+&lt;p&gt;Jag läser mycket eböcker och dessa läser jag med just KOReader och för att få över mina markeringar och anteckningar på ett enkelt sätt använder jag mig av denna plugin&lt;/p&gt;
+&lt;h3 id=&#34;templater&#34;&gt;Templater&lt;/h3&gt;
+&lt;p&gt;Obsidian har naturligtvis en inbyggt sätt att använda sig av mallar för olika nötter. Templar utökar bara detta system.&lt;/p&gt;
+&lt;h3 id=&#34;todosit-plugin&#34;&gt;Todosit plugin&lt;/h3&gt;
+&lt;p&gt;Sedan en tid har jag gått över till att göra min att göra lista i Todoist. Dock har jag ju kvar min projekthandling i Obsidian och behöver därför en liten brygga.&lt;/p&gt;
+&lt;h3 id=&#34;vimrs-suport&#34;&gt;Vimrs suport&lt;/h3&gt;
+&lt;p&gt;Jag älskar vim och benyttjar mig av dess olika lägen i så många applikationer som möjligt. Obsidian inräknat. Dock vill jag ändra på några av standard keybinds och för att kunna göra detta, behöver jag en vimrs fil. Normalt går inte detta...&lt;/p&gt;
+&lt;h3 id=&#34;quickadd&#34;&gt;QuickAdd&lt;/h3&gt;
+&lt;p&gt;En plugin för att skapa egna kommando i Obsidan.&lt;/p&gt;
+&lt;h3 id=&#34;citations&#34;&gt;Citations&lt;/h3&gt;
+&lt;p&gt;Som referens databas använder jag mig av Zotero och Citations är en brygga mellan denna och Obsidian.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Obsidian 1.0</title>
       <link>https://msl.chle.se/post/obsidian-1.0/</link>

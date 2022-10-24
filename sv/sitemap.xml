@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2022-10-16T23:30:06+02:00</lastmod>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2022-10-16T23:30:06+02:00</lastmod>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,19 +39,19 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/tags/markdown/</loc>
-    <lastmod>2022-10-16T23:30:06+02:00</lastmod>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/mitt-obsidian-valv/</loc>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/obsidian/</loc>
-    <lastmod>2022-10-16T23:30:06+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/post/obsidian-1.0/</loc>
-    <lastmod>2022-10-16T23:30:06+02:00</lastmod>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2022-10-16T23:30:06+02:00</lastmod>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2022-10-16T23:30:06+02:00</lastmod>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,6 +69,9 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/teknik/</loc>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/obsidian-1.0/</loc>
     <lastmod>2022-10-16T23:30:06+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/boktag/</loc>
