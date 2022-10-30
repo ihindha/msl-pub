@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+    <lastmod>2022-10-30T23:33:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+    <lastmod>2022-10-30T23:33:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,20 +38,23 @@
                 href="https://msl.chle.se/categories/"
                 />
   </url><url>
-    <loc>https://msl.chle.se/tags/markdown/</loc>
-    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/nanowrimo/</loc>
+    <lastmod>2022-10-30T23:33:06+01:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/post/mitt-obsidian-valv/</loc>
-    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+    <loc>https://msl.chle.se/post/nanowrimo-2022/</loc>
+    <lastmod>2022-10-30T23:33:06+01:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/obsidian/</loc>
-    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/nanowrimo-2022/</loc>
+    <lastmod>2022-10-30T23:33:06+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+    <lastmod>2022-10-30T23:33:06+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/skrivande/</loc>
+    <lastmod>2022-10-30T23:33:06+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
-    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+    <lastmod>2022-10-30T23:33:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +70,15 @@
                 hreflang="sv"
                 href="https://msl.chle.se/tags/"
                 />
+  </url><url>
+    <loc>https://msl.chle.se/tags/markdown/</loc>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/mitt-obsidian-valv/</loc>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/obsidian/</loc>
+    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/teknik/</loc>
     <lastmod>2022-10-24T23:46:34+02:00</lastmod>
@@ -126,9 +138,6 @@
     <lastmod>2022-02-11T14:23:09+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/pennor/</loc>
-    <lastmod>2022-02-11T14:23:09+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/skrivande/</loc>
     <lastmod>2022-02-11T14:23:09+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/en-gammal-text/</loc>
@@ -778,9 +787,6 @@
   </url><url>
     <loc>https://msl.chle.se/post/hello-world/</loc>
     <lastmod>2021-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/nanowrimo/</loc>
-    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/nanowrimo-rapport-1/</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
