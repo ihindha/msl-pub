@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 23:33:06 +0100</lastBuildDate><atom:link href="https://msl.chle.se/tags/nanowrimo-2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 22:39:58 +0100</lastBuildDate><atom:link href="https://msl.chle.se/tags/nanowrimo-2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nano22: Rapport 1</title>
+      <link>https://msl.chle.se/post/nano-rapport-1/</link>
+      <pubDate>Sun, 06 Nov 2022 22:39:58 +0100</pubDate>
+      
+      <guid>https://msl.chle.se/post/nano-rapport-1/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../images/nano.png&#34; alt=&#34;NaNoWriMo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Första veckan av årets stora NaNoWriMo är redan över. Eller snarare den första kortveckan är över&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; och jag ligger lite efter mina planer.&lt;/p&gt;
+&lt;p&gt;Även om jag kom på att det nog är lite bättre om jag justerade mina ordmål en aning. Från ett mål om att skriva 850 ord om dagen (25 500 totalt) ner till att &amp;quot;bara&amp;quot; skriva 834 ord om dagen. Detta då det faktiskt passar bättre in med det övergripande målet på att skriva 25 000 ord totalt.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Så hur gick det då? Inte riktigt så så mycket som jag har trodde att jag skulle ha skrivit under de fem första dagarna. Jag skulle ha skrivit 4 170 ord. I stället har jag &amp;quot;bara&amp;quot; skrivit 3 476 ord, vilket betyder att jag skrivit 694 ord för lite.&lt;/p&gt;
+&lt;h2 id=&#34;longform&#34;&gt;Longform&lt;/h2&gt;
+&lt;p&gt;Majoriteten av denna uppkom i fredags och kan kanske bortförklaras med lite teknikstrul.&lt;/p&gt;
+&lt;p&gt;Som jag skrivit om tidigare, &lt;a href=&#34;https://uk.chle.se/3DIGm4o&#34;&gt;senast här&lt;/a&gt;, använder jag Obsidian tillsammans med dess plugin &lt;a href=&#34;https://uk.chle.se/3t7B0L2&#34;&gt;Longform&lt;/a&gt; för mitt skrivande. Lagom till NaNo, släpptes en uppdatering som mer eller mindre är en omskrivning av hela gränssnittet &lt;em&gt;och&lt;/em&gt; det underliggande formatet och därmed var helt inkompatibel med den gamla.&lt;/p&gt;
+&lt;p&gt;Slarvig som jag ju är, hade jag glömt att uppdatera mina plugins på över en vecka och gjorde detta precis innan jag skulle börja skriva för dagen.&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; Kanske inte så smart.&lt;/p&gt;
+&lt;p&gt;Så i stället för att ägna mig åt att skriva, fick jag nu försöka återskapa mitt Longform projekt. Inte så att det jag skrivit någonsin var i fara, dels för att jag ju använder mig av git, dels för att jag tog en liten backup på filerna precis innan jag började.&lt;/p&gt;
+&lt;p&gt;Efter en handfull misslyckade försök, lyckades jag tillslut dock få till katalogstrukturen som jag ville och kunde klämma ur mig 273 ord. Med tanke på mina problem får jag ju säga att jag är nöjd med detta.&lt;/p&gt;
+&lt;h2 id=&#34;avslutande-tankar-om-första-veckan&#34;&gt;Avslutande tankar om första veckan&lt;/h2&gt;
+&lt;p&gt;Allt som allt, för jag nog säga att jag är mycket nöjd med denna första vecka. Att jag sedan inte kommit lika långt i historien som jag planerat, gör inte så mycket då jag misstänkte att jag inte skulle kunna hålla historien såpass kort att jag skulle klara mig med de orden som jag tilldelat kapitlen. Så min nya bedömning är att boken, när den väl är klar, kommer att ligga någonstans mellan 75 och 100 000 ord istället för de 60 till 75 000 som jag tänkt mig.&lt;/p&gt;
+&lt;h4 id=&#34;nötter&#34;&gt;Nötter&lt;/h4&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;De första fem dagarna, jag skriver detta på söndagen ...&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;För att vara noggrann så blir det nya totala målet 25 020 ord.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Jag skriver tydligen alltid på kvällen 😅&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Nanowrimo 2022</title>
       <link>https://msl.chle.se/post/nanowrimo-2022/</link>
