@@ -7,7 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2022 13:58:19 +0100</lastBuildDate><atom:link href="https://msl.chle.se/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 14:26:53 +0100</lastBuildDate><atom:link href="https://msl.chle.se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastodon</title>
+      <link>https://msl.chle.se/post/mastodon/</link>
+      <pubDate>Sun, 11 Dec 2022 14:26:53 +0100</pubDate>
+      
+      <guid>https://msl.chle.se/post/mastodon/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../images/mastodon.png&#34; alt=&#34;Mastodon logga&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ingen har nog lyckats missa att en viss skurk köpt upp Twitter och all den drama som kommit efter detta. Det har ju skrivits metervis med artiklar om detta så jag behöver inte egna så mycket tid åt detta, mer än att jag bara ska ställa en fråga: &lt;em&gt;Hur kan man påstå att skribenter som uttrycker högeråsikter blivit undantryckta?&lt;/em&gt; Speciellt såsom dessa skribenter kommer med &lt;em&gt;bevisbara falsarier...&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Det är definitivt inte en anledning till att bara släppa igenom vad för skadligt skräp. Nog för att jag är för yttrandefrihet, men det får ju var vissa gränser!&lt;/p&gt;
+&lt;p&gt;Nåja, nog om den stackars skadeskjutna fågeln. Detta inlägg skulle ju handla om Mastodon och dess tutande. Det har ju sagts att detta elefantdjur är en ersättare till den stackar fågeln.&lt;/p&gt;
+&lt;p&gt;Detta är dock inte riktigt rätt. Visst, Mastodon är en mjukvara för mikrobloggar och en del av Fediverse och använder sig av ActivityPub som protokoll för kommunikation.&lt;/p&gt;
+&lt;p&gt;Vad betyder denna ordstapel? För att utrycka det enkelt, Mastodon är en server mjukvara för mikrobloggar som kommunicerar med varandra och liknande program så att de kan utbyta information.&lt;/p&gt;
+&lt;p&gt;Det gör att vem som helst kan sätta upp en server som sedan talar vet andra servrar och på det sättet kunna följa någon annan oavsett vilken server den har sitt konto på. Detta gör att det är omöjligt för någon rik skurk att köpa upp och förstöra.&lt;/p&gt;
+&lt;p&gt;Den bästa liknelsen är nog e-post. Jag kan ha ett konto på server A och kan skicka ett brev till någon med ett konto på server B.&lt;/p&gt;
+&lt;p&gt;När det sedan kom till mitt val av server, valde jag mastodon.nu, en av de stora svenska servrarna med omkring elvatusen användare. Jag är så nöjd med mitt val att jag för första gången har valt att stödja någon på patreon.&lt;/p&gt;
+&lt;p&gt;Mitt författar konto återfinns på &lt;a href=&#34;https://mastodon.nu/@skrivchlese&#34;&gt;@skrivchlese@mastodon.nu&lt;/a&gt; medan mitt privata finns på &lt;a href=&#34;https://mastodon.nu/@chlese&#34;&gt;@chlese@mastodon.nu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Då detta till stor del utspelade sig under november, kom det till viss dela att påverka min nanoskrivning på så vis att jag &amp;quot;råkade&amp;quot; fastna vid mitt flöde och därför inte skrev så mycket som jag kanske borde. Inte för att det gjorde så mycket, jag blev ju nöjd med mina tjugotusen och ska nog hinna bli klar med boken till den femtonde januari nästa år.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>NaNo22 Slutrapport</title>
       <link>https://msl.chle.se/post/nano-slutrapport/</link>
