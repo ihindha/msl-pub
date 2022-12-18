@@ -3,21 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2022-12-11T14:26:53+01:00</lastmod>
+    <lastmod>2022-12-18T16:42:46+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2022-12-11T14:26:53+01:00</lastmod>
+    <lastmod>2022-12-18T16:42:46+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/klarade-jag-mina-mal-2022/</loc>
+    <lastmod>2022-12-18T16:42:46+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/m%C3%A5l/</loc>
+    <lastmod>2022-12-18T16:42:46+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/m%C3%A5l/</loc>
+    <lastmod>2022-12-18T16:42:46+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/</loc>
+    <lastmod>2022-12-18T16:42:46+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/</loc>
+    <lastmod>2022-12-18T16:42:46+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/uppf%C3%B6ljning/</loc>
+    <lastmod>2022-12-18T16:42:46+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/masstodon/</loc>
     <lastmod>2022-12-11T14:26:53+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/mastodon/</loc>
-    <lastmod>2022-12-11T14:26:53+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2022-12-11T14:26:53+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/</loc>
     <lastmod>2022-12-11T14:26:53+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/teknik/</loc>
@@ -146,12 +158,6 @@
     <loc>https://msl.chle.se/tags/2022/</loc>
     <lastmod>2022-02-01T19:20:20+01:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/m%C3%A5l/</loc>
-    <lastmod>2022-02-01T19:20:20+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/uppf%C3%B6ljning/</loc>
-    <lastmod>2022-02-01T19:20:20+01:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/post/uppfoljning-av-mina-skrivmal-for-januari-2022/</loc>
     <lastmod>2022-02-01T19:20:20+01:00</lastmod>
   </url><url>
@@ -186,9 +192,6 @@
     <lastmod>2022-01-20T00:22:42+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/mina-mal-for-2022/</loc>
-    <lastmod>2022-01-16T22:46:18+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/m%C3%A5l/</loc>
     <lastmod>2022-01-16T22:46:18+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/l%C3%A4aning/</loc>
