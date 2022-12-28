@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>teknologi on Mitt Skrivande Liv</title>
+    <title>Teknologi on Mitt Skrivande Liv</title>
     <link>https://msl.chle.se/categories/teknologi/</link>
-    <description>Recent content in teknologi on Mitt Skrivande Liv</description>
+    <description>Recent content in Teknologi on Mitt Skrivande Liv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/categories/teknologi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elendiga Servrar</title>
-      <link>https://msl.chle.se/post/elendiga-servrar/</link>
+      <link>https://msl.chle.se/post/2021/05/elendiga-servrar/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/elendiga-servrar/</guid>
+      <guid>https://msl.chle.se/post/2021/05/elendiga-servrar/</guid>
       <description>
         
           &lt;p&gt;Under den senaste tiden har jag så smått börjat ersätta min gamla serverpark. Anledningen till detta, är lite olika, men huvudförklaringen är att dess version av ubuntu, 16.04, inte längre får några uppdateringar (eol).&lt;/p&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>Versionnumrering (build)</title>
-      <link>https://msl.chle.se/post/versionnumrering-build/</link>
+      <link>https://msl.chle.se/post/2021/04/versionnumrering-build/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/versionnumrering-build/</guid>
+      <guid>https://msl.chle.se/post/2021/04/versionnumrering-build/</guid>
       <description>
         
           &lt;p&gt;Det nuvarande systemet för versionshantering (och då menar jag inte git ;p) har inte riktigt vad jag skulle behöva. Ja, då menar jag inte den delen som visar textens version (x.yy) utan det är själva build numrerigen som inte riktigt fungerar som önskat.&lt;/p&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>Mina Program 3</title>
-      <link>https://msl.chle.se/post/mina-program-3/</link>
+      <link>https://msl.chle.se/post/2020/mina-program-3/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/mina-program-3/</guid>
+      <guid>https://msl.chle.se/post/2020/mina-program-3/</guid>
       <description>
         
           &lt;p&gt;Då tar vi en liten paus från NaNo:andet och fortsätter med miniserien om vilka program jag använder.&lt;/p&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>Mina Program 2</title>
-      <link>https://msl.chle.se/post/mina-program-2/</link>
+      <link>https://msl.chle.se/post/2020/mina-program-2/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/mina-program-2/</guid>
+      <guid>https://msl.chle.se/post/2020/mina-program-2/</guid>
       <description>
         
           &lt;p&gt;I denna andra delen av vilka program jag har fästa på min programlist (dock), och denna gången börjar vi från början av listan.&lt;/p&gt;
@@ -109,10 +109,10 @@
     
     <item>
       <title>Mina Program 1</title>
-      <link>https://msl.chle.se/post/mina-program-1/</link>
+      <link>https://msl.chle.se/post/2020/mina-program-1/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/mina-program-1/</guid>
+      <guid>https://msl.chle.se/post/2020/mina-program-1/</guid>
       <description>
         
           &lt;p&gt;å vilka program, på dator, Android eller på webben använder jag dagligen?&lt;/p&gt;

@@ -10,10 +10,10 @@
     <lastBuildDate>Thu, 22 Jul 2021 22:15:42 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Författande som programutveckling</title>
-      <link>https://msl.chle.se/post/forfattande-som-programutveckling/</link>
+      <link>https://msl.chle.se/post/2021/07/forfattande-som-programutveckling/</link>
       <pubDate>Thu, 22 Jul 2021 22:15:42 +0200</pubDate>
       
-      <guid>https://msl.chle.se/post/forfattande-som-programutveckling/</guid>
+      <guid>https://msl.chle.se/post/2021/07/forfattande-som-programutveckling/</guid>
       <description>
         
           &lt;p&gt;&lt;img src=&#34;../../images/kod.jpg&#34; alt=&#34;Code - Bild av Pexels från Pixabay&#34;&gt;&lt;/p&gt;
@@ -75,10 +75,10 @@
     
     <item>
       <title>En epok är över</title>
-      <link>https://msl.chle.se/post/en-epak-ar-over/</link>
+      <link>https://msl.chle.se/post/2021/06/en-epak-ar-over/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/en-epak-ar-over/</guid>
+      <guid>https://msl.chle.se/post/2021/06/en-epak-ar-over/</guid>
       <description>
         
           &lt;p&gt;Det känns faktiskt lite sorgesamt att stänga ner min egna git server (git.chle.se) till förmån för att utnyttja gitlab.com. Sedan jag installerade min server för lite över fem år sedan, har den varit en trotjänare och det känns faktiskt lite konstigt att veta att den nu är avstängd för sista gången.&lt;/p&gt;
@@ -102,10 +102,10 @@
     
     <item>
       <title>Versionnumrering (build)</title>
-      <link>https://msl.chle.se/post/versionnumrering-build/</link>
+      <link>https://msl.chle.se/post/2021/04/versionnumrering-build/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/versionnumrering-build/</guid>
+      <guid>https://msl.chle.se/post/2021/04/versionnumrering-build/</guid>
       <description>
         
           &lt;p&gt;Det nuvarande systemet för versionshantering (och då menar jag inte git ;p) har inte riktigt vad jag skulle behöva. Ja, då menar jag inte den delen som visar textens version (x.yy) utan det är själva build numrerigen som inte riktigt fungerar som önskat.&lt;/p&gt;

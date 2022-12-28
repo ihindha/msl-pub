@@ -7,13 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 13 Jun 2021 23:17:54 +0200</lastBuildDate><atom:link href="https://msl.chle.se/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Dec 2022 14:23:39 +0100</lastBuildDate><atom:link href="https://msl.chle.se/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sortering</title>
+      <link>https://msl.chle.se/post/2022/12/sortering/</link>
+      <pubDate>Wed, 28 Dec 2022 14:23:39 +0100</pubDate>
+      
+      <guid>https://msl.chle.se/post/2022/12/sortering/</guid>
+      <description>
+        
+          &lt;p&gt;Har delat upp inläggen här på bloggen så att de numera inte ligger i en enda hög utan är sorterade efter år och månad. Detta eftersom det började bli lite många inlägg och jag vill kanske döpa ett inlägg till samma namn utan att därmed behöva namnge filen till något konstigt.&lt;/p&gt;
+&lt;p&gt;Från lässynpunkt har detta inte någon praktisk betydelse eftersom jag inte skapat något nytt index för detta utan de ligger kvar i den långa raden som vanligt.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Klar Med Import</title>
-      <link>https://msl.chle.se/post/klar-med-import/</link>
+      <link>https://msl.chle.se/post/2021/06/klar-med-import/</link>
       <pubDate>Sun, 13 Jun 2021 23:17:54 +0200</pubDate>
       
-      <guid>https://msl.chle.se/post/klar-med-import/</guid>
+      <guid>https://msl.chle.se/post/2021/06/klar-med-import/</guid>
       <description>
         
           &lt;p&gt;Då var jag klar med att importera de skrivna sedan förra året från den gamla bloggen. Totalt rör det sig om trettiotvå inlägg som kom med över hit.&lt;/p&gt;
@@ -37,10 +52,10 @@
     
     <item>
       <title>Hello Hugo</title>
-      <link>https://msl.chle.se/post/hello-hugo/</link>
+      <link>https://msl.chle.se/post/2021/06/hello-hugo/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/hello-hugo/</guid>
+      <guid>https://msl.chle.se/post/2021/06/hello-hugo/</guid>
       <description>
         
           &lt;p&gt;Då har jag flyttat min nya blogg från att ha varit en del av mitt Obsidian valv till en egen webbplats byggd på Hugo&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; med temat Hugo Clarity.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Vad gäller utrymme för att publicera denna lilla sak, kommer jag att använda mig av Netify. &lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -68,10 +83,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://msl.chle.se/post/hello-world/</link>
+      <link>https://msl.chle.se/post/2021/01/hello-world/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/hello-world/</guid>
+      <guid>https://msl.chle.se/post/2021/01/hello-world/</guid>
       <description>
         
           &lt;p&gt;Jag har beslutat mig för att helt enkelt börja om med min blogg. Ny plattform, ny statrt. Nu kan tyckas, att det är vansinne att kasta bört dryga tretton års blogg.&lt;/p&gt;
@@ -84,10 +99,10 @@
     
     <item>
       <title>Bloggen, bloggen, bloggen</title>
-      <link>https://msl.chle.se/post/bloggen-bloggen-bloggen/</link>
+      <link>https://msl.chle.se/post/2020/bloggen-bloggen-bloggen/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/bloggen-bloggen-bloggen/</guid>
+      <guid>https://msl.chle.se/post/2020/bloggen-bloggen-bloggen/</guid>
       <description>
         
           &lt;p&gt;Sedan lite drykt en månad tillbaka, försöker jag ta mitt skrivande på lite mera alvar. Sedan den 27:de augusti har jag faktiskt lyckat skriva en skrivprompt om dagen, totalt tjugosex stycken. Det är även här som milliord kommer in med lite motivation.&lt;/p&gt;

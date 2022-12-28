@@ -10,10 +10,10 @@
     <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/tags/server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>En epok är över</title>
-      <link>https://msl.chle.se/post/en-epak-ar-over/</link>
+      <link>https://msl.chle.se/post/2021/06/en-epak-ar-over/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/en-epak-ar-over/</guid>
+      <guid>https://msl.chle.se/post/2021/06/en-epak-ar-over/</guid>
       <description>
         
           &lt;p&gt;Det känns faktiskt lite sorgesamt att stänga ner min egna git server (git.chle.se) till förmån för att utnyttja gitlab.com. Sedan jag installerade min server för lite över fem år sedan, har den varit en trotjänare och det känns faktiskt lite konstigt att veta att den nu är avstängd för sista gången.&lt;/p&gt;
