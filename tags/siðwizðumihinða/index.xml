@@ -10,13 +10,13 @@
     <lastBuildDate>Sat, 07 Aug 2021 00:12:28 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/si%C3%B0wiz%C3%B0umihin%C3%B0a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flyttar till Obsidian&#34;</title>
-      <link>https://msl.chle.se/post/2021/08/flyttar-till-obsidian/</link>
+      <link>https://msl.chle.se/post/2021/08/07.flyttar-till-obsidian/</link>
       <pubDate>Sat, 07 Aug 2021 00:12:28 +0200</pubDate>
       
-      <guid>https://msl.chle.se/post/2021/08/flyttar-till-obsidian/</guid>
+      <guid>https://msl.chle.se/post/2021/08/07.flyttar-till-obsidian/</guid>
       <description>
         
-          &lt;p&gt;&lt;img src=&#34;../../../../images/obsidian.png&#34; alt=&#34;Mitt Ihinðavalv i Obsidian&#34;&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;img src=&#34;../../../../images/2021/obsidian.png&#34; alt=&#34;Mitt Ihinðavalv i Obsidian&#34;&gt;&lt;/p&gt;
 &lt;p&gt;De senaste dagarna har jag arbetat med att flytta över det jag har skrivit om Ihinða från en gammal installation av Mediawiki till ett valv i Obsidian. Detta är ett mycket tidsödande arbete eftersom de båda programmen egentligen inte är komparativa med varandra.&lt;/p&gt;
 &lt;p&gt;Visst använder de ett rent text baserat format, men där slutar också de att vara lika. Mediawiki är en mjukvara skriven i php med hjälp av en MySQL databas som backend (eller i detta fallet, en MariaDB bas), medan allt skrivande görs i ett eget markup format.&lt;/p&gt;
 &lt;p&gt;Obsidian å sin sida är ett program för skrivbordet (och Android eller iOS), skrivet med hjälp av Electron, vilket betyder att det är skrivet i javascript och använder helt enkelt en filstruktur. I detta fallet sker själva skrivandet i en något modifierad Markdown.&lt;/p&gt;
@@ -31,13 +31,13 @@
     
     <item>
       <title>Rapport från lagret 2</title>
-      <link>https://msl.chle.se/post/2021/07/rapport-fran-lagret-2/</link>
+      <link>https://msl.chle.se/post/2021/07/25.rapport-fran-lagret-2/</link>
       <pubDate>Sun, 25 Jul 2021 22:50:28 +0200</pubDate>
       
-      <guid>https://msl.chle.se/post/2021/07/rapport-fran-lagret-2/</guid>
+      <guid>https://msl.chle.se/post/2021/07/25.rapport-fran-lagret-2/</guid>
       <description>
         
-          &lt;p&gt;&lt;img src=&#34;../../../../images/camp.png&#34; alt=&#34;Camp - Bild av Nicole Turner från Pixabay&#34;&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;img src=&#34;../../../../images/2021/camp.png&#34; alt=&#34;Camp - Bild av Nicole Turner från Pixabay&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Då var jag klar med införandet. Eller vad jag ska säga.&lt;/p&gt;
 &lt;p&gt;Hur som helst, jag har nu fört in mina kommentarer och ändringar i mitt manus, vilket enligt Typornas sätt att räkna nu innehåller 86 546 ord och då saknas ändå slutet så jag för se hur mycket jag behöver skriva innan jag är klar. Men jag skulle uppskatta det till att jag kommer att hamna kring hundra tusen ord innan jag är klar.&lt;/p&gt;
 &lt;p&gt;Så, då har jag bara ett par saker kvar att göra innan jag är klar med denna versionen, som ju kommer att sakna sin avslutning. Det första jag måste få klart är att flytta över det som finns skrivet om Ihinða på min gamla wiki till ett Obsidian arkiv, samt att föra in det som rör världsbygge i mitt manus.&lt;/p&gt;

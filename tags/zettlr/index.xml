@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zettlr on Mitt Skrivande Liv</title>
+    <title>zettlr on Mitt Skrivande Liv</title>
     <link>https://msl.chle.se/tags/zettlr/</link>
-    <description>Recent content in Zettlr on Mitt Skrivande Liv</description>
+    <description>Recent content in zettlr on Mitt Skrivande Liv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Tue, 29 Jun 2021 14:07:52 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/zettlr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ordräkning</title>
-      <link>https://msl.chle.se/post/2021/06/ordrakning/</link>
+      <link>https://msl.chle.se/post/2021/06/29.ordrakning/</link>
       <pubDate>Tue, 29 Jun 2021 14:07:52 +0200</pubDate>
       
-      <guid>https://msl.chle.se/post/2021/06/ordrakning/</guid>
+      <guid>https://msl.chle.se/post/2021/06/29.ordrakning/</guid>
       <description>
         
           &lt;p&gt;För mig som ju räknar hur många ord jag skrivit som det sättet jag mäter mitt skrivande fortskrider, är det naturligtvis mycket viktigt att man kan lita på det ordantal som man får presenterat för sig. När det så visar sig att det finns en diskrepans i hur många ord det &lt;em&gt;borde vara&lt;/em&gt; med hur många &lt;em&gt;det faktisk är,&lt;/em&gt; är naturligtvis jobbigt.&lt;/p&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>Mina Program 3</title>
-      <link>https://msl.chle.se/post/2020/mina-program-3/</link>
+      <link>https://msl.chle.se/post/2020/20.mina-program-3/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/2020/mina-program-3/</guid>
+      <guid>https://msl.chle.se/post/2020/20.mina-program-3/</guid>
       <description>
         
           &lt;p&gt;Då tar vi en liten paus från NaNo:andet och fortsätter med miniserien om vilka program jag använder.&lt;/p&gt;
@@ -65,10 +65,10 @@
     
     <item>
       <title>Zettlr</title>
-      <link>https://msl.chle.se/post/2020/zettlr/</link>
+      <link>https://msl.chle.se/post/2020/09.zettlr/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/2020/zettlr/</guid>
+      <guid>https://msl.chle.se/post/2020/09.zettlr/</guid>
       <description>
         
           &lt;p&gt;Som jag skrev för ett par år sedan&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, skriver jag mina texter i Markdown. Den stora fördelen med detta är att man kan koncentrera sig på texten och låta bli att ideligen pilla på dokumentets formatering.&lt;/p&gt;

@@ -10,10 +10,10 @@
     <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://msl.chle.se/tags/versionsnummer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Versionnumrering 2</title>
-      <link>https://msl.chle.se/post/2021/05/versionnumrering2/</link>
+      <link>https://msl.chle.se/post/2021/05/06.versionnumrering2/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/2021/05/versionnumrering2/</guid>
+      <guid>https://msl.chle.se/post/2021/05/06.versionnumrering2/</guid>
       <description>
         
           &lt;p&gt;Det som jag skrev föra veckan, var inte riktigt så genomtänkt, utan jag har sedan dess vidareutvecklat mitt system så att det faktiskt fungerar mycket bra.&lt;/p&gt;
@@ -100,10 +100,10 @@
     
     <item>
       <title>Versionnumrering (build)</title>
-      <link>https://msl.chle.se/post/2021/04/versionnumrering-build/</link>
+      <link>https://msl.chle.se/post/2021/04/30.versionnumrering-build/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://msl.chle.se/post/2021/04/versionnumrering-build/</guid>
+      <guid>https://msl.chle.se/post/2021/04/30.versionnumrering-build/</guid>
       <description>
         
           &lt;p&gt;Det nuvarande systemet för versionshantering (och då menar jag inte git ;p) har inte riktigt vad jag skulle behöva. Ja, då menar jag inte den delen som visar textens version (x.yy) utan det är själva build numrerigen som inte riktigt fungerar som önskat.&lt;/p&gt;
