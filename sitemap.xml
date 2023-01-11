@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2023-01-08T10:48:11+01:00</lastmod>
+    <lastmod>2023-01-11T12:26:28+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2023-01-08T10:48:11+01:00</lastmod>
+    <lastmod>2023-01-11T12:26:28+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/2023/01/11.en-lasutmaning-eller-tre/</loc>
+    <lastmod>2023-01-11T12:26:28+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/l%C3%A4sande/</loc>
+    <lastmod>2023-01-11T12:26:28+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/</loc>
+    <lastmod>2023-01-11T12:26:28+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/tag_name1/</loc>
+    <lastmod>2023-01-11T12:26:28+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/tag_name2/</loc>
+    <lastmod>2023-01-11T12:26:28+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/</loc>
+    <lastmod>2023-01-11T12:26:28+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/helgfr%C3%A5gan/</loc>
     <lastmod>2023-01-08T10:48:11+01:00</lastmod>
@@ -18,12 +36,6 @@
     <lastmod>2023-01-08T10:48:11+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/l%C3%A4sning/</loc>
-    <lastmod>2023-01-08T10:48:11+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2023-01-08T10:48:11+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/</loc>
     <lastmod>2023-01-08T10:48:11+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/bujo/</loc>
@@ -178,12 +190,6 @@
   </url><url>
     <loc>https://msl.chle.se/post/2022/02/04.skrivmal-for-februari-2022/</loc>
     <lastmod>2022-02-04T18:33:46+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/l%C3%A4sande/</loc>
-    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/tag_name2/</loc>
-    <lastmod>2022-02-01T22:03:35+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/tbr/</loc>
     <lastmod>2022-02-01T22:03:35+01:00</lastmod>
@@ -447,9 +453,6 @@
     <lastmod>2021-07-29T23:05:26+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/2021/07/27.ihindisk-arkelogi/</loc>
-    <lastmod>2021-07-27T16:53:55+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/tag_name1/</loc>
     <lastmod>2021-07-27T16:53:55+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/camp-nano/</loc>
