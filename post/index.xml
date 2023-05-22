@@ -7,7 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2023 18:27:24 +0100</lastBuildDate><atom:link href="https://msl.chle.se/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 08:00:00 +0200</lastBuildDate><atom:link href="https://msl.chle.se/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nytt system för versionsnummer?</title>
+      <link>https://msl.chle.se/post/2023/05/23.nytt-system-fof-versionnummer/</link>
+      <pubDate>Tue, 23 May 2023 08:00:00 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/2023/05/23.nytt-system-fof-versionnummer/</guid>
+      <description>
+        
+          &lt;p&gt;För ett par dagar kom jag på att det kanske är dags att få ordning på mina något godtyckliga versionsnummer för mitt skrivande. Systemet där jag börjat med 0.88 för att sedan på ett godtyckligt vis öka numret när jag känt för det. När jag nu har en historia med ett nummer på över 0.100 börjar det bli lite oöverskådligt.&lt;/p&gt;
+&lt;p&gt;Därför behövs det ett nytt system som kan tala om för mig precis var i processen en text befinner sig och det enklaste vore att helt enkelt lägga till ett extra nummer till modellen 0.x.y.z.&lt;/p&gt;
+&lt;h2 id=&#34;det-nya-systemet&#34;&gt;Det nya systemet&lt;/h2&gt;
+&lt;p&gt;Så hur ser då det nya systemet ut? Till att börja med, som jag sa är det uppbyggt kring modellen p.x.y där p står för publikation och kan antingen vara 0 eller 1. Under hela processen är inledningen &amp;quot;0&amp;quot; för att när den sedan publicerats höjas till &amp;quot;1&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Om sedan det skulle behövas någon revidering, höjs numret till ny nivå.&lt;/p&gt;
+&lt;h3 id=&#34;x-serien&#34;&gt;x serien&lt;/h3&gt;
+&lt;p&gt;För att fortsätta med det andra numret, så visar det precis var i processen historien befinner sig. Från en ide till den sista redigeringen innan den slutgilltiga publiceringen.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;0.x.0&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Betydelse&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Ide&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Synopsis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1:a utkastet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Berarbetning (Development edit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Språklig redigering (Line edit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Alfapubl&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Berarbetning (Development edit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Språklig redigering  (Line edit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Betapubl&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Berarbetning (Development edit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Språklig redigering  (Line edit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;y-serien&#34;&gt;y serien&lt;/h3&gt;
+&lt;p&gt;Vad gäller y-serien, höjs detta tal då jag finner en anledning att göra så. Det kan röra sig om så små förändringar som ett nytt kapitel  och jag därför bestämmer mig för att bygga en ny utgåva, men även så att är klar med en omgång redigeringar. Det viktiga är att jag anser att de ändringar av texten är så väsentligt förändrad att det är värt att bygga en helt ny version för min betarepo.&lt;/p&gt;
+&lt;p&gt;Den börjar &lt;em&gt;alltid&lt;/em&gt; på noll och ökas allt eftersom.&lt;/p&gt;
+&lt;h3 id=&#34;z-serien&#34;&gt;z serien&lt;/h3&gt;
+&lt;p&gt;Z-serien är egentligen ett byggnummer och är gemensamt varje repo. Normalt återfinns byggnumret, förutom i respektive repo även i Nightly-repon.&lt;/p&gt;
+&lt;h2 id=&#34;avslutande-tankar&#34;&gt;Avslutande tankar&lt;/h2&gt;
+&lt;p&gt;I de fall där en historia egentligen befinner sig på mer en nivå, utgår naturligtvis x serien utifrån den högsta nivån.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>13</title>
       <link>https://msl.chle.se/post/2023/02/13.byta-spar/</link>
