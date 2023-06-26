@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2023-05-23T08:00:00+02:00</lastmod>
+    <lastmod>2023-06-27T00:13:39+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2023-05-23T08:00:00+02:00</lastmod>
+    <lastmod>2023-06-27T00:13:39+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/post/2023/05/23.nytt-system-fof-versionnummer/</loc>
-    <lastmod>2023-05-23T08:00:00+02:00</lastmod>
+    <loc>https://msl.chle.se/tags/git/</loc>
+    <lastmod>2023-06-27T00:13:39+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/2023/06/26.git-har-jag-nagot-flyt/</loc>
+    <lastmod>2023-06-27T00:13:39+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/git-flow/</loc>
+    <lastmod>2023-06-27T00:13:39+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2023-05-23T08:00:00+02:00</lastmod>
+    <lastmod>2023-06-27T00:13:39+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/skrivande/</loc>
-    <lastmod>2023-05-23T08:00:00+02:00</lastmod>
+    <lastmod>2023-06-27T00:13:39+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/</loc>
+    <lastmod>2023-06-27T00:13:39+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/2023/05/23.nytt-system-fof-versionnummer/</loc>
     <lastmod>2023-05-23T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/versionsnummera/</loc>
@@ -570,9 +579,6 @@
     <lastmod>2021-07-22T22:15:42+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/2021/07/22.forfattande-som-programutveckling/</loc>
-    <lastmod>2021-07-22T22:15:42+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/git/</loc>
     <lastmod>2021-07-22T22:15:42+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/pandoc/</loc>

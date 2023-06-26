@@ -7,7 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jul 2021 22:15:42 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 00:13:39 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git - Har jag något flyt?</title>
+      <link>https://msl.chle.se/post/2023/06/26.git-har-jag-nagot-flyt/</link>
+      <pubDate>Tue, 27 Jun 2023 00:13:39 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/2023/06/26.git-har-jag-nagot-flyt/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../../../images/2023/git-flyt.jpg&#34; alt=&#34;Git&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Jag har vid flera tillfällen skrivit att jag ser git som en viktig del av mitt skrivande. Jag har dock inte skrivit någoting om hur min jag ordnat mina repos och eftersom jag nyligen ändrat inställning något, tycks det mig att detta är en ypperlig tidpunkt att skriva ett litet inlägg om hur jag ordnat det hela...&lt;/p&gt;
+&lt;p&gt;Till att börja med, har jag delat upp allt i tre plus en repo, en för varje värld jag skriver i, Ihinða, Legenden om Elincia och Varghamn. Därtill har jag min repo för mitt huvudvalv, i vilket jag för utom min Zettelkasten, även har samlat denna blogg, mitt promptskrivande m.m.&lt;/p&gt;
+&lt;p&gt;Därutöver har jag tre skrivrelaterade repos, en i vilken jag för över den text jag för tillfället arbetat på efter dagens slut, en &lt;em&gt;nightly&lt;/em&gt; repo och en förde texter som jag lagt på is för tillfället. Den sista är helt enkelt den för publicering av denna blogg och innehåller naturligtvis min hugo installation...&lt;/p&gt;
+&lt;h2 id=&#34;uppställning&#34;&gt;Uppställning&lt;/h2&gt;
+&lt;p&gt;Till att börja med, jag är en av alla de &amp;quot;masterråttornaa&amp;quot; som kämpat mot den usla &amp;quot;main-grenen.&amp;quot; Men nu i och med denna senaste omorganisation har finns ingen master-gren kvar och även om det nu tagit dig in en main-gren. Det ska dock sägas att det inte är den som är repons Master utan det är en gren som heter &lt;em&gt;public.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;public&#34;&gt;Public&lt;/h3&gt;
+&lt;p&gt;Public är den &amp;quot;publikt vända grenen&amp;quot;, ja om nu repon varit publik, och alltså den gren till vilken alla de övriga så småningom alltid hamnar. Denna är även skyddad så att jag inte kan trycka över några ändringar utan den kan endast ändras genom en merge request.&lt;/p&gt;
+&lt;h3 id=&#34;main&#34;&gt;Main&lt;/h3&gt;
+&lt;p&gt;Som jag sa, jag har en Main gren och är den gren som jag använder för att uppdatera public med. Inget egentligt arbete förekommer på denna gren men det kan förekomma en och annan commit då git flow fått fnatt.&lt;/p&gt;
+&lt;h3 id=&#34;dev&#34;&gt;Dev&lt;/h3&gt;
+&lt;p&gt;Dev-grenen är den gren som hela tiden används. Det är från denna grenen de andra grenarna utgår från och återvänder. När jag är klar med den text jag arbetar med för närvarande, slås den samman med Main för vidare transport till public.&lt;/p&gt;
+&lt;h4 id=&#34;a&#34;&gt;a/&lt;/h4&gt;
+&lt;p&gt;Grenar med a-prefixet är en arbetsgren. Här skrivs och redigeras min text, ett kapitel i taget, för att senan föras över på dev.&lt;/p&gt;
+&lt;h4 id=&#34;u&#34;&gt;u/&lt;/h4&gt;
+&lt;p&gt;Gren för uppgradering av Obsidians olika plug-ins.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Författande som programutveckling</title>
       <link>https://msl.chle.se/post/2021/07/22.forfattande-som-programutveckling/</link>
