@@ -3,24 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2023-07-18T00:39:23+02:00</lastmod>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/activity-pub/</loc>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/bookwyrm/</loc>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2023-07-18T00:39:23+02:00</lastmod>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/post/2023/07/17.halvvags_genom_redigering_v001/</loc>
-    <lastmod>2023-07-18T00:39:23+02:00</lastmod>
+    <loc>https://msl.chle.se/post/2023/07/23.federerad-lasdagbok/</loc>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/fediverse/</loc>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/goodreads/</loc>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/l%C3%A4sande/</loc>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/</loc>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/</loc>
+    <lastmod>2023-07-23T22:00:45+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/2023/07/17.halvvags_genom_redigering_v001/</loc>
     <lastmod>2023-07-18T00:39:23+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/redigering/</loc>
     <lastmod>2023-07-18T00:39:23+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/skrivande/</loc>
-    <lastmod>2023-07-18T00:39:23+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/</loc>
     <lastmod>2023-07-18T00:39:23+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/v001/</loc>
@@ -150,9 +168,6 @@
     <lastmod>2023-01-15T22:34:28+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/2023/01/11.en-lasutmaning-eller-tre/</loc>
-    <lastmod>2023-01-11T12:26:28+01:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/l%C3%A4sande/</loc>
     <lastmod>2023-01-11T12:26:28+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/tag_name1/</loc>
