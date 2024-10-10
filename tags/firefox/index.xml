@@ -7,7 +7,75 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 Aug 2021 14:32:57 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Oct 2024 12:45:01 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Att hitta lugnet på webben: Varför jag lämnade Firefox för Zen Browser</title>
+      <link>https://msl.chle.se/post/2024/01.att-hitta-lugnet-pa-webben/</link>
+      <pubDate>Thu, 10 Oct 2024 12:45:01 +0200</pubDate>
+      
+      <guid>https://msl.chle.se/post/2024/01.att-hitta-lugnet-pa-webben/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../../../images/2024/zen.png&#34; alt=&#34;Webbläsaren Zen &#34;&gt;&lt;/p&gt;
+&lt;p&gt;Åtminstone sedan jag började köra linux på heltid för snart tjugo år sedan, har jag även kört med Firefox. Inte så att det uteslutande varit ff jag använt, utan jag har ju haft mina svaga, även om de är korta, stunder när jag använt Chrome som min första webbläsare. Men jag har alltid återvänt till min älskade eldsräv.&lt;/p&gt;
+&lt;p&gt;Trots alla dessa webbläsare, som det ju går tretton på dussinet, bygger på Chrome och därmed saknar en av, för mig, väsentlig funktionerna, nämligen den att så att säga ha flera webbläsare i en.&lt;/p&gt;
+&lt;p&gt;I de flesta andra läsare, med Chrome i spetsen, kan du ju bara ha en inloggning per webbplats. Att sedan Google försökt lösa detta genom att skapa någon form av multilogin för sina sidor är ju en annan sak...&lt;/p&gt;
+&lt;p&gt;Mozilas lösning på detta är att helt enkelt dela upp sin kakburk samt att göra det möjligt att skapa flera &amp;quot;virtuella webbläsare&amp;quot; med var sin kakburk. En funktionalitet som de sedan utökar i ett plugin&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; som lanserades under 2017 och eftersom jag är helt beroende av denna funktion skulle jag inte kunna byta från Firefox.&lt;/p&gt;
+&lt;h2 id=&#34;alternativ&#34;&gt;Alternativ&lt;/h2&gt;
+&lt;p&gt;De alternativa, Chromium baserade, webbläsare går ju av denna anledningen naturligtvis bort för mig. Det sagt, den av dessa som jag tycker bäst om är ju Brave, som jag använder när jag hjälper N med det han vill.&lt;/p&gt;
+&lt;p&gt;Sedna finns det ju flera webbläsare som tar en annan approach. En del har satsat på att som standard respektera användarens privatliv.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Andra går åt det andra hållet och är om möjligt än mer kränkande av privatlivet&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; än vad Googles Chrome är.&lt;/p&gt;
+&lt;h2 id=&#34;arc&#34;&gt;Arc&lt;/h2&gt;
+&lt;p&gt;Sen har vi ju den webbläsare som många, framför allt Mac, användare gärna kastar sig över: Arc, som ju trots allt nog är den läsaren som kommit närmst FF:s approge genom att dela upp allt i olika workspaces. Enligt vad jag försåt, har dessa virtuella skrivbord en egen kakburk så att du kan ha ett skrivbord för dina privata sakar medan du har en annan för ditt arbete.&lt;/p&gt;
+&lt;p&gt;Problemet med Arc är, ur min synvinkel, är ju att den inte är öppen källkod samt att den kräver ett konto på deras&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; servrar för att kunna använda den.&lt;/p&gt;
+&lt;h2 id=&#34;de-horrisonta-flikarna&#34;&gt;De horrisonta flikarna&lt;/h2&gt;
+&lt;p&gt;En annan sak som många av dessa webbläsare har gemensamt, är att du i stället för att ha alla dina flikar i en lång rad längst upp, han ha dem till sidan längs med en, vanligtvis endast den vänstra, kanten och på ett sätt som ju mer är anpassat till våra modärna ultra vida skärmar.&lt;/p&gt;
+&lt;h2 id=&#34;firefoxkloner&#34;&gt;Firefoxkloner&lt;/h2&gt;
+&lt;p&gt;Trots att de är så olika på ytan, använder du ju ändå &lt;em&gt;&amp;quot;bara Chrome kloner&amp;quot;&lt;/em&gt; som använder Googles blink motor i det närmaste har tagit över hela browsermarknaden och har omkring tre fjärdedelar av marknaden&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Visst finns det flera webbläsare som använder sig av Mozillas ödla&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;The Tor Browser och Icewolf är de som jag kommer ihåg på raken. Trots detta har den stackars ödlan bara en marknadsandel på, om jag ska vara snäll, omkring 4%.&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Därför är det bara uppfriskade att när någon annan än Mozilla bestämmer sig för att ge den stackars lilla ödlan lite kärlek.&lt;/p&gt;
+&lt;h2 id=&#34;zen-browser&#34;&gt;Zen Browser&lt;/h2&gt;
+&lt;p&gt;Den senaste månaden har jag testat en ny browser, nämligen Zen&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; som är baserad på firefox lts version.&lt;/p&gt;
+&lt;p&gt;Anledningen till att jag valt att göra så trots att den inte är färdig på långa vägar utan &amp;quot;bara&amp;quot; befinner sig på alfa stadiet, är just att den i mycket förhoppninsvs kommer att bli en webbläsare i stil med Arc, fast att den använder sig av Gecko och inte Blink.&lt;/p&gt;
+&lt;h2 id=&#34;tldr&#34;&gt;tl/dr&lt;/h2&gt;
+&lt;p&gt;De flesta webbläsarna bygger på Chronium (d.v.s. Googles Blink-motor) och samlar alla sina kakor i en enda kruka, vilket gör att du inte kan vara inloggad med flera identiteter på samma sida.&lt;/p&gt;
+&lt;p&gt;Firfox Har delat upp sin kakburk i flera för att skydda användarna från att bli förföljda av reklamförsäljare och andra otrevliga saker. Det medför även att man kan dela upp sin läsare i flera identiteter och vara inloggad på mer en en gång per sida.&lt;/p&gt;
+&lt;p&gt;Jag skulle inte kunna klara av att använda en av dessa chromekloner utan denna funktion. Vidare har jag letat efter någon läsare som använder sig av horisontella flikar.
+Allt detta kommer Zen-browser att lösa (och löser) när den väl blir klar.&lt;/p&gt;
+&lt;h2 id=&#34;fotnötter&#34;&gt;Fotnötter&lt;/h2&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mozilla/multi-account-containers&#34;&gt;Firefox Multi-Account Containers&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Hit hör till exempel just brave men även Vivaldi.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Tänker närmast på Microsofts Edge som ju girigt bakat in sin ai tjänst i läsaren.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://thebrowser.company/&#34;&gt;The Browser Company | Building Arc&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Vid en snabb kalkyl utifrån &lt;a href=&#34;https://soax.com/research/browser-market-share&#34;&gt;Browser market share: The most popular browsers of 2024&lt;/a&gt; (läst 2024-10-08)&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Den heter Gecko...&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Som bäst hade den lite över trettio procent i kring 2010.&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://zen-browser.app/&#34;&gt;Zen Browser&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Min Appinal</title>
       <link>https://msl.chle.se/post/2021/08/17.min-appinal/</link>

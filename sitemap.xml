@@ -3,10 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2023-08-22T00:20:47+02:00</lastmod>
+    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/2024/01.att-hitta-lugnet-pa-webben/</loc>
+    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2023-08-22T00:20:47+02:00</lastmod>
+    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/firefox/</loc>
+    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/</loc>
+    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/</loc>
+    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/teknik/</loc>
+    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/webbl%C3%A4sare/</loc>
+    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/zen/</loc>
+    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/2023/08/20.hinder-for-redigera/</loc>
     <lastmod>2023-08-22T00:20:47+02:00</lastmod>
@@ -14,13 +35,7 @@
     <loc>https://msl.chle.se/tags/lappask/</loc>
     <lastmod>2023-08-22T00:20:47+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2023-08-22T00:20:47+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/categories/skrivande/</loc>
-    <lastmod>2023-08-22T00:20:47+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/</loc>
     <lastmod>2023-08-22T00:20:47+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/v001/</loc>
@@ -39,9 +54,6 @@
     <lastmod>2023-08-07T18:00:45+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/snipd/</loc>
-    <lastmod>2023-08-07T18:00:45+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/categories/teknik/</loc>
     <lastmod>2023-08-07T18:00:45+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/activity-pub/</loc>
@@ -501,9 +513,6 @@
     <lastmod>2021-08-17T14:32:57+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/dropbox/</loc>
-    <lastmod>2021-08-17T14:32:57+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/firefox/</loc>
     <lastmod>2021-08-17T14:32:57+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/foliant/</loc>
