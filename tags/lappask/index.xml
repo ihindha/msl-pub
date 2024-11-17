@@ -7,7 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Aug 2023 00:20:47 +0200</lastBuildDate><atom:link href="https://msl.chle.se/tags/lappask/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Nov 2024 22:38:19 +0100</lastBuildDate><atom:link href="https://msl.chle.se/tags/lappask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>När skärmen möter pennan - hur jag blandar analogt med digitalt</title>
+      <link>https://msl.chle.se/post/2024/02.nar-pennan-moter-skarmen/</link>
+      <pubDate>Sun, 17 Nov 2024 22:38:19 +0100</pubDate>
+      
+      <guid>https://msl.chle.se/post/2024/02.nar-pennan-moter-skarmen/</guid>
+      <description>
+        
+          &lt;p&gt;&lt;img src=&#34;../../../../images/2024/nar-skarm.png&#34; alt=&#34;Penna, block och laptop - Bild från Public Domain Images - PIXNIO&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ända sedan min tid i Borås har jag varit intreserad av informationsåtervinning och för den delen även katalogisering.&lt;/p&gt;
+&lt;p&gt;Vad gäller mitt personliga skrivande (Ihinða m.m.), var jag mycket tidigt ute och nästan från början använde jag mig av MediaWiki&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; för att hålla ordning på allt mitt skrivande. Jag använde det även för att skriva mina texter inkl. min blogg för ett tag.&lt;/p&gt;
+&lt;p&gt;Det är en mycket bra mjukvara och fungerade alldeles förträffligt för det jag använde den till. Tyvärr råkade min något icke standard installation göra så att den blev svår att underhålla. Därför blev jag så småningom tvungen att söka mig någon annan stans.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Vid sidan av IhinðaWikis, kom jag så småningom&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; även att börja jag benyttja mig av markdown och fann därför ganska snart Typora&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; som då var i sin betaversion och därmed fri att använda.&lt;/p&gt;
+&lt;p&gt;Således gick min jakt vidare och mitt val kom ganska snart att landa på Zettlr&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; med vilken jag aldrig blev riktigt vän med. Jag gillade helt enkelt inte upplägget med att inte enkelt kunna öppna vilken fil som helst.&lt;/p&gt;
+&lt;p&gt;Även om jag sedan kom att köpa en licens till Typora, kom jag även att söka vig vidare i min jakt på den perfekta skivappen. En sak som trots allt var bra med att jag använde mig av Zettlr under ett litet tag, var ju att jag blev nyfiken på detta med Zettelkasten.&lt;/p&gt;
+&lt;h2 id=&#34;obsidian-och-pkm&#34;&gt;Obsidian och PKM&lt;/h2&gt;
+&lt;p&gt;Riktigt hur och exakt när jag kom att börja använda mig av Obsidian&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; kommer jag inte ihåg, men jag vat att jag var igång senast i början av oktober 2020&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; och därifrån växte mina nötter.&lt;/p&gt;
+&lt;p&gt;Ganska snart kom jag även att skapa egna valv för de olika aspekterna/världarna jag skriver i. Och eftersom jag ursprungligen hade använt mig av MediaWiki, kom upplägget för dessa att mer likna de gamla wikierna till den graden att de är organiserade enligt MW:s format så att jag även har kvar de domäner.&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; Även om jag av naturliga orsaker gjorde om dem till olika mappar.&lt;/p&gt;
+&lt;h2 id=&#34;antinet&#34;&gt;Antinet&lt;/h2&gt;
+&lt;p&gt;An någon anledning dök Scott P. Scheper&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; upp i mitt flöde och jag blev genast begeistrad i hans Antinet och hans jakt på Luhmanns zettelkasten.&lt;/p&gt;
+&lt;p&gt;Som jag vid flera tillfällen skrivit på denna blogg, har jag en förkärlek för att skriva för hand, så det föll sig naturligt att jag introductions min analoga lappask.&lt;/p&gt;
+&lt;p&gt;En annan sak som jag kom att inse efter att ha slukat Scotts videor, var hur väsentlig själva numreringen var för hur systemet fungerar. Innan dess, hade jag, som många andra, egentligen bara länkat samman våra nötter via namn, ämne, taggar o.s.v.&lt;/p&gt;
+&lt;p&gt;Men att behöva tänka till lite mer var i lappasken en specifik lapp hör hemma, är inte en brist utan em av de fundamentala arbetssättet. Ska min lapp komma bakom denna eller den andra lappen därborta?&lt;/p&gt;
+&lt;h2 id=&#34;buju&#34;&gt;Buju&lt;/h2&gt;
+&lt;p&gt;En helt annan del av mitt system som jag inte heller har digitalt, är min Bullet Journal, med vilken jag sköter min planering m.m. Man skulle nästan kunna säga att det är mitt livs operativsystem. Här för jag in de tankar, idéer m.fl. som jag har när jag sitter vid mitt skrivbord.&lt;/p&gt;
+&lt;p&gt;Därtill har jag en annan, linjerad, anteckningsbok, &lt;em&gt;Diverse noteringar&lt;/em&gt; i vilken jag för de anteckningar jag gör när jag läser. Det som Luhmann använde baksidan av sina litteraturlappar. Jag har dock funnit att det snarare är enklare att hålla dessa samman på ett ställe.&lt;/p&gt;
+&lt;p&gt;När jag inte sitter vid mitt skrivbord, använder jag dock mig mitt valv i via min telefon.&lt;/p&gt;
+&lt;h2 id=&#34;mitt-system&#34;&gt;Mitt system&lt;/h2&gt;
+&lt;p&gt;Så vad är det då som är så unikt med mitt system? Blandingen av analogt med digitalt?&lt;/p&gt;
+&lt;p&gt;Kanske inte att jag blandar samman digitalt med analogt, det gör andra som använder sig av en analog lösning. Det är snarare det sätt på hur jag gör min blandning.&lt;/p&gt;
+&lt;p&gt;En klar brist med ett analgt hanterande av kunskap, är att det är bundet till en specifik plats och inte så lätt att ta med sig och använda när man inte sitter vid sitt skrivbord. Därför fotograferar jag av alla nya lappar en gång i veckan och lägger in dessa i mitt valv.&lt;/p&gt;
+&lt;h2 id=&#34;noter&#34;&gt;Noter&lt;/h2&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Mjukvaran bakom Wikipedia&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Ja det kan även ha berott på att sa upp servern den körde på&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Omkr. 2018-19&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://typora.io/&#34;&gt;Typora — simple yet powerful Markdown reader.&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zettlr.com/&#34;&gt;Your One-Stop Publication Workbench | Zettlr&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian - Sharpen your thinking&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Vad jag kan säga är att den första dagliga noten är daterad den 9:de och är om att jag tittade på ett youtube program om att skörda nötter i Obsidian.&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Eller om de nu kallar det för prefix...&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@scottscheper&#34;&gt;https://www.youtube.com/@scottscheper&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Hinder för att redigera min bok</title>
       <link>https://msl.chle.se/post/2023/08/20.hinder-for-redigera/</link>

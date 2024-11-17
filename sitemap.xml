@@ -3,21 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://msl.chle.se/</loc>
-    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/analog/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/antinet/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/buju/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/digital/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/categories/informations%C3%A5tervinning/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/lappask/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/mediawiki/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/nikols-luhmann/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/2024/02.nar-pennan-moter-skarmen/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/obsidian/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/post/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/typora/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/zettelkasten/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
+  </url><url>
+    <loc>https://msl.chle.se/tags/zettlr/</loc>
+    <lastmod>2024-11-17T22:38:19+01:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/2024/01.att-hitta-lugnet-pa-webben/</loc>
     <lastmod>2024-10-10T12:45:01+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/categories/</loc>
-    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/tags/firefox/</loc>
-    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/post/</loc>
-    <lastmod>2024-10-10T12:45:01+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/</loc>
     <lastmod>2024-10-10T12:45:01+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/categories/teknik/</loc>
@@ -32,16 +71,10 @@
     <loc>https://msl.chle.se/post/2023/08/20.hinder-for-redigera/</loc>
     <lastmod>2023-08-22T00:20:47+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/lappask/</loc>
-    <lastmod>2023-08-22T00:20:47+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/categories/skrivande/</loc>
     <lastmod>2023-08-22T00:20:47+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/v001/</loc>
-    <lastmod>2023-08-22T00:20:47+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/zettelkasten/</loc>
     <lastmod>2023-08-22T00:20:47+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/2023/08/07.otrogen-poddlyssnare/</loc>
@@ -300,9 +333,6 @@
     <lastmod>2022-10-24T23:46:34+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/2022/10/24.mitt-obsidian-valv/</loc>
-    <lastmod>2022-10-24T23:46:34+02:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/obsidian/</loc>
     <lastmod>2022-10-24T23:46:34+02:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/post/2022/10/16.obsidian-1.0/</loc>
@@ -773,9 +803,6 @@
     <loc>https://msl.chle.se/tags/typona/</loc>
     <lastmod>2021-06-29T14:07:52+02:00</lastmod>
   </url><url>
-    <loc>https://msl.chle.se/tags/zettlr/</loc>
-    <lastmod>2021-06-29T14:07:52+02:00</lastmod>
-  </url><url>
     <loc>https://msl.chle.se/post/2021/06/29.om-fala-gudar-manniskor-och-oo%C3%B6dlighet/</loc>
     <lastmod>2021-06-29T12:24:18+02:00</lastmod>
   </url><url>
@@ -951,9 +978,6 @@
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/timeline/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://msl.chle.se/tags/typora/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://msl.chle.se/tags/visual-studio-code/</loc>
